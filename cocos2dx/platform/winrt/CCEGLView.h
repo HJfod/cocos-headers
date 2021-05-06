@@ -128,7 +128,7 @@ public:
     void setFrameZoomFactor(float fZoomFactor);
 	float getFrameZoomFactor();
     void centerWindow();
-
+    void showCursor(bool state);
     
     // static function
     /**
