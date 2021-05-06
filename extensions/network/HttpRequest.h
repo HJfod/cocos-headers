@@ -228,6 +228,13 @@ protected:
     SEL_HttpResponse            _pSelector;      /// callback function, e.g. MyLayer::onHttpResponse(CCHttpClient *sender, CCHttpResponse * response)
     void*                       _pUserData;      /// You can add your customed data here 
     std::vector<std::string>    _headers;		      /// custom http headers
+
+    RT_ADD(
+        int _requestTypeGJ;
+        bool _shouldCancel;
+        int _downloadProgress;
+        int _readTimeout;
+    )
 };
 
 NS_CC_EXT_END
