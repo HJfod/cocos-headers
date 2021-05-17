@@ -77,6 +77,8 @@ public:
     RT_REMOVE(  virtual void centerWindow();    )
     RT_ADD(     void centerWindow();            )
 
+    RT_ADD(     void showCursor(bool state);    )
+	    
     typedef void (*LPFN_ACCELEROMETER_KEYHOOK)( UINT message,WPARAM wParam, LPARAM lParam );
     void setAccelerometerKeyHook( LPFN_ACCELEROMETER_KEYHOOK lpfnAccelerometerKeyHook );
 
