@@ -289,6 +289,15 @@ extern unsigned int CC_DLL g_uNumberOfDraws;
 */
 #define RT_REMOVE(name)
 
+/** HJ_ADD
+ * This function / field might not actually exist in GD itself.
+ * 
+ * However, it has been added in these headers for ease-of-use
+ * or other equivalent reasons. It should not conflict with
+ * GD itself.
+*/
+#define HJ_ADD(...) __VA_ARGS__
+
 /** PAD
 * Add padding to a class / struct. For shifting classes /
 * structs to be aligned, if too lazy to fully reverse.

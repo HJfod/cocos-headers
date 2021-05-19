@@ -87,6 +87,11 @@ public:
      * @lua NA
      */
     CCPoint operator/(float a) const;
+
+HJ_ADD(
+    inline CCPoint operator*(const CCPoint& right) const {return CCPoint(x*right.x, y*right.y);}
+    inline CCPoint operator/(const CCPoint& right) const {return CCPoint(x/right.x, y/right.y);}
+)
     /**
      * @lua NA
      */
