@@ -53,20 +53,27 @@ class CCControlColourPicker: public CCControl
 public:
     CCControlColourPicker();
     virtual ~CCControlColourPicker();
-    virtual void setColor(const ccColor3B& colorValue);
-    virtual void setEnabled(bool bEnabled);
+    RT_REMOVE(
+        virtual void setColor(const ccColor3B& colorValue);
+        virtual void setEnabled(bool bEnabled);
+    )
 protected:
     HSV m_hsv;
-    CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
-    CC_SYNTHESIZE_RETAIN(CCControlHuePicker*, m_huePicker, HuePicker)
+    RT_REMOVE(
+        CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
+        CC_SYNTHESIZE_RETAIN(CCControlHuePicker*, m_huePicker, HuePicker)
+    )
     CC_SYNTHESIZE_RETAIN(CCSprite*, m_background, Background)
     
 public:
-
-    static CCControlColourPicker* create();
+    RT_REMOVE(
+        static CCControlColourPicker* create();
+    )
+    RT_ADD(
+        static CCControlColourPicker* colourPicker();
+    )
 
     virtual bool init();
-    //virtual ~CCControlColourPicker();
     void hueSliderValueChanged(CCObject * sender, CCControlEvent controlEvent);
     void colourSliderValueChanged(CCObject * sender, CCControlEvent controlEvent);
     
