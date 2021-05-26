@@ -75,7 +75,7 @@ public:
         CCSprite* getColorTarget();
         ColorPickerDelegate* getDelegate();
 
-        virtual void setColorValue(ccColor4B const&);
+        virtual void setColorValue(ccColor3B const&);
         void setColorTarget(CCSprite*);
         void setDelegate(ColorPickerDelegate*);
     )
