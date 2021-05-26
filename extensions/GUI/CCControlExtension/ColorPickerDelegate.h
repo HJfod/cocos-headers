@@ -29,15 +29,11 @@
  * Converted to c++ / cocos2d-x by Angus C
  */
 
-#ifndef __CCCONTROL_COLOUR_PICKER_H__
-#define __CCCONTROL_COLOUR_PICKER_H__
+#ifndef __COLORPICKERDELEGATE_H__
+#define __COLORPICKERDELEGATE_H__
 
 
 #include "CCControl.h"
-#include "CCControlUtils.h"
-#include "CCControlHuePicker.h"
-#include "CCControlSaturationBrightnessPicker.h"
-#include "ColorPickerDelegate.h"
 
 NS_CC_EXT_BEGIN
 
@@ -48,43 +44,8 @@ NS_CC_EXT_BEGIN
  * @{
  */
 
-class CCControlColourPicker: public CCControl
-{
-public:
-    CCControlColourPicker();
-    virtual ~CCControlColourPicker();
-    virtual void setColor(const ccColor3B& colorValue);
-    virtual void setEnabled(bool bEnabled);
-protected:
-    HSV m_hsv;
-    CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
-    CC_SYNTHESIZE_RETAIN(CCControlHuePicker*, m_huePicker, HuePicker)
-    CC_SYNTHESIZE_RETAIN(CCSprite*, m_background, Background)
-    
-public:
-
-    static CCControlColourPicker* create();
-
-    virtual bool init();
-    //virtual ~CCControlColourPicker();
-    void hueSliderValueChanged(CCObject * sender, CCControlEvent controlEvent);
-    void colourSliderValueChanged(CCObject * sender, CCControlEvent controlEvent);
-    
-    RT_ADD(
-        ccColor3B const& getColorValue();
-        CCSprite* getColorTarget();
-        ColorPickerDelegate* getDelegate();
-
-        void setColorValue(ccColor3B const&);
-        void setColorTarget(CCSprite*);
-        void setDelegate(ColorPickerDelegate*);
-    )
-
-protected:    
-    void updateControlPicker();
-    void updateHueAndControlPicker();
-    virtual bool ccTouchBegan(CCTouch* touch, CCEvent* pEvent);
-    
+class ColorPickerDelegate {
+    virtual void colorValueChanged(ccColor3B);
 };
 
 // end of GUI group
