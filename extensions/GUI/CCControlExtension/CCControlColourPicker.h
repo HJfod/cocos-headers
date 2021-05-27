@@ -55,20 +55,11 @@ public:
     virtual ~CCControlColourPicker();
     virtual void setColor(const ccColor3B& colorValue);
     virtual void setEnabled(bool bEnabled);
-    
+
 protected:
     HSV m_hsv;
     CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
     CC_SYNTHESIZE_RETAIN(CCControlHuePicker*, m_huePicker, HuePicker)
-    CC_SYNTHESIZE_RETAIN(CCSprite*, m_background, Background)
-    
-public:
-    RT_REMOVE(
-        static CCControlColourPicker* create();
-    )
-    RT_ADD(
-        static CCControlColourPicker* colourPicker();
-    )
 
     RT_ADD(
         ccColor3B const& getColorValue();
@@ -78,6 +69,16 @@ public:
         virtual void setColorValue(ccColor3B const&);
         void setColorTarget(CCSprite*);
         void setDelegate(ColorPickerDelegate*);
+    )
+    
+    CC_SYNTHESIZE_RETAIN(CCSprite*, m_background, Background)
+    
+public:
+    RT_REMOVE(
+        static CCControlColourPicker* create();
+    )
+    RT_ADD(
+        static CCControlColourPicker* colourPicker();
     )
 
     virtual bool init();
