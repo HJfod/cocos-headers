@@ -51,6 +51,16 @@ NS_CC_EXT_BEGIN
 class CCControlColourPicker: public CCControl
 {
 public:
+    RT_ADD(
+        ccColor3B const& getColorValue();
+        CCSprite* getColorTarget();
+        ColorPickerDelegate* getDelegate();
+
+        virtual void setColorValue(ccColor3B const&);
+        void setColorTarget(CCSprite*);
+        void setDelegate(ColorPickerDelegate*);
+    )
+    
     CCControlColourPicker();
     virtual ~CCControlColourPicker();
     RT_REMOVE(
@@ -76,16 +86,6 @@ public:
     virtual bool init();
     void hueSliderValueChanged(CCObject * sender, CCControlEvent controlEvent);
     void colourSliderValueChanged(CCObject * sender, CCControlEvent controlEvent);
-    
-    RT_ADD(
-        ccColor3B const& getColorValue();
-        CCSprite* getColorTarget();
-        ColorPickerDelegate* getDelegate();
-
-        virtual void setColorValuetest(ccColor3B const&);
-        void setColorTarget(CCSprite*);
-        void setDelegate(ColorPickerDelegate*);
-    )
 
 protected:    
     void updateControlPicker();
