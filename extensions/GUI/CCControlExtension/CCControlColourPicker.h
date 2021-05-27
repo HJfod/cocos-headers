@@ -51,15 +51,6 @@ NS_CC_EXT_BEGIN
 class CCControlColourPicker: public CCControl
 {
 public:
-    CCControlColourPicker();
-    virtual ~CCControlColourPicker();
-    virtual void setColor(const ccColor3B& colorValue);
-    virtual void setEnabled(bool bEnabled);
-
-protected:
-    HSV m_hsv;
-    CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
-
     RT_ADD(
         ccColor3B const& getColorValue();
         CCSprite* getColorTarget();
@@ -69,7 +60,16 @@ protected:
         void setColorTarget(CCSprite*);
         void setDelegate(ColorPickerDelegate*);
     )
-    
+
+    CCControlColourPicker();
+    virtual ~CCControlColourPicker();
+    virtual void setColor(const ccColor3B& colorValue);
+    virtual void setEnabled(bool bEnabled);
+
+protected:
+    HSV m_hsv;
+    CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
+
     CC_SYNTHESIZE_RETAIN(CCControlHuePicker*, m_huePicker, HuePicker)
     CC_SYNTHESIZE_RETAIN(CCSprite*, m_background, Background)
     
