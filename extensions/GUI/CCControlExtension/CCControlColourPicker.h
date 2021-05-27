@@ -51,28 +51,15 @@ NS_CC_EXT_BEGIN
 class CCControlColourPicker: public CCControl
 {
 public:
-    RT_ADD(
-        ccColor3B const& getColorValue();
-        CCSprite* getColorTarget();
-        ColorPickerDelegate* getDelegate();
-
-        virtual void setColorValue(ccColor3B const&);
-        void setColorTarget(CCSprite*);
-        void setDelegate(ColorPickerDelegate*);
-    )
-    
     CCControlColourPicker();
     virtual ~CCControlColourPicker();
-    RT_REMOVE(
-        virtual void setColor(const ccColor3B& colorValue);
-        virtual void setEnabled(bool bEnabled);
-    )
+    virtual void setColor(const ccColor3B& colorValue);
+    virtual void setEnabled(bool bEnabled);
+    
 protected:
     HSV m_hsv;
-    RT_REMOVE(
-        CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
-        CC_SYNTHESIZE_RETAIN(CCControlHuePicker*, m_huePicker, HuePicker)
-    )
+    CC_SYNTHESIZE_RETAIN(CCControlSaturationBrightnessPicker*, m_colourPicker, colourPicker)
+    CC_SYNTHESIZE_RETAIN(CCControlHuePicker*, m_huePicker, HuePicker)
     CC_SYNTHESIZE_RETAIN(CCSprite*, m_background, Background)
     
 public:
@@ -81,6 +68,16 @@ public:
     )
     RT_ADD(
         static CCControlColourPicker* colourPicker();
+    )
+
+    RT_ADD(
+        ccColor3B const& getColorValue();
+        CCSprite* getColorTarget();
+        ColorPickerDelegate* getDelegate();
+
+        virtual void setColorValue(ccColor3B const&);
+        void setColorTarget(CCSprite*);
+        void setDelegate(ColorPickerDelegate*);
     )
 
     virtual bool init();
