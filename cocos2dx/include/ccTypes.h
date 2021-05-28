@@ -44,6 +44,14 @@ typedef struct _ccColor3B
     GLubyte b;
 } ccColor3B;
 
+RT_ADD(
+typedef struct _ccHSVValue
+{
+    uintptr_t unknown;
+    float h, s, v;
+} ccHSVValue;
+)
+
 //! helper macro that creates an ccColor3B type
 static inline ccColor3B
 ccc3(const GLubyte r, const GLubyte g, const GLubyte b)
