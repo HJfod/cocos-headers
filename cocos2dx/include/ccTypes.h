@@ -47,8 +47,10 @@ typedef struct _ccColor3B
 RT_ADD(
 typedef struct _ccHSVValue
 {
-    uintptr_t unknown;
     float h, s, v;
+    GLubyte absoluteSaturation;
+    GLubyte absoluteBrightness;
+    private: char __pad[2];
 } ccHSVValue;
 )
 
