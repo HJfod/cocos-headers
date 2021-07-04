@@ -265,7 +265,7 @@ public:
 
     RT_ADD(
         static CCLabelBMFont* createBatched(const char* str, const char* fntFile, CCArray*);
-        void limitLabelWidth(float, float, float);
+        void limitLabelWidth(float width, float defaultScale, float minScale);
     )
 
 private:

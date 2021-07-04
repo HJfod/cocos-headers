@@ -65,7 +65,7 @@ public:
 
 	void setHWnd(HWND hWnd);
     // win32 platform function
-    HWND getHWnd();
+    RT_REMOVE( HWND getHWnd(); )
     RT_REMOVE(  virtual void resize(int width, int height); )
     RT_ADD(     void resizeWindow(int width, int height);   )
 	
@@ -97,6 +97,8 @@ public:
         inline CCPoint getMousePosition() { return { m_fMouseX, m_fMouseY }; }
 
         void toggleFullScreen(bool fullscreen);
+
+        GLFWwindow* getWindow(void) const;
     )
 
 protected:
