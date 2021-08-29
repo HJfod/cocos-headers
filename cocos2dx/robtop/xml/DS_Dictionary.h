@@ -6,12 +6,12 @@
 #include <cocos2d.h>
 
 class CC_DLL DS_Dictionary {
-private:
+public:
 	pugi::xml_document doc;
 	std::vector<pugi::xml_node> dictTree;
 	bool compatible;
 
-private:
+public:
 	std::string cleanStringWhiteSpace(const std::string&);
 	void split(const std::string&, char*, const std::vector<std::string>&);
 	bool splitWithForm(const std::string&, std::vector<std::string>&);
