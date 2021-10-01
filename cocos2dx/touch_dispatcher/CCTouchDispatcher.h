@@ -199,6 +199,7 @@ public:
 
     RT_ADD(
         void incrementForcePrio(int priority);
+        void decrementForcePrio(int priority);
     )
 protected:
     void forceRemoveDelegate(CCTouchDelegate *pDelegate);
