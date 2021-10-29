@@ -108,7 +108,6 @@ public:
      *  @js NA
      */
     virtual unsigned char* getFileDataFromZip(const char* pszZipFilePath, const char* pszFileName, unsigned long * pSize);
-
     
     /** Returns the fullpath for a given filename.
      
@@ -158,6 +157,8 @@ public:
     RT_REMOVE(  virtual std::string fullPathForFilename(const char* pszFileName);       )
     RT_ADD(     virtual std::string fullPathForFilename(const char* pszFileName, bool); )
     
+    RT_ADD(virtual void removeFullPath(const char* path));
+
     /**
      * Loads the filenameLookup dictionary from the contents of a filename.
      * 
@@ -301,6 +302,8 @@ public:
      *  @lua NA
      */
     virtual std::string getWritablePath() = 0;
+
+    RT_ADD(virtual std::string getWritablePath2();)
     
     /**
      *  Checks whether a file exists.
@@ -354,6 +357,9 @@ protected:
      *          If the original filename wasn't in the dictionary, it will return the original filename.
      */
     virtual std::string getNewFilename(const char* pszFileName);
+
+    RT_ADD(virtual bool shouldUseHD();)
+    RT_ADD(virtual bool addSufix(std::string, std::string);)
     
     /**
      *  Gets full path for filename, resolution directory and search path.
