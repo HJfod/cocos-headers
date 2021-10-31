@@ -7,7 +7,7 @@
 RT_ADD(
 	NS_CC_BEGIN
 
-	class CC_DLL STUB(CCMouseDispatcher) : public CCObject 
+	class CC_DLL CCMouseDispatcher : public CCObject 
 	{
 	public:
 		CCMouseDispatcher();
