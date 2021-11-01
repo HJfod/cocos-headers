@@ -2,8 +2,7 @@ cmake_minimum_required(VERSION 3.0.0)
 
 project(cocos-headers CXX)
 
-# compile empty cpp because msvc is stupid
-add_library(cocos2d STATIC cocos2dx/dummy.cpp)
+add_library(cocos2d INTERFACE)
 
 # really make sure its c++
 set_target_properties(cocos2d PROPERTIES
@@ -11,7 +10,7 @@ set_target_properties(cocos2d PROPERTIES
   LINKER_LANGUAGE CXX
 )
 
-target_include_directories(cocos2d PUBLIC 
+target_include_directories(cocos2d INTERFACE 
   cocos2dx
   cocos2dx/include
   cocos2dx/kazmath/include
@@ -21,7 +20,7 @@ target_include_directories(cocos2d PUBLIC
   extensions
 )
 
-target_link_libraries(cocos2d
+target_link_libraries(cocos2d INTERFACE
   ${CMAKE_CURRENT_LIST_DIR}/cocos2dx/libcocos2d.lib
   ${CMAKE_CURRENT_LIST_DIR}/extensions/libExtensions.lib
 )
