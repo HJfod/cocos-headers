@@ -85,7 +85,7 @@ THE SOFTWARE.
 
 #ifndef __MINGW32__
 
-#include <WinSock2.h>
+// #include <WinSock2.h>
 
 NS_CC_BEGIN
 
