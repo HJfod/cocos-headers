@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.0.0)
 
 project(cocos-headers CXX)
 
-# it was complaining that there were no source files
-add_library(cocos2d STATIC cocos2dx/include/cocos2d.h)
+# compile empty cpp because msvc is stupid
+add_library(cocos2d STATIC cocos2dx/dummy.cpp)
 
 # really make sure its c++
 set_target_properties(cocos2d PROPERTIES
