@@ -4,12 +4,6 @@ project(cocos-headers CXX)
 
 add_library(cocos2d INTERFACE)
 
-# really make sure its c++
-set_target_properties(cocos2d PROPERTIES
-  LANGUAGE CXX
-  LINKER_LANGUAGE CXX
-)
-
 target_include_directories(cocos2d INTERFACE 
   cocos2dx
   cocos2dx/include
