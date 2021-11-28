@@ -43,6 +43,7 @@ public:
         virtual int run();
         virtual void setupGLView();
         virtual void platformShutdown();
+        void toggleVerticalSync(bool);
     )
 
     /**
