@@ -147,7 +147,8 @@ protected:
         void onGLFWWindowPosCallback(GLFWwindow* window, int x, int y);
         void onGLFWWindowSizeFunCallback(GLFWwindow* window, int width, int height);
     )
-
+	    
+public:
     HJ_ADD(
         bool get_isFullscreen() { return m_bIsFullscreen; }
     )
