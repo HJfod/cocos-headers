@@ -359,7 +359,7 @@ protected:
     virtual std::string getNewFilename(const char* pszFileName);
 
     RT_ADD(virtual bool shouldUseHD();)
-    RT_ADD(virtual bool addSufix(std::string, std::string);)
+    RT_ADD(virtual bool addSuffix(std::string, std::string);)
     
     /**
      *  Gets full path for filename, resolution directory and search path.
