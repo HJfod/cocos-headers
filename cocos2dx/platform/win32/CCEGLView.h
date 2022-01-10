@@ -150,7 +150,7 @@ protected:
 	    
 public:
     HJ_ADD(
-        bool get_isFullscreen() { return m_bIsFullscreen; }
+        bool getIsFullscreen() { return m_bIsFullscreen; }
     )
 };
 
