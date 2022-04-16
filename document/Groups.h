@@ -19,7 +19,7 @@
 @defgroup platform          Platform Adaptor
 @defgroup script_support    Script Support
 @defgroup shaders           Shaders
-@defgroup sprite_nodes      Sprite Nodes        
+@defgroup sprite_nodes      Sprite Nodes
 @defgroup textures          Textures
 @defgroup tilemap_parallax_nodes    TileMap, Parallax
  */
