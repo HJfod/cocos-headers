@@ -2249,9 +2249,9 @@ PREDEFINED             = "CC_PROPERTY_READONLY(varType, varName, funName)=protec
                          HJ_ADD \
                          STUB \
                          RT_REMOVE(...)= \
-                         PAD(size)="char m_achPadding[size]" \
-                        "CC_SYNTHESIZE_READONLY_NV(varType, varName, funName)=protected: varType varName; /** get##funName \robtop */ public: varType get##funName(void);" \
-                        "CC_SYNTHESIZE_NV(varType, varName, funName)=protected: varType varName; /** get##funName \robtop */ public: varType get##funName(void); \n /** set##funName \robtop */ public: void set##funName(varType var);"
+                         PAD(size)="/** \warning This field is unknown and may contain data of any type. Do not use. */ char m_achPadding[size]" \
+                         "CC_SYNTHESIZE_READONLY_NV(varType, varName, funName)=/** \robtop */ protected: varType varName; /** get##funName \robtop */ public: varType get##funName(void);" \
+                         "CC_SYNTHESIZE_NV(varType, varName, funName)=/** \robtop */ protected: varType varName; /** get##funName \robtop */ public: varType get##funName(void); \n /** set##funName \robtop */ public: void set##funName(varType var);"
 
 
 # If the MACRO_EXPANSION and EXPAND_ONLY_PREDEF tags are set to YES then this
