@@ -2242,7 +2242,7 @@ PREDEFINED             = "CC_PROPERTY_READONLY(varType, varName, funName)=protec
                          "NS_CC_EXT_BEGIN=namespace cocos2d { namespace extension {" \
                          NS_CC_EXT_END=}} \
                          "USING_NS_CC_EXT=using namespace cocos2d::extension" \
-                         RT_ADD(...)=__VA_ARGS__ \
+                         RT_ADD \
                          RT_REMOVE=
 
 # If the MACRO_EXPANSION and EXPAND_ONLY_PREDEF tags are set to YES then this
