@@ -28,7 +28,7 @@ jobs:
           echo "${GITHUB_WORKSPACE}/doxygen-1.9.3/bin" >> $GITHUB_PATH
 
       - name: Append commit to version 
-        run: echo "PROJECT_NUMBER = `git rev-parse --short HEAD`" >> Doxyfile
+        run: echo "PROJECT_NUMBER = 2.2.3-gd2.113-rev`git rev-parse --short HEAD`" >> Doxyfile
         working-directory: 'document/'
 
       - name: Generate documentation
