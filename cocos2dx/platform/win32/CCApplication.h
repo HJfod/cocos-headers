@@ -60,6 +60,8 @@ public:
 
     void setStartupScriptFilename(const std::string& startupScriptFile);
 
+    bool getControllerConnected() const;
+
     const std::string& getStartupScriptFilename(void)
     {
         return m_startupScriptFilename;
