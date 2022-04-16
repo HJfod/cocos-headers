@@ -2248,7 +2248,7 @@ PREDEFINED             = "CC_PROPERTY_READONLY(varType, varName, funName)=protec
                          RT_ADD \
                          HJ_ADD \
                          STUB \
-                         RT_REMOVE= \
+                         RT_REMOVE(...)= \
                          PAD(size)="char m_achPadding[size]"
 
 # If the MACRO_EXPANSION and EXPAND_ONLY_PREDEF tags are set to YES then this
