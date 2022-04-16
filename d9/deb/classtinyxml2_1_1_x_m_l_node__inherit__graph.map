@@ -1,0 +1,9 @@
+<map id="XMLNode" name="XMLNode">
+<area shape="rect" id="node1" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="377,5,461,32"/>
+<area shape="rect" id="node2" href="$d2/d6d/classtinyxml2_1_1_x_m_l_comment.html" title="An XML Comment." alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$d2/d89/classtinyxml2_1_1_x_m_l_declaration.html" title="In correct XML the declaration is the first entry in the file." alt="" coords="144,80,269,107"/>
+<area shape="rect" id="node4" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="293,80,411,107"/>
+<area shape="rect" id="node5" href="$d3/da8/classtinyxml2_1_1_x_m_l_element.html" title="The element is a container class." alt="" coords="435,80,539,107"/>
+<area shape="rect" id="node6" href="$d3/d66/classtinyxml2_1_1_x_m_l_text.html" title="XML text." alt="" coords="563,80,639,107"/>
+<area shape="rect" id="node7" href="$d4/d65/classtinyxml2_1_1_x_m_l_unknown.html" title="Any tag that tinyXml doesn&#39;t recognize is saved as an unknown." alt="" coords="663,80,774,107"/>
+</map>

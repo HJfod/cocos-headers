@@ -1,0 +1,7 @@
+<map id="CCDirector" name="CCDirector">
+<area shape="rect" id="node1" title="Class that creates and handle the main Window and manages how and when to execute the Scenes." alt="" coords="58,155,150,181"/>
+<area shape="rect" id="node5" href="$d7/d71/classcocos2d_1_1_c_c_display_link_director.html" title="DisplayLinkDirector is a Director that synchronizes timers with the refresh rate of the display." alt="" coords="20,229,188,256"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node4" href="$dc/d72/classcocos2d_1_1_type_info.html" title=" " alt="" coords="117,80,195,107"/>
+</map>

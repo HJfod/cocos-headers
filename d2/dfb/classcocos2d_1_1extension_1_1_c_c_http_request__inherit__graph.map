@@ -1,0 +1,5 @@
+<map id="CCHttpRequest" name="CCHttpRequest">
+<area shape="rect" id="node1" title="defines the object which users must packed for CCHttpClient::send(HttpRequest*) method." alt="" coords="5,155,127,181"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="25,80,107,107"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="19,5,113,32"/>
+</map>

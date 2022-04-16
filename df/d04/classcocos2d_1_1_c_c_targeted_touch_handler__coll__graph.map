@@ -1,0 +1,8 @@
+<map id="CCTargetedTouchHandler" name="CCTargetedTouchHandler">
+<area shape="rect" id="node1" title="CCTargetedTouchHandler Object than contains the claimed touches and if it swallows touches." alt="" coords="23,260,207,287"/>
+<area shape="rect" id="node2" href="$dc/dee/classcocos2d_1_1_c_c_touch_handler.html" title="CCTouchHandler Object than contains the delegate and priority of the event handler." alt="" coords="128,171,256,197"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,81,93,108"/>
+<area shape="rect" id="node6" href="$d6/dbe/classcocos2d_1_1_c_c_set.html" title=" " alt="" coords="7,171,68,197"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node5" href="$d0/d38/classcocos2d_1_1_c_c_touch_delegate.html" title=" " alt="" coords="124,81,260,108"/>
+</map>

@@ -1,0 +1,28 @@
+var classcocos2d_1_1_c_c_camera =
+[
+    [ "CCCamera", "d2/d51/classcocos2d_1_1_c_c_camera.html#a7b223e69297494495694d4292e7deb07", null ],
+    [ "~CCCamera", "d2/d51/classcocos2d_1_1_c_c_camera.html#ac34dc400135d66443bf2a42569bda91e", null ],
+    [ "description", "d2/d51/classcocos2d_1_1_c_c_camera.html#a747a9e263d9c915125b3c123da34d898", null ],
+    [ "getCenterXYZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#a63c0dd01e36e1724757872832be50050", null ],
+    [ "getEyeXYZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#a87e353f2b4491893c18119d9cf598ec2", null ],
+    [ "getUpXYZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#acf1da05ca5850ae38b88d375eee920c8", null ],
+    [ "init", "d2/d51/classcocos2d_1_1_c_c_camera.html#a2858154e2009b0e6e616f313177762bc", null ],
+    [ "isDirty", "d2/d51/classcocos2d_1_1_c_c_camera.html#acadd94642b8ea1d85b86dcef6ec825d4", null ],
+    [ "locate", "d2/d51/classcocos2d_1_1_c_c_camera.html#a446311e4c530c4cfb7899967645765f3", null ],
+    [ "restore", "d2/d51/classcocos2d_1_1_c_c_camera.html#adf9c718ece7dc0e26798d5caf45f5f5d", null ],
+    [ "setCenterXYZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#a434470b7d40736ce280e2c9f8aad08ee", null ],
+    [ "setDirty", "d2/d51/classcocos2d_1_1_c_c_camera.html#aef9fcbadc0d02cc009c2d7ae072d4b6d", null ],
+    [ "setEyeXYZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#ac6c6cca4dd9a8a9b802e493e5840fcbc", null ],
+    [ "setUpXYZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#ac31fc270f9f8e2afeda869206ad75ac4", null ],
+    [ "m_bDirty", "d2/d51/classcocos2d_1_1_c_c_camera.html#a6ccd631935e3be4542fcab3101a81f98", null ],
+    [ "m_fCenterX", "d2/d51/classcocos2d_1_1_c_c_camera.html#a6d78f6f9191866f36d1eb4bec97239dd", null ],
+    [ "m_fCenterY", "d2/d51/classcocos2d_1_1_c_c_camera.html#ac9f155c392a9d6e2f4c145f5d7c91b05", null ],
+    [ "m_fCenterZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#ad6197db92a741ecac797d4bb922409c4", null ],
+    [ "m_fEyeX", "d2/d51/classcocos2d_1_1_c_c_camera.html#aa1eaffc3a2e0140132a303e5b437aec5", null ],
+    [ "m_fEyeY", "d2/d51/classcocos2d_1_1_c_c_camera.html#a4e384614f989b805fd994a4a1a22c9b3", null ],
+    [ "m_fEyeZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#a8be3f9238fa9f47798dca75e44624643", null ],
+    [ "m_fUpX", "d2/d51/classcocos2d_1_1_c_c_camera.html#acf7a16d20874c50f26e446250a51a9f9", null ],
+    [ "m_fUpY", "d2/d51/classcocos2d_1_1_c_c_camera.html#a142741a0ebb7a697acce3c05a91f85d6", null ],
+    [ "m_fUpZ", "d2/d51/classcocos2d_1_1_c_c_camera.html#a4a56e263f0f8cb7d953f460dd1e107b6", null ],
+    [ "m_lookupMatrix", "d2/d51/classcocos2d_1_1_c_c_camera.html#afcfd691a690f5ac2ef3513995397d949", null ]
+];

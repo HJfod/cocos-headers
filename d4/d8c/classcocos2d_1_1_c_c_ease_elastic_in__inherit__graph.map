@@ -1,0 +1,10 @@
+<map id="CCEaseElasticIn" name="CCEaseElasticIn">
+<area shape="rect" id="node1" title="Ease Elastic In action." alt="" coords="17,528,144,555"/>
+<area shape="rect" id="node2" href="$d6/d89/classcocos2d_1_1_c_c_ease_elastic.html" title="Ease Elastic abstract class." alt="" coords="23,453,138,480"/>
+<area shape="rect" id="node3" href="$d0/d79/classcocos2d_1_1_c_c_action_ease.html" title="Base class for Easing actions." alt="" coords="25,379,137,405"/>
+<area shape="rect" id="node4" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="15,304,146,331"/>
+<area shape="rect" id="node5" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="5,229,156,256"/>
+<area shape="rect" id="node6" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="40,155,121,181"/>
+<area shape="rect" id="node7" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="39,80,122,107"/>
+<area shape="rect" id="node8" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="34,5,127,32"/>
+</map>

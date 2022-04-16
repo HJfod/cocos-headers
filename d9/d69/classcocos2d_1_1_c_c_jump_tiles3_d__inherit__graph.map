@@ -1,0 +1,10 @@
+<map id="CCJumpTiles3D" name="CCJumpTiles3D">
+<area shape="rect" id="node1" title="CCJumpTiles3D action." alt="" coords="23,528,146,555"/>
+<area shape="rect" id="node2" href="$d0/d92/classcocos2d_1_1_c_c_tiled_grid3_d_action.html" title="Base class for CCTiledGrid3D actions." alt="" coords="5,453,164,480"/>
+<area shape="rect" id="node3" href="$d5/d1e/classcocos2d_1_1_c_c_grid_action.html" title="Base class for Grid actions." alt="" coords="31,379,139,405"/>
+<area shape="rect" id="node4" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="19,304,150,331"/>
+<area shape="rect" id="node5" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="9,229,160,256"/>
+<area shape="rect" id="node6" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="44,155,125,181"/>
+<area shape="rect" id="node7" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="43,80,126,107"/>
+<area shape="rect" id="node8" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="38,5,131,32"/>
+</map>

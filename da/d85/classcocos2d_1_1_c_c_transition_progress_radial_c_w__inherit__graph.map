@@ -1,0 +1,9 @@
+<map id="CCTransitionProgressRadialCW" name="CCTransitionProgressRadialCW">
+<area shape="rect" id="node1" title="CCTransitionRadialCW transition." alt="" coords="5,453,228,480"/>
+<area shape="rect" id="node2" href="$d5/dd2/classcocos2d_1_1_c_c_transition_progress.html" title=" " alt="" coords="37,379,196,405"/>
+<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="45,304,188,331"/>
+<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="77,229,156,256"/>
+<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="79,155,154,181"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="75,80,158,107"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="70,5,163,32"/>
+</map>

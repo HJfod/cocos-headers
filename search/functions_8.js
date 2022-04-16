@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['handleassert_0',['handleAssert',['../d9/d9f/classcocos2d_1_1_c_c_script_engine_protocol.html#abaaf7b016ad12e2259714e8941b17d7a',1,'cocos2d::CCScriptEngineProtocol']]],
+  ['handlerwithdelegate_1',['handlerWithDelegate',['../d8/d0d/classcocos2d_1_1_c_c_keypad_handler.html#a1bf659deb7a133c7934b06a8e89fe36d',1,'cocos2d::CCKeypadHandler::handlerWithDelegate()'],['../dd/ded/classcocos2d_1_1_c_c_keyboard_handler.html#acd6071db13b0c38f0ba8150a6976429b',1,'cocos2d::CCKeyboardHandler::handlerWithDelegate()'],['../de/d85/classcocos2d_1_1_c_c_mouse_handler.html#a23f0cca1f20ea230b75e7661f3e16918',1,'cocos2d::CCMouseHandler::handlerWithDelegate()'],['../dc/dee/classcocos2d_1_1_c_c_touch_handler.html#ae93e20cebdd79a483a43781a973408e2',1,'cocos2d::CCTouchHandler::handlerWithDelegate()'],['../d4/d5c/classcocos2d_1_1_c_c_standard_touch_handler.html#af831e820491d31e92ed9cd1bcdb2a615',1,'cocos2d::CCStandardTouchHandler::handlerWithDelegate()'],['../d7/dc6/classcocos2d_1_1_c_c_targeted_touch_handler.html#ac890e92eaf4e942a846fe764377ad8a6',1,'cocos2d::CCTargetedTouchHandler::handlerWithDelegate()']]],
+  ['handletouchesbegin_2',['handleTouchesBegin',['../dd/d76/classcocos2d_1_1_c_c_e_g_l_view_protocol.html#a96f46b6f5ce99928fe2bd4713ab3b430',1,'cocos2d::CCEGLViewProtocol']]],
+  ['handletouchescancel_3',['handleTouchesCancel',['../dd/d76/classcocos2d_1_1_c_c_e_g_l_view_protocol.html#aa8096a71e6befec4319256b0009b0232',1,'cocos2d::CCEGLViewProtocol']]],
+  ['handletouchesend_4',['handleTouchesEnd',['../dd/d76/classcocos2d_1_1_c_c_e_g_l_view_protocol.html#ac1afc6e619a83d20058325aa57a7547d',1,'cocos2d::CCEGLViewProtocol']]],
+  ['handletouchesmove_5',['handleTouchesMove',['../dd/d76/classcocos2d_1_1_c_c_e_g_l_view_protocol.html#a0a4c3ff4bb2dc796a049b80ef249c154',1,'cocos2d::CCEGLViewProtocol']]],
+  ['hasalpha_6',['hasAlpha',['../db/da1/classcocos2d_1_1_c_c_texture_p_v_r.html#abf59a65ee2a7838e4fd11d2425e81dca',1,'cocos2d::CCTexturePVR::hasAlpha()'],['../d8/d10/classcocos2d_1_1_c_c_image.html#abf59a65ee2a7838e4fd11d2425e81dca',1,'cocos2d::CCImage::hasAlpha()']]],
+  ['hasbom_7',['HasBOM',['../dc/d59/classtinyxml2_1_1_x_m_l_document.html#a5fa427b55b7fd562933c6449a0bb8ce1',1,'tinyxml2::XMLDocument']]],
+  ['hasmipmaps_8',['hasMipmaps',['../d7/dfd/classcocos2d_1_1_c_c_texture2_d.html#a18c1408a4c5256ca4542b44bf7fe8f97',1,'cocos2d::CCTexture2D']]],
+  ['hasmoved_9',['hasMoved',['../d9/dd1/classcocos2d_1_1extension_1_1_c_c_control_switch.html#a2a93e6c266ae2be963c6d35f065fe433',1,'cocos2d::extension::CCControlSwitch']]],
+  ['haspremultipliedalpha_10',['hasPremultipliedAlpha',['../d7/dfd/classcocos2d_1_1_c_c_texture2_d.html#a5e9453e6b0ba8ebfc1f7e894ae05e507',1,'cocos2d::CCTexture2D::hasPremultipliedAlpha()'],['../db/da1/classcocos2d_1_1_c_c_texture_p_v_r.html#a5e9453e6b0ba8ebfc1f7e894ae05e507',1,'cocos2d::CCTexturePVR::hasPremultipliedAlpha()']]],
+  ['hasvisibleparents_11',['hasVisibleParents',['../d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html#ab391162778d0260ae7ea2aec5e09800f',1,'cocos2d::extension::CCControl']]],
+  ['hidekeyboard_12',['HideKeyboard',['../d4/db4/classcocos2d_1_1_c_c_e_g_l_view.html#a8a077aad24f417faaa3d3e5b832d5920',1,'cocos2d::CCEGLView']]],
+  ['hideoutshowin_13',['hideOutShowIn',['../d1/dc8/classcocos2d_1_1_c_c_transition_scene.html#a6777eebefb69c380153ea7441f4e895d',1,'cocos2d::CCTransitionScene']]],
+  ['highestatlasindexinchild_14',['highestAtlasIndexInChild',['../dd/d95/classcocos2d_1_1_c_c_sprite_batch_node.html#aa02649cba6b9d67ecab7aa0cfd098a4f',1,'cocos2d::CCSpriteBatchNode']]],
+  ['hsvfromrgb_15',['HSVfromRGB',['../d4/d57/classcocos2d_1_1extension_1_1_c_c_control_utils.html#ae95063bfa718070a5fe45c6773ce537b',1,'cocos2d::extension::CCControlUtils']]],
+  ['hueslidervaluechanged_16',['hueSliderValueChanged',['../d3/def/classcocos2d_1_1extension_1_1_c_c_control_colour_picker.html#a0edadbec3321c2d9ec28f5e558f1b40e',1,'cocos2d::extension::CCControlColourPicker']]]
+];

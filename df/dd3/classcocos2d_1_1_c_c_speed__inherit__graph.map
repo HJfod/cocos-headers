@@ -1,0 +1,6 @@
+<map id="CCSpeed" name="CCSpeed">
+<area shape="rect" id="node1" title="Changes the speed of an action, making it take longer (speed&gt;1) or less (speed&lt;1) time." alt="" coords="12,229,92,256"/>
+<area shape="rect" id="node2" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="11,155,93,181"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
+</map>

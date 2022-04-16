@@ -1,0 +1,28 @@
+var classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android =
+[
+    [ "CCEditBoxImplAndroid", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a49e03ae5b4083b17ea2288b174001f3a", null ],
+    [ "~CCEditBoxImplAndroid", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a0aa556e2516596cb002f3cfe952ea9d5", null ],
+    [ "closeKeyboard", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a6d2930fe991fdccd9e1f5be627cc49bc", null ],
+    [ "doAnimationWhenKeyboardMove", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a39f1d1708898d6babd47b9f5f8908239", null ],
+    [ "getMaxLength", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#aa5f88fa3da0009ee98d3e33a8b42b319", null ],
+    [ "getText", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a1e4be623a795c9134bc61fc5dbf6210e", null ],
+    [ "initWithSize", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a47ad3330f47eb27a039b9a6f7a176b79", null ],
+    [ "isEditing", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a0c10f7ac7e11e2f13e2d58e90bcce510", null ],
+    [ "onEnter", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a8fae500b33cb149a2564a035133855bb", null ],
+    [ "openKeyboard", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a877985f53f17350d16ecd60fe7773db6", null ],
+    [ "setAnchorPoint", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#ada6734bd5ec512293fcba819025ddbe0", null ],
+    [ "setContentSize", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a44cd8a4c5a73010c5cc7c6fbf43595c0", null ],
+    [ "setFont", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a05e1bbde8e719cb8a4a0408c50d63bdf", null ],
+    [ "setFontColor", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#abdfec23c750bd09d19c51123e49ee9b3", null ],
+    [ "setInputFlag", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a4724d38d901cdefbcb702c59c679f87f", null ],
+    [ "setInputMode", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a3b8d117826c21bc070df21b6e605c4ff", null ],
+    [ "setMaxLength", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#aa2e2b0728e0c8f2c7b8a5c18c0574f87", null ],
+    [ "setPlaceHolder", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a28e53d98ece378a65129b7cd8c8c0b56", null ],
+    [ "setPlaceholderFont", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a4e8014ae634f8e774df275ef0b63f9f4", null ],
+    [ "setPlaceholderFontColor", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a808f6a3a154fedd45386f29c8d1b3f40", null ],
+    [ "setPosition", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#ade96292bf4b5d2c40a5c3c0a27763754", null ],
+    [ "setReturnType", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#abafb6844182b65149dc61a91bdbe634a", null ],
+    [ "setText", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#a077d303c31ec97c7ad3070eac11ca2b6", null ],
+    [ "setVisible", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#aff6547edc5bdc358ad27566775035b3c", null ],
+    [ "visit", "df/d04/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_android.html#ad3e11dd159b224765b3bf9cf156e3092", null ]
+];

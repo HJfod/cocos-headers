@@ -1,0 +1,29 @@
+<map id="CCActionEase" name="CCActionEase">
+<area shape="rect" id="node1" title="Base class for Easing actions." alt="" coords="784,284,896,311"/>
+<area shape="rect" id="node7" href="$d9/d11/classcocos2d_1_1_c_c_ease_back_in.html" title="CCEaseBackIn action." alt="" coords="978,5,1093,32"/>
+<area shape="rect" id="node8" href="$d9/dec/classcocos2d_1_1_c_c_ease_back_in_out.html" title="CCEaseBackInOut action." alt="" coords="966,56,1105,83"/>
+<area shape="rect" id="node9" href="$d3/d4a/classcocos2d_1_1_c_c_ease_back_out.html" title="CCEaseBackOut action." alt="" coords="972,107,1099,133"/>
+<area shape="rect" id="node10" href="$dc/d49/classcocos2d_1_1_c_c_ease_bounce.html" title="CCEaseBounce abstract class." alt="" coords="976,157,1095,184"/>
+<area shape="rect" id="node14" href="$d6/d89/classcocos2d_1_1_c_c_ease_elastic.html" title="Ease Elastic abstract class." alt="" coords="978,208,1093,235"/>
+<area shape="rect" id="node18" href="$d1/d77/classcocos2d_1_1_c_c_ease_exponential_in.html" title="CCEase Exponential In." alt="" coords="955,259,1115,285"/>
+<area shape="rect" id="node19" href="$d7/d1c/classcocos2d_1_1_c_c_ease_exponential_in_out.html" title="Ease Exponential InOut." alt="" coords="944,309,1127,336"/>
+<area shape="rect" id="node20" href="$db/d83/classcocos2d_1_1_c_c_ease_exponential_out.html" title="Ease Exponential Out." alt="" coords="950,360,1121,387"/>
+<area shape="rect" id="node21" href="$db/d64/classcocos2d_1_1_c_c_ease_rate_action.html" title="Base class for Easing actions with rate parameters." alt="" coords="964,411,1107,437"/>
+<area shape="rect" id="node25" href="$da/de0/classcocos2d_1_1_c_c_ease_sine_in.html" title="Ease Sine In." alt="" coords="980,461,1091,488"/>
+<area shape="rect" id="node26" href="$d6/d70/classcocos2d_1_1_c_c_ease_sine_in_out.html" title="Ease Sine InOut." alt="" coords="968,512,1103,539"/>
+<area shape="rect" id="node27" href="$d4/d72/classcocos2d_1_1_c_c_ease_sine_out.html" title="Ease Sine Out." alt="" coords="974,563,1097,589"/>
+<area shape="rect" id="node2" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="605,284,736,311"/>
+<area shape="rect" id="node3" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="407,284,557,311"/>
+<area shape="rect" id="node4" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="277,284,359,311"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,284,229,311"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,284,99,311"/>
+<area shape="rect" id="node11" href="$d8/d2e/classcocos2d_1_1_c_c_ease_bounce_in.html" title="CCEaseBounceIn action." alt="" coords="1187,56,1317,83"/>
+<area shape="rect" id="node12" href="$d7/d76/classcocos2d_1_1_c_c_ease_bounce_in_out.html" title="CCEaseBounceInOut action." alt="" coords="1175,107,1329,133"/>
+<area shape="rect" id="node13" href="$d1/d43/classcocos2d_1_1_c_c_ease_bounce_out.html" title="EaseBounceOut action." alt="" coords="1181,157,1323,184"/>
+<area shape="rect" id="node15" href="$d9/d6b/classcocos2d_1_1_c_c_ease_elastic_in.html" title="Ease Elastic In action." alt="" coords="1189,208,1315,235"/>
+<area shape="rect" id="node16" href="$d4/db6/classcocos2d_1_1_c_c_ease_elastic_in_out.html" title="Ease Elastic InOut action." alt="" coords="1177,259,1327,285"/>
+<area shape="rect" id="node17" href="$d0/d9c/classcocos2d_1_1_c_c_ease_elastic_out.html" title="Ease Elastic Out action." alt="" coords="1183,309,1321,336"/>
+<area shape="rect" id="node22" href="$d5/d13/classcocos2d_1_1_c_c_ease_in.html" title="CCEaseIn action with a rate." alt="" coords="1211,360,1293,387"/>
+<area shape="rect" id="node23" href="$d9/d10/classcocos2d_1_1_c_c_ease_in_out.html" title="CCEaseInOut action with a rate." alt="" coords="1199,411,1305,437"/>
+<area shape="rect" id="node24" href="$d0/ddb/classcocos2d_1_1_c_c_ease_out.html" title="CCEaseOut action with a rate." alt="" coords="1205,461,1299,488"/>
+</map>

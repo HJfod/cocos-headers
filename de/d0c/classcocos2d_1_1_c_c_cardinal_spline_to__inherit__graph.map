@@ -1,0 +1,11 @@
+<map id="CCCardinalSplineTo" name="CCCardinalSplineTo">
+<area shape="rect" id="node1" title="Cardinal Spline path." alt="" coords="89,379,237,405"/>
+<area shape="rect" id="node7" href="$dc/d68/classcocos2d_1_1_c_c_cardinal_spline_by.html" title="Cardinal Spline path." alt="" coords="5,453,156,480"/>
+<area shape="rect" id="node9" href="$df/de5/classcocos2d_1_1_c_c_catmull_rom_to.html" title="An action that moves the target with a CatmullRom curve to a destination point." alt="" coords="180,453,315,480"/>
+<area shape="rect" id="node2" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="98,304,229,331"/>
+<area shape="rect" id="node3" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="88,229,239,256"/>
+<area shape="rect" id="node4" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="123,155,204,181"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="122,80,205,107"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="117,5,210,32"/>
+<area shape="rect" id="node8" href="$d3/d06/classcocos2d_1_1_c_c_catmull_rom_by.html" title="An action that moves the target with a CatmullRom curve by a certain distance." alt="" coords="11,528,150,555"/>
+</map>

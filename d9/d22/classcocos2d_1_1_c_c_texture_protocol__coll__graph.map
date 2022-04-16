@@ -1,0 +1,4 @@
+<map id="CCTextureProtocol" name="CCTextureProtocol">
+<area shape="rect" id="node1" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node2" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="11,5,141,32"/>
+</map>

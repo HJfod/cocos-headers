@@ -1,0 +1,9 @@
+<map id="CCTMXLayer" name="CCTMXLayer">
+<area shape="rect" id="node1" title="CCTMXLayer represents the TMX layer." alt="" coords="65,304,170,331"/>
+<area shape="rect" id="node2" href="$dd/d95/classcocos2d_1_1_c_c_sprite_batch_node.html" title="CCSpriteBatchNode is like a batch node: if it contains children, it will draw them in 1 single OpenGL..." alt="" coords="43,229,192,256"/>
+<area shape="rect" id="node3" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,155,89,181"/>
+<area shape="rect" id="node4" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
+<area shape="rect" id="node5" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node6" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="113,155,255,181"/>
+<area shape="rect" id="node7" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="119,80,249,107"/>
+</map>

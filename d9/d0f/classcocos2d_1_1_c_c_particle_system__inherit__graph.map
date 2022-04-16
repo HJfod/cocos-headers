@@ -1,0 +1,20 @@
+<map id="CCParticleSystem" name="CCParticleSystem">
+<area shape="rect" id="node1" title="Particle System base class." alt="" coords="515,259,652,285"/>
+<area shape="rect" id="node7" href="$d9/df5/classcocos2d_1_1_c_c_particle_system_quad.html" title="CCParticleSystemQuad is a subclass of CCParticleSystem." alt="" coords="700,259,871,285"/>
+<area shape="rect" id="node2" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="359,233,433,260"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="171,233,253,260"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,233,99,260"/>
+<area shape="rect" id="node5" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="325,284,467,311"/>
+<area shape="rect" id="node6" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="147,284,277,311"/>
+<area shape="rect" id="node8" href="$dc/d49/classcocos2d_1_1_c_c_particle_explosion.html" title="An explosion particle system." alt="" coords="919,5,1069,32"/>
+<area shape="rect" id="node9" href="$d6/d20/classcocos2d_1_1_c_c_particle_fire.html" title="A fire particle system." alt="" coords="938,56,1050,83"/>
+<area shape="rect" id="node10" href="$d7/d6c/classcocos2d_1_1_c_c_particle_fireworks.html" title="A fireworks particle system." alt="" coords="919,107,1069,133"/>
+<area shape="rect" id="node11" href="$df/da7/classcocos2d_1_1_c_c_particle_flower.html" title="A flower particle system." alt="" coords="928,157,1060,184"/>
+<area shape="rect" id="node12" href="$d9/d53/classcocos2d_1_1_c_c_particle_galaxy.html" title="A galaxy particle system." alt="" coords="927,208,1061,235"/>
+<area shape="rect" id="node13" href="$d1/d3f/classcocos2d_1_1_c_c_particle_meteor.html" title="A meteor particle system." alt="" coords="927,259,1061,285"/>
+<area shape="rect" id="node14" href="$dd/dcd/classcocos2d_1_1_c_c_particle_rain.html" title="A rain particle system." alt="" coords="935,309,1053,336"/>
+<area shape="rect" id="node15" href="$d5/d45/classcocos2d_1_1_c_c_particle_smoke.html" title="An smoke particle system." alt="" coords="928,360,1060,387"/>
+<area shape="rect" id="node16" href="$d8/dfe/classcocos2d_1_1_c_c_particle_snow.html" title="An snow particle system." alt="" coords="933,411,1055,437"/>
+<area shape="rect" id="node17" href="$da/d14/classcocos2d_1_1_c_c_particle_spiral.html" title="An spiral particle system." alt="" coords="931,461,1057,488"/>
+<area shape="rect" id="node18" href="$d6/da3/classcocos2d_1_1_c_c_particle_sun.html" title="A sun particle system." alt="" coords="938,512,1050,539"/>
+</map>

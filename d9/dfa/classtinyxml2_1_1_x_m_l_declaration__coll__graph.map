@@ -1,0 +1,6 @@
+<map id="XMLDeclaration" name="XMLDeclaration">
+<area shape="rect" id="node1" title="In correct XML the declaration is the first entry in the file." alt="" coords="5,231,131,257"/>
+<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="127,118,211,145"/>
+<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="155,231,272,257"/>
+<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="137,5,201,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CCLabelProtocol" name="CCLabelProtocol">
+<area shape="rect" id="node1" title="Common interface for Labels NA NA." alt="" coords="135,5,263,32"/>
+<area shape="rect" id="node2" href="$d7/d84/classcocos2d_1_1_c_c_label_atlas.html" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="5,80,113,107"/>
+<area shape="rect" id="node3" href="$dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html" title="CCLabelBMFont is a subclass of CCSpriteBatchNode." alt="" coords="137,80,261,107"/>
+<area shape="rect" id="node4" href="$df/d72/classcocos2d_1_1_c_c_label_t_t_f.html" title="CCLabelTTF is a subclass of CCTextureNode that knows how to render text labels." alt="" coords="286,80,385,107"/>
+<area shape="rect" id="node5" href="$d4/d5b/classcocos2d_1_1_c_c_text_field_t_t_f.html" title="A simple text input field with TTF font." alt="" coords="274,155,397,181"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="CCFiniteTimeAction" name="CCFiniteTimeAction">
+<area shape="rect" id="node1" title="Base class actions that do have a finite time duration." alt="" coords="407,791,557,817"/>
+<area shape="rect" id="node5" href="$df/d52/classcocos2d_1_1_c_c_action_instant.html" title="Instant actions are immediate actions." alt="" coords="607,284,734,311"/>
+<area shape="rect" id="node18" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="605,1272,736,1299"/>
+<area shape="rect" id="node2" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="277,791,359,817"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,791,229,817"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,791,99,817"/>
+<area shape="rect" id="node6" href="$dd/d6e/classcocos2d_1_1_c_c_call_func.html" title="Calls a &#39;callback&#39;." alt="" coords="830,31,925,57"/>
+<area shape="rect" id="node9" href="$d8/d76/classcocos2d_1_1_c_c_flip_x.html" title="Flips the sprite horizontally." alt="" coords="841,81,914,108"/>
+<area shape="rect" id="node10" href="$d8/d0c/classcocos2d_1_1_c_c_flip_y.html" title="Flips the sprite vertically." alt="" coords="841,132,913,159"/>
+<area shape="rect" id="node11" href="$d1/d72/classcocos2d_1_1_c_c_hide.html" title="Hide the node." alt="" coords="842,183,913,209"/>
+<area shape="rect" id="node12" href="$de/dbf/classcocos2d_1_1_c_c_place.html" title="Places the node in a certain position." alt="" coords="840,233,915,260"/>
+<area shape="rect" id="node13" href="$da/d67/classcocos2d_1_1_c_c_remove_self.html" title="Remove the node NA NA." alt="" coords="818,284,937,311"/>
+<area shape="rect" id="node14" href="$d8/d6f/classcocos2d_1_1_c_c_reuse_grid.html" title="CCReuseGrid action." alt="" coords="824,335,931,361"/>
+<area shape="rect" id="node15" href="$d3/de8/classcocos2d_1_1_c_c_show.html" title="Show the node." alt="" coords="840,385,915,412"/>
+<area shape="rect" id="node16" href="$d1/d13/classcocos2d_1_1_c_c_stop_grid.html" title="CCStopGrid action." alt="" coords="829,436,925,463"/>
+<area shape="rect" id="node17" href="$dc/d90/classcocos2d_1_1_c_c_toggle_visibility.html" title="Toggles the visibility of a node." alt="" coords="808,487,947,513"/>
+<area shape="rect" id="node7" href="$dd/d1f/classcocos2d_1_1_c_c_call_func_n.html" title="Calls a &#39;callback&#39; with the node as the first argument N means Node NA." alt="" coords="1019,5,1124,32"/>
+<area shape="rect" id="node8" href="$d9/d91/classcocos2d_1_1_c_c_call_func_o.html" title="Calls a &#39;callback&#39; with an object as the first argument." alt="" coords="1019,56,1124,83"/>
+<area shape="rect" id="node19" href="$df/d9b/classcocos2d_1_1_c_c_accel_amplitude.html" title="CCAccelAmplitude action." alt="" coords="806,537,949,564"/>
+<area shape="rect" id="node20" href="$dc/d97/classcocos2d_1_1_c_c_accel_deccel_amplitude.html" title="CCAccelDeccelAmplitude action." alt="" coords="784,588,971,615"/>
+<area shape="rect" id="node21" href="$d5/df5/classcocos2d_1_1_c_c_action_camera.html" title="Base class for CCCamera actions." alt="" coords="811,639,943,665"/>
+<area shape="rect" id="node22" href="$d0/d79/classcocos2d_1_1_c_c_action_ease.html" title="Base class for Easing actions." alt="" coords="821,689,933,716"/>
+<area shape="rect" id="node23" href="$d5/dd1/classcocos2d_1_1_c_c_action_tween.html" title="CCActionTween." alt="" coords="816,740,939,767"/>
+<area shape="rect" id="node24" href="$db/dc5/classcocos2d_1_1_c_c_animate.html" title="Animates a sprite given the name of an Animation." alt="" coords="830,791,925,817"/>
+<area shape="rect" id="node25" href="$df/d33/classcocos2d_1_1_c_c_bezier_by.html" title="An action that moves the target with a cubic Bezier curve by a certain distance." alt="" coords="828,841,927,868"/>
+<area shape="rect" id="node26" href="$d8/de2/classcocos2d_1_1_c_c_blink.html" title="Blinks a CCNode object by modifying it&#39;s visible attribute." alt="" coords="841,892,914,919"/>
+<area shape="rect" id="node27" href="$d3/d19/classcocos2d_1_1_c_c_cardinal_spline_to.html" title="Cardinal Spline path." alt="" coords="803,943,951,969"/>
+<area shape="rect" id="node28" href="$db/d7f/classcocos2d_1_1_c_c_deccel_amplitude.html" title="CCDeccelAmplitude action." alt="" coords="802,993,953,1020"/>
+<area shape="rect" id="node29" href="$d6/dde/classcocos2d_1_1_c_c_delay_time.html" title="Delays the action a certain amount of seconds." alt="" coords="822,1044,933,1071"/>
+<area shape="rect" id="node30" href="$d7/d89/classcocos2d_1_1_c_c_fade_in.html" title="Fades In an object that implements the CCRGBAProtocol protocol." alt="" coords="836,1095,919,1121"/>
+<area shape="rect" id="node31" href="$d6/d6d/classcocos2d_1_1_c_c_fade_out.html" title="Fades Out an object that implements the CCRGBAProtocol protocol." alt="" coords="831,1145,924,1172"/>
+<area shape="rect" id="node32" href="$da/d44/classcocos2d_1_1_c_c_fade_to.html" title="Fades an object that implements the CCRGBAProtocol protocol." alt="" coords="835,1196,919,1223"/>
+<area shape="rect" id="node33" href="$d5/d1e/classcocos2d_1_1_c_c_grid_action.html" title="Base class for Grid actions." alt="" coords="823,1247,931,1273"/>
+<area shape="rect" id="node34" href="$db/d25/classcocos2d_1_1_c_c_jump_by.html" title="Moves a CCNode object simulating a parabolic jump movement by modifying it&#39;s position attribute." alt="" coords="832,1297,923,1324"/>
+<area shape="rect" id="node35" href="$dc/df6/classcocos2d_1_1_c_c_move_by.html" title="Moves a CCNode object x,y pixels by modifying it&#39;s position attribute." alt="" coords="831,1348,924,1375"/>
+<area shape="rect" id="node36" href="$d5/db1/classcocos2d_1_1_c_c_progress_from_to.html" title="Progress from a percentage to another percentage." alt="" coords="806,1399,949,1425"/>
+<area shape="rect" id="node37" href="$d1/d5d/classcocos2d_1_1_c_c_progress_to.html" title="Progress to percentage." alt="" coords="822,1449,933,1476"/>
+<area shape="rect" id="node38" href="$d9/d0b/classcocos2d_1_1_c_c_repeat.html" title="Repeats an action a number of times." alt="" coords="834,1500,921,1527"/>
+<area shape="rect" id="node39" href="$d4/deb/classcocos2d_1_1_c_c_repeat_forever.html" title="Repeats an action for ever." alt="" coords="810,1551,945,1577"/>
+<area shape="rect" id="node40" href="$de/d5f/classcocos2d_1_1_c_c_reverse_time.html" title="Executes an action in reverse order, from time=duration to time=0." alt="" coords="814,1601,941,1628"/>
+<area shape="rect" id="node41" href="$d6/d57/classcocos2d_1_1_c_c_rotate_by.html" title="Rotates a CCNode object clockwise a number of degrees by modifying it&#39;s rotation attribute." alt="" coords="827,1652,927,1679"/>
+<area shape="rect" id="node42" href="$d9/df5/classcocos2d_1_1_c_c_rotate_to.html" title="Rotates a CCNode object to a certain angle by modifying it&#39;s rotation attribute." alt="" coords="829,1703,926,1729"/>
+<area shape="rect" id="node43" href="$da/d23/classcocos2d_1_1_c_c_scale_to.html" title="Scales a CCNode object to a zoom factor by modifying it&#39;s scale attribute." alt="" coords="833,1753,922,1780"/>
+<area shape="rect" id="node44" href="$dc/d7d/classcocos2d_1_1_c_c_sequence.html" title="Runs actions sequentially, one after another." alt="" coords="826,1804,929,1831"/>
+<area shape="rect" id="node45" href="$de/d88/classcocos2d_1_1_c_c_skew_to.html" title="Skews a CCNode object to given angles by modifying it&#39;s skewX and skewY attributes." alt="" coords="833,1855,921,1881"/>
+<area shape="rect" id="node46" href="$db/d53/classcocos2d_1_1_c_c_spawn.html" title="Spawn a new action immediately." alt="" coords="836,1905,919,1932"/>
+<area shape="rect" id="node47" href="$d8/ddb/classcocos2d_1_1_c_c_targeted_action.html" title="Overrides the target of an action so that it always runs on the target specified at action creation r..." alt="" coords="809,1956,946,1983"/>
+<area shape="rect" id="node48" href="$de/de1/classcocos2d_1_1_c_c_tint_by.html" title="Tints a CCNode that implements the CCNodeRGB protocol from current tint to a custom one." alt="" coords="836,2007,919,2033"/>
+<area shape="rect" id="node49" href="$dd/dfa/classcocos2d_1_1_c_c_tint_to.html" title="Tints a CCNode that implements the CCNodeRGB protocol from current tint to a custom one." alt="" coords="838,2057,917,2084"/>
+</map>

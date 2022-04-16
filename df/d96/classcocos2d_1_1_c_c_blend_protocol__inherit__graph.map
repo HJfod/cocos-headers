@@ -1,0 +1,30 @@
+<map id="CCBlendProtocol" name="CCBlendProtocol">
+<area shape="rect" id="node1" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="5,233,136,260"/>
+<area shape="rect" id="node2" href="$da/d2c/classcocos2d_1_1_c_c_layer_color.html" title="CCLayerColor is a subclass of CCLayer that implements the CCRGBAProtocol protocol." alt="" coords="199,157,310,184"/>
+<area shape="rect" id="node4" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="184,259,325,285"/>
+<area shape="rect" id="node3" href="$d9/d19/classcocos2d_1_1_c_c_layer_gradient.html" title="CCLayerGradient is a subclass of CCLayerColor that draws gradients across the background." alt="" coords="387,107,519,133"/>
+<area shape="rect" id="node5" href="$d7/d70/classcocos2d_1_1_c_c_atlas_node.html" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="399,157,506,184"/>
+<area shape="rect" id="node8" href="$d9/d38/classcocos2d_1_1_c_c_motion_streak.html" title="MotionStreak." alt="" coords="389,208,516,235"/>
+<area shape="rect" id="node9" href="$d0/d0a/classcocos2d_1_1_c_c_particle_batch_node.html" title="CCParticleBatchNode is like a batch node: if it contains children, it will draw them in 1 single Open..." alt="" coords="373,259,532,285"/>
+<area shape="rect" id="node10" href="$dd/dd8/classcocos2d_1_1_c_c_particle_system.html" title="Particle System base class." alt="" coords="384,309,521,336"/>
+<area shape="rect" id="node23" href="$d4/de7/classcocos2d_1_1_c_c_sprite.html" title="CCSprite is a 2d image ( http://en.wikipedia.org/wiki/Sprite_(computer_graphics) )" alt="" coords="413,360,492,387"/>
+<area shape="rect" id="node26" href="$dd/d95/classcocos2d_1_1_c_c_sprite_batch_node.html" title="CCSpriteBatchNode is like a batch node: if it contains children, it will draw them in 1 single OpenGL..." alt="" coords="378,411,527,437"/>
+<area shape="rect" id="node6" href="$d7/d84/classcocos2d_1_1_c_c_label_atlas.html" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="611,132,719,159"/>
+<area shape="rect" id="node7" href="$d2/d8b/classcocos2d_1_1_c_c_tile_map_atlas.html" title="CCTileMapAtlas is a subclass of CCAtlasNode." alt="" coords="603,183,728,209"/>
+<area shape="rect" id="node11" href="$d9/df5/classcocos2d_1_1_c_c_particle_system_quad.html" title="CCParticleSystemQuad is a subclass of CCParticleSystem." alt="" coords="580,284,751,311"/>
+<area shape="rect" id="node12" href="$dc/d49/classcocos2d_1_1_c_c_particle_explosion.html" title="An explosion particle system." alt="" coords="799,5,949,32"/>
+<area shape="rect" id="node13" href="$d6/d20/classcocos2d_1_1_c_c_particle_fire.html" title="A fire particle system." alt="" coords="818,56,930,83"/>
+<area shape="rect" id="node14" href="$d7/d6c/classcocos2d_1_1_c_c_particle_fireworks.html" title="A fireworks particle system." alt="" coords="799,107,949,133"/>
+<area shape="rect" id="node15" href="$df/da7/classcocos2d_1_1_c_c_particle_flower.html" title="A flower particle system." alt="" coords="808,157,940,184"/>
+<area shape="rect" id="node16" href="$d9/d53/classcocos2d_1_1_c_c_particle_galaxy.html" title="A galaxy particle system." alt="" coords="807,208,941,235"/>
+<area shape="rect" id="node17" href="$d1/d3f/classcocos2d_1_1_c_c_particle_meteor.html" title="A meteor particle system." alt="" coords="807,259,941,285"/>
+<area shape="rect" id="node18" href="$dd/dcd/classcocos2d_1_1_c_c_particle_rain.html" title="A rain particle system." alt="" coords="815,309,933,336"/>
+<area shape="rect" id="node19" href="$d5/d45/classcocos2d_1_1_c_c_particle_smoke.html" title="An smoke particle system." alt="" coords="808,360,940,387"/>
+<area shape="rect" id="node20" href="$d8/dfe/classcocos2d_1_1_c_c_particle_snow.html" title="An snow particle system." alt="" coords="813,411,935,437"/>
+<area shape="rect" id="node21" href="$da/d14/classcocos2d_1_1_c_c_particle_spiral.html" title="An spiral particle system." alt="" coords="811,461,937,488"/>
+<area shape="rect" id="node22" href="$d6/da3/classcocos2d_1_1_c_c_particle_sun.html" title="A sun particle system." alt="" coords="818,512,930,539"/>
+<area shape="rect" id="node24" href="$df/d72/classcocos2d_1_1_c_c_label_t_t_f.html" title="CCLabelTTF is a subclass of CCTextureNode that knows how to render text labels." alt="" coords="616,360,715,387"/>
+<area shape="rect" id="node25" href="$d4/d5b/classcocos2d_1_1_c_c_text_field_t_t_f.html" title="A simple text input field with TTF font." alt="" coords="813,563,935,589"/>
+<area shape="rect" id="node27" href="$dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html" title="CCLabelBMFont is a subclass of CCSpriteBatchNode." alt="" coords="603,411,727,437"/>
+<area shape="rect" id="node28" href="$da/d5a/classcocos2d_1_1_c_c_t_m_x_layer.html" title="CCTMXLayer represents the TMX layer." alt="" coords="613,461,718,488"/>
+</map>

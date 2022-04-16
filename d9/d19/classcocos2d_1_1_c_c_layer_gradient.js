@@ -1,0 +1,25 @@
+var classcocos2d_1_1_c_c_layer_gradient =
+[
+    [ "getEndColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#ab8e04a46d37f07e57514a9b28c694785", null ],
+    [ "getEndOpacity", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#aec21c479a300b7ba817593978bdc9dc7", null ],
+    [ "getStartColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a0020e0b1ba89e1389653062783633ec8", null ],
+    [ "getStartOpacity", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#ae7ee36ba70451b4d896f6d3bd0e20382", null ],
+    [ "getVector", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#ad8ef9bd2a7a5d1d3b97829b5793e8a36", null ],
+    [ "init", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#ac4ae554e242cee73c504038d88855eba", null ],
+    [ "initWithColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a9343632dbe3f5c992f0bfac81d6e795a", null ],
+    [ "initWithColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#aa09b37da0735bf441526584de6ef1e35", null ],
+    [ "isCompressedInterpolation", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a94d64e1b68aafffa23d23cc4c94c24bd", null ],
+    [ "setCompressedInterpolation", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a1b5f3ec21435c36b5928eec727e39c0c", null ],
+    [ "setEndColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#ab89e92702686ad26fe1bcd3eea46c47e", null ],
+    [ "setEndOpacity", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#ab2392f7e83cc5dd2d93541b50144130c", null ],
+    [ "setStartColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a02d6780b7e3c7ca4667ed4a99914abc1", null ],
+    [ "setStartOpacity", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a205254689ad39cb4b8f0625a16a43172", null ],
+    [ "setVector", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a16b63c115b660f5cd523ee58462842af", null ],
+    [ "updateColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a462e256610fbdba5743b8be5b287d01b", null ],
+    [ "m_AlongVector", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a257a737f2d3264fb81161c31f51e349f", null ],
+    [ "m_bCompressedInterpolation", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a7315a3dd85c603a2b711a1a33ab12eea", null ],
+    [ "m_cEndOpacity", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a489fe445faaa7fede5cb24a04c527e17", null ],
+    [ "m_cStartOpacity", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a15cbe23db327168267607556d329600e", null ],
+    [ "m_endColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#aedb8418662ae75b52bd501aad291ccc7", null ],
+    [ "m_startColor", "d9/d19/classcocos2d_1_1_c_c_layer_gradient.html#a0057e0082b55c3fff1e49daca6524ae4", null ]
+];

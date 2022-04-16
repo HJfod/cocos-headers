@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['xml_5fcan_5fnot_5fconvert_5ftext_0',['XML_CAN_NOT_CONVERT_TEXT',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5acd3c01005cef51a7f4debdb53d3e9cd1',1,'tinyxml2']]],
+  ['xml_5ferror_5felement_5fmismatch_1',['XML_ERROR_ELEMENT_MISMATCH',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5aeda9004f060af071583becfa7c6a0ee9',1,'tinyxml2']]],
+  ['xml_5ferror_5fempty_5fdocument_2',['XML_ERROR_EMPTY_DOCUMENT',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a3ae5fdbf463944e3471ae456fcd2a4c7',1,'tinyxml2']]],
+  ['xml_5ferror_5ffile_5fcould_5fnot_5fbe_5fopened_3',['XML_ERROR_FILE_COULD_NOT_BE_OPENED',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a19b14661f569fb1763916fc7f79fa99f',1,'tinyxml2']]],
+  ['xml_5ferror_5ffile_5fnot_5ffound_4',['XML_ERROR_FILE_NOT_FOUND',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a2975ad2209f7709aa59965c4587d2b30',1,'tinyxml2']]],
+  ['xml_5ferror_5ffile_5fread_5ferror_5',['XML_ERROR_FILE_READ_ERROR',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a6c6a8d2ab5b3575a40d80ece12784709',1,'tinyxml2']]],
+  ['xml_5ferror_5fidentifying_5ftag_6',['XML_ERROR_IDENTIFYING_TAG',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a430f928c9c6e9235a972c0c4b85ab1db',1,'tinyxml2']]],
+  ['xml_5ferror_5fmismatched_5felement_7',['XML_ERROR_MISMATCHED_ELEMENT',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5acb5d3c4ef73464c631721cdea12c5d21',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_8',['XML_ERROR_PARSING',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5ae890f9554855b63186227da8ef23651c',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_5fattribute_9',['XML_ERROR_PARSING_ATTRIBUTE',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a54b6c007beab3d06542e9ad95c959342',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_5fcdata_10',['XML_ERROR_PARSING_CDATA',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a0d3aea14f4ba85c1c0684c3a4a267b16',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_5fcomment_11',['XML_ERROR_PARSING_COMMENT',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5af831eb4075ee731a592a9d41c052eea1',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_5fdeclaration_12',['XML_ERROR_PARSING_DECLARATION',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a3a2632009881f5f0f2efd7eef58cfe12',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_5felement_13',['XML_ERROR_PARSING_ELEMENT',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a932c712cd5c5d3c75df5455e6f713918',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_5ftext_14',['XML_ERROR_PARSING_TEXT',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a7638efbc7d124cd68c6480dbb04920e4',1,'tinyxml2']]],
+  ['xml_5ferror_5fparsing_5funknown_15',['XML_ERROR_PARSING_UNKNOWN',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5abb10f64bbe7c531572aed09a880c2341',1,'tinyxml2']]],
+  ['xml_5fno_5fattribute_16',['XML_NO_ATTRIBUTE',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a5a8c52d46498dcd898b86518225bfd94',1,'tinyxml2']]],
+  ['xml_5fno_5ferror_17',['XML_NO_ERROR',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a7a008ecddecee22c725ba10051189944',1,'tinyxml2']]],
+  ['xml_5fno_5ftext_5fnode_18',['XML_NO_TEXT_NODE',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5ae9ff7a9fe53c552a39a73519f5fcbacd',1,'tinyxml2']]],
+  ['xml_5fsuccess_19',['XML_SUCCESS',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5aa5b8d84ed775cac76d478f7fc5b5e861',1,'tinyxml2']]],
+  ['xml_5fwrong_5fattribute_5ftype_20',['XML_WRONG_ATTRIBUTE_TYPE',['../da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a5b4d2fcac491fe2b65c8edff359ad7a9',1,'tinyxml2']]]
+];

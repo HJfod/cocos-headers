@@ -1,0 +1,11 @@
+<map id="TypeInfo" name="TypeInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="215,5,292,32"/>
+<area shape="rect" id="node2" href="$dd/d1f/classcocos2d_1_1_c_c_call_func_n.html" title="Calls a &#39;callback&#39; with the node as the first argument N means Node NA." alt="" coords="10,80,115,107"/>
+<area shape="rect" id="node4" href="$d9/d91/classcocos2d_1_1_c_c_call_func_o.html" title="Calls a &#39;callback&#39; with an object as the first argument." alt="" coords="139,80,245,107"/>
+<area shape="rect" id="node5" href="$db/d7f/classcocos2d_1_1_c_c_director.html" title="Class that creates and handle the main Window and manages how and when to execute the Scenes." alt="" coords="269,80,361,107"/>
+<area shape="rect" id="node7" href="$d0/ddc/classcocos2d_1_1_c_c_file_utils.html" title="Helper class to handle file operations." alt="" coords="415,80,508,107"/>
+<area shape="rect" id="node3" href="$d9/d9f/classcocos2d_1_1_c_c_call_func_n_d.html" title="Calls a &#39;callback&#39; with the node as the first argument and the 2nd argument is data ND means: Node an..." alt="" coords="5,155,120,181"/>
+<area shape="rect" id="node6" href="$d7/d71/classcocos2d_1_1_c_c_display_link_director.html" title="DisplayLinkDirector is a Director that synchronizes timers with the refresh rate of the display." alt="" coords="201,155,369,181"/>
+<area shape="rect" id="node8" href="$d7/d50/classcocos2d_1_1_c_c_file_utils_win32.html" title="Helper class to handle file operations." alt="" coords="394,155,529,181"/>
+<area shape="rect" id="node9" href="$d4/d1e/classcocos2d_1_1_c_c_file_utils_win_r_t.html" title="Helper class to handle file operations." alt="" coords="553,155,687,181"/>
+</map>

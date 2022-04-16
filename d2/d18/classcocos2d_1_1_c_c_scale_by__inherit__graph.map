@@ -1,0 +1,9 @@
+<map id="CCScaleBy" name="CCScaleBy">
+<area shape="rect" id="node1" title="Scales a CCNode object a zoom factor by modifying it&#39;s scale attribute." alt="" coords="35,453,127,480"/>
+<area shape="rect" id="node2" href="$da/d23/classcocos2d_1_1_c_c_scale_to.html" title="Scales a CCNode object to a zoom factor by modifying it&#39;s scale attribute." alt="" coords="36,379,125,405"/>
+<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="15,304,146,331"/>
+<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="5,229,156,256"/>
+<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="40,155,121,181"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="39,80,122,107"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="34,5,127,32"/>
+</map>

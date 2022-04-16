@@ -1,0 +1,21 @@
+<map id="CCTransitionZoomFlipY" name="CCTransitionZoomFlipY">
+<area shape="rect" id="node1" title="CCTransitionZoomFlipY: Flips the screen vertically doing a little zooming out/in The front face is th..." alt="" coords="2104,321,2277,348"/>
+<area shape="rect" id="node2" href="$df/dbf/classcocos2d_1_1_c_c_transition_scene_oriented.html" title="A CCTransition that supports orientation like." alt="" coords="1856,321,2055,348"/>
+<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="1664,321,1807,348"/>
+<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="1447,321,1525,348"/>
+<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="1323,321,1397,348"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="148,475,231,501"/>
+<area shape="rect" id="node11" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="453,129,544,156"/>
+<area shape="rect" id="node12" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="965,365,1064,392"/>
+<area shape="rect" id="node13" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="619,336,725,363"/>
+<area shape="rect" id="node14" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="280,433,392,460"/>
+<area shape="rect" id="node15" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="453,551,545,577"/>
+<area shape="rect" id="node16" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="299,607,373,633"/>
+<area shape="rect" id="node17" href="$de/dee/classcocos2d_1_1_c_c_scheduler.html" title="Scheduler is responsible for triggering the scheduled callbacks." alt="" coords="620,665,724,692"/>
+<area shape="rect" id="node18" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="763,735,901,761"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,475,99,501"/>
+<area shape="rect" id="node8" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="635,223,709,249"/>
+<area shape="rect" id="node9" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="303,259,369,285"/>
+<area shape="rect" id="node10" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="943,223,1086,249"/>
+<area shape="rect" id="node19" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="925,789,1104,816"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CCTransitionJumpZoom" name="CCTransitionJumpZoom">
+<area shape="rect" id="node1" title="CCTransitionJumpZoom: Zoom out and jump the outgoing scene, and then jump and zoom in the incoming." alt="" coords="5,379,180,405"/>
+<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="21,304,164,331"/>
+<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="53,229,132,256"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="55,155,130,181"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="51,80,134,107"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="46,5,139,32"/>
+</map>

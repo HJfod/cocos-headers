@@ -1,0 +1,6 @@
+<map id="CCTMXTiledMap" name="CCTMXTiledMap">
+<area shape="rect" id="node1" title="CCTMXTiledMap knows how to parse and render a TMX map." alt="" coords="5,229,135,256"/>
+<area shape="rect" id="node2" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="33,155,107,181"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="29,80,111,107"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="23,5,117,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CCAccelDeccelAmplitude" name="CCAccelDeccelAmplitude">
+<area shape="rect" id="node1" title="CCAccelDeccelAmplitude action." alt="" coords="5,379,192,405"/>
+<area shape="rect" id="node2" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="33,304,164,331"/>
+<area shape="rect" id="node3" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="23,229,174,256"/>
+<area shape="rect" id="node4" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="58,155,139,181"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="57,80,140,107"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="52,5,145,32"/>
+</map>

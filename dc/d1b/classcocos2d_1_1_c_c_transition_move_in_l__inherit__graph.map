@@ -1,0 +1,12 @@
+<map id="CCTransitionMoveInL" name="CCTransitionMoveInL">
+<area shape="rect" id="node1" title="CCTransitionMoveInL: Move in from to the left the incoming scene." alt="" coords="190,379,349,405"/>
+<area shape="rect" id="node8" href="$d2/d89/classcocos2d_1_1_c_c_transition_move_in_b.html" title="CCTransitionMoveInB: Move in from to the bottom the incoming scene." alt="" coords="5,453,165,480"/>
+<area shape="rect" id="node9" href="$dc/d98/classcocos2d_1_1_c_c_transition_move_in_r.html" title="CCTransitionMoveInR: Move in from to the right the incoming scene." alt="" coords="189,453,349,480"/>
+<area shape="rect" id="node10" href="$d9/d5f/classcocos2d_1_1_c_c_transition_move_in_t.html" title="CCTransitionMoveInT: Move in from to the top the incoming scene." alt="" coords="374,453,533,480"/>
+<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="107,304,250,331"/>
+<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="139,229,218,256"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="141,155,216,181"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="137,80,220,107"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="132,5,225,32"/>
+<area shape="rect" id="node7" href="$d7/d1a/classcocos2d_1_1_c_c_transition_ease_scene.html" title="CCTransitionEaseScene can ease the actions of the scene protocol." alt="" coords="275,304,448,331"/>
+</map>

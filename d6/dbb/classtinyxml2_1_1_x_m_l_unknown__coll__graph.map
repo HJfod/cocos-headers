@@ -1,0 +1,6 @@
+<map id="XMLUnknown" name="XMLUnknown">
+<area shape="rect" id="node1" title="Any tag that tinyXml doesn&#39;t recognize is saved as an unknown." alt="" coords="5,231,116,257"/>
+<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="113,118,197,145"/>
+<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="141,231,258,257"/>
+<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="123,5,187,32"/>
+</map>

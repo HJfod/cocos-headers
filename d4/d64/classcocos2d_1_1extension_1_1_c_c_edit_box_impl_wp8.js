@@ -1,0 +1,28 @@
+var classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8 =
+[
+    [ "CCEditBoxImplWp8", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#add3d940095e5ba193d9a57a3027ebd84", null ],
+    [ "~CCEditBoxImplWp8", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a688770c6616472ab4ddf604892ac47e4", null ],
+    [ "closeKeyboard", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a6d2930fe991fdccd9e1f5be627cc49bc", null ],
+    [ "doAnimationWhenKeyboardMove", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a39f1d1708898d6babd47b9f5f8908239", null ],
+    [ "getMaxLength", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#aa5f88fa3da0009ee98d3e33a8b42b319", null ],
+    [ "getText", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a1e4be623a795c9134bc61fc5dbf6210e", null ],
+    [ "initWithSize", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a47ad3330f47eb27a039b9a6f7a176b79", null ],
+    [ "isEditing", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a0c10f7ac7e11e2f13e2d58e90bcce510", null ],
+    [ "onEnter", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a8fae500b33cb149a2564a035133855bb", null ],
+    [ "openKeyboard", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a877985f53f17350d16ecd60fe7773db6", null ],
+    [ "setAnchorPoint", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#ada6734bd5ec512293fcba819025ddbe0", null ],
+    [ "setContentSize", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a44cd8a4c5a73010c5cc7c6fbf43595c0", null ],
+    [ "setFont", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a05e1bbde8e719cb8a4a0408c50d63bdf", null ],
+    [ "setFontColor", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#abdfec23c750bd09d19c51123e49ee9b3", null ],
+    [ "setInputFlag", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a4724d38d901cdefbcb702c59c679f87f", null ],
+    [ "setInputMode", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a3b8d117826c21bc070df21b6e605c4ff", null ],
+    [ "setMaxLength", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#aa2e2b0728e0c8f2c7b8a5c18c0574f87", null ],
+    [ "setPlaceHolder", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a28e53d98ece378a65129b7cd8c8c0b56", null ],
+    [ "setPlaceholderFont", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a4e8014ae634f8e774df275ef0b63f9f4", null ],
+    [ "setPlaceholderFontColor", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a808f6a3a154fedd45386f29c8d1b3f40", null ],
+    [ "setPosition", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#ade96292bf4b5d2c40a5c3c0a27763754", null ],
+    [ "setReturnType", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#abafb6844182b65149dc61a91bdbe634a", null ],
+    [ "setText", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#a077d303c31ec97c7ad3070eac11ca2b6", null ],
+    [ "setVisible", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#aff6547edc5bdc358ad27566775035b3c", null ],
+    [ "visit", "d4/d64/classcocos2d_1_1extension_1_1_c_c_edit_box_impl_wp8.html#ad3e11dd159b224765b3bf9cf156e3092", null ]
+];

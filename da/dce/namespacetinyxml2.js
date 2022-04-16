@@ -1,0 +1,47 @@
+var namespacetinyxml2 =
+[
+    [ "DynArray", "d9/d6c/classtinyxml2_1_1_dyn_array.html", "d9/d6c/classtinyxml2_1_1_dyn_array" ],
+    [ "MemPool", "d8/d53/classtinyxml2_1_1_mem_pool.html", "d8/d53/classtinyxml2_1_1_mem_pool" ],
+    [ "MemPoolT", "d2/ddf/classtinyxml2_1_1_mem_pool_t.html", "d2/ddf/classtinyxml2_1_1_mem_pool_t" ],
+    [ "StrPair", "de/dc1/classtinyxml2_1_1_str_pair.html", "de/dc1/classtinyxml2_1_1_str_pair" ],
+    [ "XMLAttribute", "dc/d22/classtinyxml2_1_1_x_m_l_attribute.html", "dc/d22/classtinyxml2_1_1_x_m_l_attribute" ],
+    [ "XMLComment", "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html", "d2/d6d/classtinyxml2_1_1_x_m_l_comment" ],
+    [ "XMLConstHandle", "d3/dd0/classtinyxml2_1_1_x_m_l_const_handle.html", "d3/dd0/classtinyxml2_1_1_x_m_l_const_handle" ],
+    [ "XMLDeclaration", "d2/d89/classtinyxml2_1_1_x_m_l_declaration.html", "d2/d89/classtinyxml2_1_1_x_m_l_declaration" ],
+    [ "XMLDocument", "dc/d59/classtinyxml2_1_1_x_m_l_document.html", "dc/d59/classtinyxml2_1_1_x_m_l_document" ],
+    [ "XMLElement", "d3/da8/classtinyxml2_1_1_x_m_l_element.html", "d3/da8/classtinyxml2_1_1_x_m_l_element" ],
+    [ "XMLHandle", "d9/d1e/classtinyxml2_1_1_x_m_l_handle.html", "d9/d1e/classtinyxml2_1_1_x_m_l_handle" ],
+    [ "XMLNode", "de/d13/classtinyxml2_1_1_x_m_l_node.html", "de/d13/classtinyxml2_1_1_x_m_l_node" ],
+    [ "XMLPrinter", "df/d27/classtinyxml2_1_1_x_m_l_printer.html", "df/d27/classtinyxml2_1_1_x_m_l_printer" ],
+    [ "XMLText", "d3/d66/classtinyxml2_1_1_x_m_l_text.html", "d3/d66/classtinyxml2_1_1_x_m_l_text" ],
+    [ "XMLUnknown", "d4/d65/classtinyxml2_1_1_x_m_l_unknown.html", "d4/d65/classtinyxml2_1_1_x_m_l_unknown" ],
+    [ "XMLUtil", "d6/db0/classtinyxml2_1_1_x_m_l_util.html", null ],
+    [ "XMLVisitor", "d7/dac/classtinyxml2_1_1_x_m_l_visitor.html", "d7/dac/classtinyxml2_1_1_x_m_l_visitor" ],
+    [ "Whitespace", "da/dce/namespacetinyxml2.html#a02a73ec32b8cea5e70914d8f8530cb28", [
+      [ "PRESERVE_WHITESPACE", "da/dce/namespacetinyxml2.html#a02a73ec32b8cea5e70914d8f8530cb28a534959ab0e555d3ce67d60f69904bf3d", null ],
+      [ "COLLAPSE_WHITESPACE", "da/dce/namespacetinyxml2.html#a02a73ec32b8cea5e70914d8f8530cb28a9413477e45936944d6849f49a6707e8f", null ]
+    ] ],
+    [ "XMLError", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5", [
+      [ "XML_NO_ERROR", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a7a008ecddecee22c725ba10051189944", null ],
+      [ "XML_SUCCESS", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5aa5b8d84ed775cac76d478f7fc5b5e861", null ],
+      [ "XML_NO_ATTRIBUTE", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a5a8c52d46498dcd898b86518225bfd94", null ],
+      [ "XML_WRONG_ATTRIBUTE_TYPE", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a5b4d2fcac491fe2b65c8edff359ad7a9", null ],
+      [ "XML_ERROR_FILE_NOT_FOUND", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a2975ad2209f7709aa59965c4587d2b30", null ],
+      [ "XML_ERROR_FILE_COULD_NOT_BE_OPENED", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a19b14661f569fb1763916fc7f79fa99f", null ],
+      [ "XML_ERROR_FILE_READ_ERROR", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a6c6a8d2ab5b3575a40d80ece12784709", null ],
+      [ "XML_ERROR_ELEMENT_MISMATCH", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5aeda9004f060af071583becfa7c6a0ee9", null ],
+      [ "XML_ERROR_PARSING_ELEMENT", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a932c712cd5c5d3c75df5455e6f713918", null ],
+      [ "XML_ERROR_PARSING_ATTRIBUTE", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a54b6c007beab3d06542e9ad95c959342", null ],
+      [ "XML_ERROR_IDENTIFYING_TAG", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a430f928c9c6e9235a972c0c4b85ab1db", null ],
+      [ "XML_ERROR_PARSING_TEXT", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a7638efbc7d124cd68c6480dbb04920e4", null ],
+      [ "XML_ERROR_PARSING_CDATA", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a0d3aea14f4ba85c1c0684c3a4a267b16", null ],
+      [ "XML_ERROR_PARSING_COMMENT", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5af831eb4075ee731a592a9d41c052eea1", null ],
+      [ "XML_ERROR_PARSING_DECLARATION", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a3a2632009881f5f0f2efd7eef58cfe12", null ],
+      [ "XML_ERROR_PARSING_UNKNOWN", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5abb10f64bbe7c531572aed09a880c2341", null ],
+      [ "XML_ERROR_EMPTY_DOCUMENT", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5a3ae5fdbf463944e3471ae456fcd2a4c7", null ],
+      [ "XML_ERROR_MISMATCHED_ELEMENT", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5acb5d3c4ef73464c631721cdea12c5d21", null ],
+      [ "XML_ERROR_PARSING", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5ae890f9554855b63186227da8ef23651c", null ],
+      [ "XML_CAN_NOT_CONVERT_TEXT", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5acd3c01005cef51a7f4debdb53d3e9cd1", null ],
+      [ "XML_NO_TEXT_NODE", "da/dce/namespacetinyxml2.html#ac39bd07b1461aaa70afffe2d7162b4f5ae9ff7a9fe53c552a39a73519f5fcbacd", null ]
+    ] ]
+];

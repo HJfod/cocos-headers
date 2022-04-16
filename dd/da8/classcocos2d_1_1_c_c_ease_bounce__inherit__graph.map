@@ -1,0 +1,12 @@
+<map id="CCEaseBounce" name="CCEaseBounce">
+<area shape="rect" id="node1" title="CCEaseBounce abstract class." alt="" coords="178,453,297,480"/>
+<area shape="rect" id="node8" href="$d8/d2e/classcocos2d_1_1_c_c_ease_bounce_in.html" title="CCEaseBounceIn action." alt="" coords="5,528,136,555"/>
+<area shape="rect" id="node9" href="$d7/d76/classcocos2d_1_1_c_c_ease_bounce_in_out.html" title="CCEaseBounceInOut action." alt="" coords="160,528,315,555"/>
+<area shape="rect" id="node10" href="$d1/d43/classcocos2d_1_1_c_c_ease_bounce_out.html" title="EaseBounceOut action." alt="" coords="339,528,482,555"/>
+<area shape="rect" id="node2" href="$d0/d79/classcocos2d_1_1_c_c_action_ease.html" title="Base class for Easing actions." alt="" coords="181,379,293,405"/>
+<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="172,304,303,331"/>
+<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="162,229,313,256"/>
+<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="197,155,278,181"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="196,80,279,107"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="191,5,284,32"/>
+</map>
