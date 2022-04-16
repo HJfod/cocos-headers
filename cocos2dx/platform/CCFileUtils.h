@@ -157,7 +157,7 @@ public:
     RT_REMOVE(  virtual std::string fullPathForFilename(const char* pszFileName);       )
     RT_ADD(     virtual std::string fullPathForFilename(const char* pszFileName, bool); )
     
-    RT_ADD(virtual void removeFullPath(const char* path));
+    RT_ADD( virtual void removeFullPath(const char* path); )
 
     /**
      * Loads the filenameLookup dictionary from the contents of a filename.
