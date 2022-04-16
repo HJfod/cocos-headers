@@ -2246,7 +2246,10 @@ PREDEFINED             = "CC_PROPERTY_READONLY(varType, varName, funName)=protec
                          NS_CC_EXT_END=}} \
                          "USING_NS_CC_EXT=using namespace cocos2d::extension" \
                          RT_ADD \
-                         RT_REMOVE=
+                         HJ_ADD \
+                         STUB \
+                         RT_REMOVE= \
+                         PAD(size)="char m_achPadding[size]"
 
 # If the MACRO_EXPANSION and EXPAND_ONLY_PREDEF tags are set to YES then this
 # tag can be used to specify a list of macro names that should be expanded. The
