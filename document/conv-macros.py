@@ -30,7 +30,6 @@ def parse_file(text):
 	text = replace_mentions_of_macro(text, "HJ_ADD(", "hjfod")
 
 	return text
-	...
 
 def _main(path):
 	input_path = Path(path)
