@@ -33,8 +33,15 @@ def parse_file(text):
 	...
 
 def _main(path):
+	input_path = Path(path)
+
 	# for some reason the cocos files just randomly mix encodings sometimes. don't ask why
-	text = Path(path).read_text(errors="ignore")
+	text = input_path.read_text(errors="ignore")
+
+	# ignore ccMacros file
+	if input_path.stem == "ccMacros":
+		return text
+
 	output = parse_file(text)
 
 	return output
