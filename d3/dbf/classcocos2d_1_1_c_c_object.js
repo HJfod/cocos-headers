@@ -23,8 +23,8 @@ var classcocos2d_1_1_c_c_object =
     [ "m_eObjType", "d3/dbf/classcocos2d_1_1_c_c_object.html#a328b9307108355ba3c8f2c7e6ba293fe", null ],
     [ "m_nLuaID", "d3/dbf/classcocos2d_1_1_c_c_object.html#a2e7c5208db42440d304e07ff6a5fdeb9", null ],
     [ "m_nTag", "d3/dbf/classcocos2d_1_1_c_c_object.html#af25dc2a4093a8aaccdb4de6de985c84f", null ],
-    [ "m_nUnknown", "d3/dbf/classcocos2d_1_1_c_c_object.html#a98399e02eb556ad32a0a9bf416e18773", null ],
     [ "m_uAutoReleaseCount", "d3/dbf/classcocos2d_1_1_c_c_object.html#aa5158005c8511f55c0a9eceda3970aad", null ],
     [ "m_uID", "d3/dbf/classcocos2d_1_1_c_c_object.html#acb7ad94898bc20f1fbb0bb9006cbeacc", null ],
+    [ "m_uObjectIdxInArray", "d3/dbf/classcocos2d_1_1_c_c_object.html#a5f35de5695ae244ed5ea6a812a32bdea", null ],
     [ "m_uReference", "d3/dbf/classcocos2d_1_1_c_c_object.html#a4d2f1b3fad0a4f1aecfd05b0cc26e3ba", null ]
 ];
