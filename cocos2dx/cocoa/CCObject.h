@@ -86,7 +86,7 @@ protected:
 
     RT_ADD(
         int m_eObjType;
-        int m_nUnknown;
+        unsigned int m_uObjectIdxInArray;
     )
 public:
     CCObject(void);
