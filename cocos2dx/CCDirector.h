@@ -444,6 +444,7 @@ protected:
         CC_SYNTHESIZE_READONLY_NV(int, m_nSmoothFixCounter, SmoothFixCounter);  // not sure about this one either
     )
 
+protected:
     bool m_bPurgeDirecotorInNextLoop; // this flag will be set to true in end()
     
     void setNextScene(void);
