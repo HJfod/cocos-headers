@@ -44,6 +44,7 @@ public:
         virtual void setupGLView();
         virtual void platformShutdown();
         void toggleVerticalSync(bool);
+        bool getVerticalSyncEnabled() const;
     )
 
     /**
