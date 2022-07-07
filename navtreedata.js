@@ -104,10 +104,10 @@ var NAVTREEINDEX =
 "dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a21f02840f823e035f2e1d9e4272b9371",
 "dd/d96/_c_c_platform_config_8h.html#a69ced3459d230b88fde97256ba6e525b",
 "dd/de9/classcocos2d_1_1_c_c_application.html#a20474734933b6a99ba87129a92090267",
-"de/d30/win32_2_c_c_platform_define_8h.html#a9369076a1d417ecdc686cdc2dfb3295f",
-"de/d9b/classcocos2d_1_1_c_c_touch.html#a1b995f94c8a9716748a63dd27d549bc5",
-"df/d33/classcocos2d_1_1_c_c_bezier_by.html#ad1e8b8083f16914754698a9b75895da4",
-"df/de6/cc_types_8h.html#aa56b958f0cc9bdec20a15ed6bea3d0f1a50c42591dcdb835fa83dab0868052c90"
+"de/d30/win32_2_c_c_platform_define_8h.html",
+"de/d9b/classcocos2d_1_1_c_c_touch.html#a00e422d5532f0eb07272ebf874b1d779",
+"df/d33/classcocos2d_1_1_c_c_bezier_by.html#a9b5de086d4e441ce0e265b1c934000e4",
+"df/de6/cc_types_8h.html#a7ec81bc3a093bf8c36b996174d97dda3a826d63d7cce0d2c4f65c13dd1617d4cc"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

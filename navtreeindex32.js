@@ -1,5 +1,7 @@
 var NAVTREEINDEX32 =
 {
+"df/d33/classcocos2d_1_1_c_c_bezier_by.html#a9b5de086d4e441ce0e265b1c934000e4":[6,0,76,1],
+"df/d33/classcocos2d_1_1_c_c_bezier_by.html#ac8cae2d59252ed4c924a6c0ec86527db":[6,0,76,4],
 "df/d33/classcocos2d_1_1_c_c_bezier_by.html#ad1e8b8083f16914754698a9b75895da4":[6,0,76,6],
 "df/d33/classcocos2d_1_1_c_c_bezier_by.html#af26f2fb75e2d69dcd6f383eddab50ef7":[6,0,76,3],
 "df/d33/classcocos2d_1_1_c_c_bezier_by.html#afbe3ac6107114da1d598fd9fd4378a8d":[6,0,76,0],
@@ -135,12 +137,12 @@ var NAVTREEINDEX32 =
 "df/d7e/classcocos2d_1_1_c_c_transition_progress_horizontal.html":[6,10,33],
 "df/d7e/classcocos2d_1_1_c_c_transition_progress_horizontal.html#adb7d6bb79280fe4a13476f9ac0e18524":[6,10,33,0],
 "df/d80/_c_c_label_atlas_8h.html":[9,0,0,7,0],
-"df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html":[7,0,0,0,32],
 "df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html":[8,0,0,0,32],
+"df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html":[7,0,0,0,32],
 "df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#aaac6f8ff8e11dedf433c3aa3b5470c8b":[8,0,0,0,32,0],
 "df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#aaac6f8ff8e11dedf433c3aa3b5470c8b":[7,0,0,0,32,0],
-"df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#acdbfcd172c3e5ef69bfbe3f1998c0bea":[8,0,0,0,32,1],
 "df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#acdbfcd172c3e5ef69bfbe3f1998c0bea":[7,0,0,0,32,1],
+"df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#acdbfcd172c3e5ef69bfbe3f1998c0bea":[8,0,0,0,32,1],
 "df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#ad7f71179d77bdcc4bec500bb7022798a":[7,0,0,0,32,3],
 "df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#ad7f71179d77bdcc4bec500bb7022798a":[8,0,0,0,32,3],
 "df/d91/classcocos2d_1_1extension_1_1_c_c_table_view_delegate.html#aecd72af8d1b565b526e786072f55322f":[7,0,0,0,32,2],
@@ -160,10 +162,10 @@ var NAVTREEINDEX32 =
 "df/da3/classcocos2d_1_1_c_c_flip_y3_d.html":[6,0,43],
 "df/da3/classcocos2d_1_1_c_c_flip_y3_d.html#ac8cae2d59252ed4c924a6c0ec86527db":[6,0,43,1],
 "df/da3/classcocos2d_1_1_c_c_flip_y3_d.html#afbe3ac6107114da1d598fd9fd4378a8d":[6,0,43,0],
-"df/da3/classcocos2d_1_1_c_c_label_protocol.html":[7,0,0,122],
 "df/da3/classcocos2d_1_1_c_c_label_protocol.html":[8,0,0,122],
-"df/da3/classcocos2d_1_1_c_c_label_protocol.html#a03067a0e00c25d592225d58b7acb190e":[7,0,0,122,1],
+"df/da3/classcocos2d_1_1_c_c_label_protocol.html":[7,0,0,122],
 "df/da3/classcocos2d_1_1_c_c_label_protocol.html#a03067a0e00c25d592225d58b7acb190e":[8,0,0,122,1],
+"df/da3/classcocos2d_1_1_c_c_label_protocol.html#a03067a0e00c25d592225d58b7acb190e":[7,0,0,122,1],
 "df/da3/classcocos2d_1_1_c_c_label_protocol.html#af6e0be0e6129ce3d477179ebff73494b":[7,0,0,122,0],
 "df/da3/classcocos2d_1_1_c_c_label_protocol.html#af6e0be0e6129ce3d477179ebff73494b":[8,0,0,122,0],
 "df/da7/classcocos2d_1_1_c_c_particle_flower.html":[6,13,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX32 =
 "df/de6/cc_types_8h.html":[9,0,0,5,5],
 "df/de6/cc_types_8h.html#a7ec81bc3a093bf8c36b996174d97dda3":[9,0,0,5,5,24],
 "df/de6/cc_types_8h.html#a7ec81bc3a093bf8c36b996174d97dda3a344968d311eb1e0eac2a7ea1b5810311":[9,0,0,5,5,24,2],
-"df/de6/cc_types_8h.html#a7ec81bc3a093bf8c36b996174d97dda3a446c5f1f88a1b086d8b7b47a652496ac":[9,0,0,5,5,24,0],
-"df/de6/cc_types_8h.html#a7ec81bc3a093bf8c36b996174d97dda3a826d63d7cce0d2c4f65c13dd1617d4cc":[9,0,0,5,5,24,1],
-"df/de6/cc_types_8h.html#aa56b958f0cc9bdec20a15ed6bea3d0f1":[9,0,0,5,5,23]
+"df/de6/cc_types_8h.html#a7ec81bc3a093bf8c36b996174d97dda3a446c5f1f88a1b086d8b7b47a652496ac":[9,0,0,5,5,24,0]
 };

@@ -14,6 +14,7 @@ var classcocos2d_1_1_c_c_application =
     [ "getStartupScriptFilename", "dd/de9/classcocos2d_1_1_c_c_application.html#a7f1db8eb7cf763999d3f26acdbff4dfc", null ],
     [ "getTargetPlatform", "dd/de9/classcocos2d_1_1_c_c_application.html#affe161b9e6d9dffdba887a4ab71ff0fb", null ],
     [ "getTargetPlatform", "dd/de9/classcocos2d_1_1_c_c_application.html#affe161b9e6d9dffdba887a4ab71ff0fb", null ],
+    [ "getVerticalSyncEnabled", "dd/de9/classcocos2d_1_1_c_c_application.html#a81bee7f6f04d66b094ac2ec75aeff5a3", null ],
     [ "openURL", "dd/de9/classcocos2d_1_1_c_c_application.html#a330999f5122c2c98d8a28ed845c94e35", null ],
     [ "platformShutdown", "dd/de9/classcocos2d_1_1_c_c_application.html#ae08daccd694869d882a1422d6a6e195a", null ],
     [ "run", "dd/de9/classcocos2d_1_1_c_c_application.html#a934fcdbfd9ef8c2fe9fd17192d32ee09", null ],
