@@ -236,7 +236,12 @@ protected:
     CC_PROPERTY(CCParticleBatchNode*, m_pBatchNode, BatchNode);
 
     // index of system in batch node array
-    CC_SYNTHESIZE(unsigned int, m_uAtlasIndex, AtlasIndex);
+    RT_REMOVE(
+        CC_SYNTHESIZE(unsigned int, m_uAtlasIndex, AtlasIndex);
+    )
+    RT_ADD(
+        CC_SYNTHESIZE_NV(unsigned int, m_uAtlasIndex, AtlasIndex);
+    )
 
     //true if scaled or rotated
     bool m_bTransformSystemDirty;
@@ -431,6 +436,13 @@ public:
 
 protected:
     virtual void updateBlendFunc();
+public:
+    RT_ADD(
+        void loadDefaults();
+        void loadScaledDefaults(float);
+        void resumeSystem();
+        void saveDefaults();
+    );
 };
 
 // end of particle_nodes group
