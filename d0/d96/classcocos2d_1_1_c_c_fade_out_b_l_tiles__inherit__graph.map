@@ -1,11 +1,11 @@
 <map id="CCFadeOutBLTiles" name="CCFadeOutBLTiles">
-<area shape="rect" id="node1" title="CCFadeOutBLTiles action." alt="" coords="15,603,154,629"/>
-<area shape="rect" id="node2" href="$da/d0c/classcocos2d_1_1_c_c_fade_out_t_r_tiles.html" title="CCFadeOutTRTiles action Fades out the tiles in a Top&#45;Right direction." alt="" coords="15,528,155,555"/>
-<area shape="rect" id="node3" href="$d0/d92/classcocos2d_1_1_c_c_tiled_grid3_d_action.html" title="Base class for CCTiledGrid3D actions." alt="" coords="5,453,164,480"/>
-<area shape="rect" id="node4" href="$d5/d1e/classcocos2d_1_1_c_c_grid_action.html" title="Base class for Grid actions." alt="" coords="31,379,139,405"/>
-<area shape="rect" id="node5" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="19,304,150,331"/>
-<area shape="rect" id="node6" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="9,229,160,256"/>
-<area shape="rect" id="node7" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="44,155,125,181"/>
-<area shape="rect" id="node8" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="43,80,126,107"/>
-<area shape="rect" id="node9" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="38,5,131,32"/>
+<area shape="rect" id="node1" title="CCFadeOutBLTiles action." alt="" coords="15,592,154,617"/>
+<area shape="rect" id="node2" href="$da/d0c/classcocos2d_1_1_c_c_fade_out_t_r_tiles.html" title="CCFadeOutTRTiles action Fades out the tiles in a Top&#45;Right direction." alt="" coords="15,519,155,544"/>
+<area shape="rect" id="node3" href="$d0/d92/classcocos2d_1_1_c_c_tiled_grid3_d_action.html" title="Base class for CCTiledGrid3D actions." alt="" coords="5,445,164,471"/>
+<area shape="rect" id="node4" href="$d5/d1e/classcocos2d_1_1_c_c_grid_action.html" title="Base class for Grid actions." alt="" coords="31,372,139,397"/>
+<area shape="rect" id="node5" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="19,299,150,324"/>
+<area shape="rect" id="node6" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="9,225,160,251"/>
+<area shape="rect" id="node7" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="44,152,125,177"/>
+<area shape="rect" id="node8" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="43,79,126,104"/>
+<area shape="rect" id="node9" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="38,5,131,31"/>
 </map>

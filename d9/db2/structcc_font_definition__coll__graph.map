@@ -1,6 +1,6 @@
 <map id="ccFontDefinition" name="ccFontDefinition">
-<area shape="rect" id="node1" title="NA NA." alt="" coords="145,184,272,211"/>
-<area shape="rect" id="node2" href="$d7/d39/structcc_color3_b.html" title="RGB color composed of bytes 3 bytes." alt="" coords="5,5,92,32"/>
-<area shape="rect" id="node4" href="$d3/d29/structcc_font_stroke.html" title=" " alt="" coords="156,95,261,121"/>
-<area shape="rect" id="node3" href="$d7/d9c/structcc_font_shadow.html" title="types used for defining fonts properties (i.e." alt="" coords="286,95,401,121"/>
+<area shape="rect" id="node1" title="NA NA." alt="" coords="145,181,272,207"/>
+<area shape="rect" id="node2" href="$d7/d39/structcc_color3_b.html" title="RGB color composed of bytes 3 bytes." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="node4" href="$d3/d29/structcc_font_stroke.html" title=" " alt="" coords="156,93,261,119"/>
+<area shape="rect" id="node3" href="$d7/d9c/structcc_font_shadow.html" title="types used for defining fonts properties (i.e." alt="" coords="286,93,401,119"/>
 </map>

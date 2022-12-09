@@ -1,19 +1,19 @@
 <map id="CCFollow" name="CCFollow">
-<area shape="rect" id="node1" title="CCFollow is an action that &quot;follows&quot; a node." alt="" coords="1815,173,1897,200"/>
-<area shape="rect" id="node2" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="1654,173,1735,200"/>
-<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="148,568,231,595"/>
+<area shape="rect" id="node1" title="CCFollow is an action that &quot;follows&quot; a node." alt="" coords="1815,158,1897,183"/>
+<area shape="rect" id="node2" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="1654,158,1735,183"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="148,569,231,594"/>
 <area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="1347,387,1422,413"/>
-<area shape="rect" id="node9" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="784,284,875,311"/>
-<area shape="rect" id="node10" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="960,585,1059,612"/>
-<area shape="rect" id="node11" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="619,636,725,663"/>
-<area shape="rect" id="node12" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="280,680,392,707"/>
+<area shape="rect" id="node9" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="784,267,875,293"/>
+<area shape="rect" id="node10" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="960,586,1059,611"/>
+<area shape="rect" id="node11" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="619,637,725,662"/>
+<area shape="rect" id="node12" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="280,685,392,710"/>
 <area shape="rect" id="node13" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="453,783,545,809"/>
 <area shape="rect" id="node14" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="299,867,373,893"/>
 <area shape="rect" id="node15" href="$de/dee/classcocos2d_1_1_c_c_scheduler.html" title="Scheduler is responsible for triggering the scheduled callbacks." alt="" coords="620,863,724,889"/>
-<area shape="rect" id="node16" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="429,429,568,456"/>
-<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,568,99,595"/>
+<area shape="rect" id="node16" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="429,430,568,455"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,569,99,594"/>
 <area shape="rect" id="node6" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="635,355,709,381"/>
 <area shape="rect" id="node7" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="303,507,369,533"/>
-<area shape="rect" id="node8" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="938,416,1081,443"/>
-<area shape="rect" id="node17" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="920,160,1099,187"/>
+<area shape="rect" id="node8" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="938,417,1081,442"/>
+<area shape="rect" id="node17" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="920,161,1099,186"/>
 </map>

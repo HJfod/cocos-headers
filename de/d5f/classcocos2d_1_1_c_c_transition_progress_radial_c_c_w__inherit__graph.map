@@ -1,9 +1,9 @@
 <map id="CCTransitionProgressRadialCCW" name="CCTransitionProgressRadialCCW">
-<area shape="rect" id="node1" title="CCTransitionRadialCCW transition." alt="" coords="5,453,236,480"/>
-<area shape="rect" id="node2" href="$d5/dd2/classcocos2d_1_1_c_c_transition_progress.html" title=" " alt="" coords="41,379,200,405"/>
-<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="49,304,192,331"/>
-<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="81,229,160,256"/>
-<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="83,155,158,181"/>
-<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="79,80,162,107"/>
-<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="74,5,167,32"/>
+<area shape="rect" id="node1" title="CCTransitionRadialCCW transition." alt="" coords="5,445,236,471"/>
+<area shape="rect" id="node2" href="$d5/dd2/classcocos2d_1_1_c_c_transition_progress.html" title=" " alt="" coords="41,372,200,397"/>
+<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="49,299,192,324"/>
+<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="81,225,160,251"/>
+<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="83,152,158,177"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="79,79,162,104"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="74,5,167,31"/>
 </map>

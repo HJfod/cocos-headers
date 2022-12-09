@@ -1,6 +1,6 @@
 <map id="XMLElement" name="XMLElement">
-<area shape="rect" id="node1" title="The element is a container class." alt="" coords="5,231,109,257"/>
-<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="106,118,190,145"/>
-<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="133,231,251,257"/>
-<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="116,5,180,32"/>
+<area shape="rect" id="node1" title="The element is a container class." alt="" coords="5,229,109,255"/>
+<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="106,117,190,143"/>
+<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="133,229,251,255"/>
+<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="116,5,180,31"/>
 </map>

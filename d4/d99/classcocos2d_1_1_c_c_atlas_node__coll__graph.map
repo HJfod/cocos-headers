@@ -1,30 +1,30 @@
 <map id="CCAtlasNode" name="CCAtlasNode">
-<area shape="rect" id="node1" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="2029,837,2136,864"/>
-<area shape="rect" id="node2" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="1758,704,1869,730"/>
+<area shape="rect" id="node1" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="2029,839,2136,864"/>
+<area shape="rect" id="node2" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="1758,706,1869,731"/>
 <area shape="rect" id="node3" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="1479,408,1553,434"/>
 <area shape="rect" id="node4" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="154,412,237,438"/>
 <area shape="rect" id="node9" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="548,412,639,438"/>
-<area shape="rect" id="node10" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="1093,594,1192,621"/>
+<area shape="rect" id="node10" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="1093,595,1192,620"/>
 <area shape="rect" id="node11" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="730,752,837,778"/>
-<area shape="rect" id="node12" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="368,724,480,750"/>
-<area shape="rect" id="node13" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="547,462,639,489"/>
-<area shape="rect" id="node14" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="387,190,461,217"/>
+<area shape="rect" id="node12" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="368,727,480,752"/>
+<area shape="rect" id="node13" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="547,464,639,490"/>
+<area shape="rect" id="node14" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="387,191,461,216"/>
 <area shape="rect" id="node15" href="$de/dee/classcocos2d_1_1_c_c_scheduler.html" title="Scheduler is responsible for triggering the scheduled callbacks." alt="" coords="731,276,835,302"/>
-<area shape="rect" id="node16" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="891,53,1029,80"/>
+<area shape="rect" id="node16" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="891,54,1029,79"/>
 <area shape="rect" id="node22" href="$df/d3a/classcocos2d_1_1_c_c_texture_atlas.html" title="A class that implements a Texture Atlas." alt="" coords="1082,892,1203,918"/>
 <area shape="rect" id="node5" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,412,99,438"/>
-<area shape="rect" id="node6" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="747,361,820,388"/>
+<area shape="rect" id="node6" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="747,362,820,387"/>
 <area shape="rect" id="node7" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="391,628,457,654"/>
-<area shape="rect" id="node8" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="1071,326,1214,353"/>
-<area shape="rect" id="node17" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="1053,841,1232,868"/>
-<area shape="rect" id="node18" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="1451,682,1581,709"/>
-<area shape="rect" id="node19" href="$d7/d39/structcc_color3_b.html" title="RGB color composed of bytes 3 bytes." alt="" coords="1473,754,1559,781"/>
-<area shape="rect" id="node20" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="1743,837,1884,864"/>
-<area shape="rect" id="node21" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="1451,837,1581,864"/>
-<area shape="rect" id="node23" href="$dd/d60/structcc_v3_f___c4_b___t2_f___quad.html" title="4 ccVertex3FTex2FColor4B" alt="" coords="700,948,867,974"/>
-<area shape="rect" id="node24" href="$d7/de4/structcc_v3_f___c4_b___t2_f.html" title="a Point with a vertex point, a tex coord point and a color 4B" alt="" coords="361,962,487,989"/>
-<area shape="rect" id="node25" href="$d3/d87/structcc_vertex3_f.html" title="A vertex composed of 2 floats: x, y." alt="" coords="148,1014,243,1041"/>
-<area shape="rect" id="node26" href="$d2/dd4/structcc_color4_b.html" title="RGBA color composed of 4 bytes." alt="" coords="152,913,239,940"/>
-<area shape="rect" id="node27" href="$d0/d46/structcc_tex2_f.html" title="A texcoord composed of 2 floats: u, y." alt="" coords="158,964,233,990"/>
-<area shape="rect" id="node28" href="$d6/d45/structcc_blend_func.html" title="Blend Function used for textures." alt="" coords="1762,938,1865,965"/>
+<area shape="rect" id="node8" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="1071,327,1214,352"/>
+<area shape="rect" id="node17" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="1053,843,1232,868"/>
+<area shape="rect" id="node18" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="1451,684,1581,710"/>
+<area shape="rect" id="node19" href="$d7/d39/structcc_color3_b.html" title="RGB color composed of bytes 3 bytes." alt="" coords="1473,755,1559,780"/>
+<area shape="rect" id="node20" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="1743,839,1884,864"/>
+<area shape="rect" id="node21" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="1451,839,1581,864"/>
+<area shape="rect" id="node23" href="$dd/d60/structcc_v3_f___c4_b___t2_f___quad.html" title="4 ccVertex3FTex2FColor4B" alt="" coords="700,947,867,972"/>
+<area shape="rect" id="node24" href="$d7/de4/structcc_v3_f___c4_b___t2_f.html" title="a Point with a vertex point, a tex coord point and a color 4B" alt="" coords="361,963,487,988"/>
+<area shape="rect" id="node25" href="$d3/d87/structcc_vertex3_f.html" title="A vertex composed of 2 floats: x, y." alt="" coords="148,1012,243,1038"/>
+<area shape="rect" id="node26" href="$d2/dd4/structcc_color4_b.html" title="RGBA color composed of 4 bytes." alt="" coords="152,914,239,939"/>
+<area shape="rect" id="node27" href="$d0/d46/structcc_tex2_f.html" title="A texcoord composed of 2 floats: u, y." alt="" coords="158,963,233,988"/>
+<area shape="rect" id="node28" href="$d6/d45/structcc_blend_func.html" title="Blend Function used for textures." alt="" coords="1762,940,1865,966"/>
 </map>

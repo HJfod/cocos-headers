@@ -1,6 +1,6 @@
 <map id="CCFollow" name="CCFollow">
-<area shape="rect" id="node1" title="CCFollow is an action that &quot;follows&quot; a node." alt="" coords="11,229,93,256"/>
-<area shape="rect" id="node2" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="11,155,93,181"/>
-<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
-<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node1" title="CCFollow is an action that &quot;follows&quot; a node." alt="" coords="11,225,93,251"/>
+<area shape="rect" id="node2" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="11,152,93,177"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
 </map>

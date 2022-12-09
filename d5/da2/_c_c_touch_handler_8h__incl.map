@@ -1,19 +1,19 @@
 <map id="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/touch_dispatcher/CCTouchHandler.h" name="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/touch_dispatcher/CCTouchHandler.h">
-<area shape="rect" id="node1" title=" " alt="" coords="286,5,489,76"/>
-<area shape="rect" id="node2" href="$d8/d70/_c_c_touch_delegate_protocol_8h.html" title=" " alt="" coords="5,199,207,225"/>
-<area shape="rect" id="node3" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="378,281,514,307"/>
-<area shape="rect" id="node13" href="$da/d97/_c_c_touch_dispatcher_8h.html" title=" " alt="" coords="232,124,391,151"/>
-<area shape="rect" id="node16" href="$da/ddc/_c_c_set_8h.html" title=" " alt="" coords="483,124,598,151"/>
-<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="219,587,308,613"/>
-<area shape="rect" id="node4" href="$d9/d2d/_c_c_data_visitor_8h.html" title=" " alt="" coords="463,363,587,389"/>
-<area shape="rect" id="node10" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="277,363,372,389"/>
-<area shape="rect" id="node5" href="$d3/d41/_c_c_platform_macros_8h.html" title=" " alt="" coords="301,512,516,539"/>
-<area shape="rect" id="node9" title=" " alt="" coords="495,437,554,464"/>
-<area shape="rect" id="node7" href="$dd/d96/_c_c_platform_config_8h.html" title=" " alt="" coords="287,661,496,688"/>
-<area shape="rect" id="node8" title=" " alt="" coords="332,587,483,613"/>
-<area shape="rect" id="node11" href="$d5/d22/_c_c_common_8h.html" title=" " alt="" coords="301,437,471,464"/>
-<area shape="rect" id="node12" title=" " alt="" coords="143,437,226,464"/>
-<area shape="rect" id="node14" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="231,199,357,225"/>
-<area shape="rect" id="node15" title=" " alt="" coords="194,273,354,315"/>
-<area shape="rect" id="node17" title=" " alt="" coords="534,199,577,225"/>
+<area shape="rect" id="node1" title=" " alt="" coords="286,5,489,75"/>
+<area shape="rect" id="node2" href="$d8/d70/_c_c_touch_delegate_protocol_8h.html" title=" " alt="" coords="5,196,207,221"/>
+<area shape="rect" id="node3" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="378,277,514,302"/>
+<area shape="rect" id="node13" href="$da/d97/_c_c_touch_dispatcher_8h.html" title=" " alt="" coords="232,123,391,148"/>
+<area shape="rect" id="node16" href="$da/ddc/_c_c_set_8h.html" title=" " alt="" coords="483,123,598,148"/>
+<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="219,577,308,603"/>
+<area shape="rect" id="node4" href="$d9/d2d/_c_c_data_visitor_8h.html" title=" " alt="" coords="463,357,587,383"/>
+<area shape="rect" id="node10" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="277,357,372,383"/>
+<area shape="rect" id="node5" href="$d3/d41/_c_c_platform_macros_8h.html" title=" " alt="" coords="301,504,516,529"/>
+<area shape="rect" id="node9" title=" " alt="" coords="495,431,554,456"/>
+<area shape="rect" id="node7" href="$dd/d96/_c_c_platform_config_8h.html" title=" " alt="" coords="287,651,496,676"/>
+<area shape="rect" id="node8" title=" " alt="" coords="332,577,483,603"/>
+<area shape="rect" id="node11" href="$d5/d22/_c_c_common_8h.html" title=" " alt="" coords="301,431,471,456"/>
+<area shape="rect" id="node12" title=" " alt="" coords="143,431,226,456"/>
+<area shape="rect" id="node14" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="231,196,357,221"/>
+<area shape="rect" id="node15" title=" " alt="" coords="194,269,354,309"/>
+<area shape="rect" id="node17" title=" " alt="" coords="534,196,577,221"/>
 </map>

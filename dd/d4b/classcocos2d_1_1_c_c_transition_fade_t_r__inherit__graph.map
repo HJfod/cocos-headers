@@ -1,12 +1,12 @@
 <map id="CCTransitionFadeTR" name="CCTransitionFadeTR">
-<area shape="rect" id="node1" title="CCTransitionFadeTR: Fade the tiles of the outgoing scene from the left&#45;bottom corner the to top&#45;right..." alt="" coords="189,379,339,405"/>
-<area shape="rect" id="node8" href="$d8/dc3/classcocos2d_1_1_c_c_transition_fade_b_l.html" title="CCTransitionFadeBL: Fade the tiles of the outgoing scene from the top&#45;right corner to the bottom&#45;left..." alt="" coords="5,453,155,480"/>
-<area shape="rect" id="node9" href="$de/d35/classcocos2d_1_1_c_c_transition_fade_down.html" title="CCTransitionFadeDown: Fade the tiles of the outgoing scene from the top to the bottom." alt="" coords="179,453,349,480"/>
-<area shape="rect" id="node10" href="$d5/dc2/classcocos2d_1_1_c_c_transition_fade_up.html" title="CCTransitionFadeUp: Fade the tiles of the outgoing scene from the bottom to the top." alt="" coords="374,453,525,480"/>
-<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="102,304,245,331"/>
-<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="134,229,213,256"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="136,155,211,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="132,80,215,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="127,5,220,32"/>
-<area shape="rect" id="node7" href="$d7/d1a/classcocos2d_1_1_c_c_transition_ease_scene.html" title="CCTransitionEaseScene can ease the actions of the scene protocol." alt="" coords="269,304,443,331"/>
+<area shape="rect" id="node1" title="CCTransitionFadeTR: Fade the tiles of the outgoing scene from the left&#45;bottom corner the to top&#45;right..." alt="" coords="189,372,339,397"/>
+<area shape="rect" id="node8" href="$d8/dc3/classcocos2d_1_1_c_c_transition_fade_b_l.html" title="CCTransitionFadeBL: Fade the tiles of the outgoing scene from the top&#45;right corner to the bottom&#45;left..." alt="" coords="5,445,155,471"/>
+<area shape="rect" id="node9" href="$de/d35/classcocos2d_1_1_c_c_transition_fade_down.html" title="CCTransitionFadeDown: Fade the tiles of the outgoing scene from the top to the bottom." alt="" coords="179,445,349,471"/>
+<area shape="rect" id="node10" href="$d5/dc2/classcocos2d_1_1_c_c_transition_fade_up.html" title="CCTransitionFadeUp: Fade the tiles of the outgoing scene from the bottom to the top." alt="" coords="374,445,525,471"/>
+<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="102,299,245,324"/>
+<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="134,225,213,251"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="136,152,211,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="132,79,215,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="127,5,220,31"/>
+<area shape="rect" id="node7" href="$d7/d1a/classcocos2d_1_1_c_c_transition_ease_scene.html" title="CCTransitionEaseScene can ease the actions of the scene protocol." alt="" coords="269,299,443,324"/>
 </map>

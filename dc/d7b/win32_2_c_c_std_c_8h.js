@@ -7,5 +7,5 @@ var win32_2_c_c_std_c_8h =
     [ "MAX", "dc/d7b/win32_2_c_c_std_c_8h.html#a392fb874e547e582e9c66a08a1f23326", null ],
     [ "MIN", "dc/d7b/win32_2_c_c_std_c_8h.html#adbd5cbe76e047a39e0a34f085cdae6fe", null ],
     [ "snprintf", "dc/d7b/win32_2_c_c_std_c_8h.html#aa367b75c5aed883fef5befbdf04835a4", null ],
-    [ "gettimeofday", "dc/d7b/win32_2_c_c_std_c_8h.html#a8b715f03172d7f364910329b9bdc4e0b", null ]
+    [ "gettimeofday", "dc/d7b/win32_2_c_c_std_c_8h.html#aaae273cb94145e7e4aca64e87f376de8", null ]
 ];

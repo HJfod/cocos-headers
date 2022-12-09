@@ -1,8 +1,8 @@
 <map id="CCTransitionPageTurn" name="CCTransitionPageTurn">
-<area shape="rect" id="node1" title="A transition which peels back the bottom right hand corner of a scene to transition to the scene bene..." alt="" coords="5,379,167,405"/>
-<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="15,304,157,331"/>
-<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="47,229,125,256"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="49,155,123,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="45,80,127,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="39,5,133,32"/>
+<area shape="rect" id="node1" title="A transition which peels back the bottom right hand corner of a scene to transition to the scene bene..." alt="" coords="5,372,167,397"/>
+<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="15,299,157,324"/>
+<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="47,225,125,251"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="49,152,123,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="45,79,127,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="39,5,133,31"/>
 </map>

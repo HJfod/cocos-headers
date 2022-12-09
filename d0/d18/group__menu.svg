@@ -12,7 +12,7 @@
 <g id="node1" class="node">
 <title>Node2</title>
 <g id="a_node1"><a xlink:href="../../d5/d89/group___g_u_i.html" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="35,-19 0,-19 0,0 35,0 35,-19"/>
+<polygon fill="white" stroke="#666666" points="35,-19 0,-19 0,0 35,0 35,-19"/>
 <text text-anchor="middle" x="17.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">GUI</text>
 </a>
 </g>
@@ -21,7 +21,7 @@
 <g id="node2" class="node">
 <title>Node1</title>
 <g id="a_node2"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="170,-19 71,-19 71,0 170,0 170,-19"/>
+<polygon fill="#999999" stroke="#666666" points="170,-19 71,-19 71,0 170,0 170,-19"/>
 <text text-anchor="middle" x="120.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Menu, MenuItem</text>
 </a>
 </g>

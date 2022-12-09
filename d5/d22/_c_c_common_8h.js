@@ -15,7 +15,7 @@ var _c_c_common_8h =
       [ "kLanguagePortuguese", "d5/d22/_c_c_common_8h.html#gga43c6a99a7c86304935fc60a733fa20d2a00f44053a682c789a8c9b33654fbca20", null ],
       [ "kLanguageArabic", "d5/d22/_c_c_common_8h.html#gga43c6a99a7c86304935fc60a733fa20d2abad9a8fc8ebd062e1d4a92bec70f47e1", null ]
     ] ],
-    [ "CCLog", "d5/d22/_c_c_common_8h.html#ga1c48e8042c166ea62e71502c17673c63", null ],
-    [ "CCLuaLog", "d5/d22/_c_c_common_8h.html#ga29ae06f9153ae659197823e82fc0318e", null ],
-    [ "CCMessageBox", "d5/d22/_c_c_common_8h.html#gaafbae48c0299951392420b0583d5030b", null ]
+    [ "CCLog", "d5/d22/_c_c_common_8h.html#ga880354511077f4f194aa9948bd58fa52", null ],
+    [ "CCLuaLog", "d5/d22/_c_c_common_8h.html#ga2192266587b6c9c646763fba9990b364", null ],
+    [ "CCMessageBox", "d5/d22/_c_c_common_8h.html#ga06d0c902120b1625b3662c0b47adcb2d", null ]
 ];

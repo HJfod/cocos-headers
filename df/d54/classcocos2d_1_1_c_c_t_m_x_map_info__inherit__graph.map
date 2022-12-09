@@ -1,6 +1,6 @@
 <map id="CCTMXMapInfo" name="CCTMXMapInfo">
-<area shape="rect" id="node1" title="CCTMXMapInfo contains the information about the map like:" alt="" coords="56,155,179,181"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node4" href="$d8/d6a/classcocos2d_1_1_c_c_s_a_x_delegator.html" title="NA NA." alt="" coords="117,80,248,107"/>
+<area shape="rect" id="node1" title="CCTMXMapInfo contains the information about the map like:" alt="" coords="56,152,179,177"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node4" href="$d8/d6a/classcocos2d_1_1_c_c_s_a_x_delegator.html" title="NA NA." alt="" coords="117,79,248,104"/>
 </map>

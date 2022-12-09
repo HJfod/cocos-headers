@@ -1,6 +1,6 @@
 <map id="CCAnimation" name="CCAnimation">
-<area shape="rect" id="node1" title="A CCAnimation object is used to perform animations on the CCSprite objects." alt="" coords="5,247,112,273"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="12,81,95,108"/>
-<area shape="rect" id="node4" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="75,157,149,184"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="7,5,100,32"/>
+<area shape="rect" id="node1" title="A CCAnimation object is used to perform animations on the CCSprite objects." alt="" coords="5,243,112,268"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="12,80,95,105"/>
+<area shape="rect" id="node4" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="75,155,149,180"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="7,5,100,31"/>
 </map>

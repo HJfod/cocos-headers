@@ -1,9 +1,9 @@
 <map id="CCTransitionProgressOutIn" name="CCTransitionProgressOutIn">
-<area shape="rect" id="node1" title=" " alt="" coords="5,453,200,480"/>
-<area shape="rect" id="node2" href="$d5/dd2/classcocos2d_1_1_c_c_transition_progress.html" title=" " alt="" coords="23,379,182,405"/>
-<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="31,304,174,331"/>
-<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="63,229,142,256"/>
-<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="65,155,140,181"/>
-<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="61,80,144,107"/>
-<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="56,5,149,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,445,200,471"/>
+<area shape="rect" id="node2" href="$d5/dd2/classcocos2d_1_1_c_c_transition_progress.html" title=" " alt="" coords="23,372,182,397"/>
+<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="31,299,174,324"/>
+<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="63,225,142,251"/>
+<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="65,152,140,177"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="61,79,144,104"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="56,5,149,31"/>
 </map>

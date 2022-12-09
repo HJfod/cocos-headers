@@ -1,10 +1,10 @@
 <map id="CCMenuItemSprite" name="CCMenuItemSprite">
-<area shape="rect" id="node1" title="CCMenuItemSprite accepts CCNode&lt;CCRGBAProtocol&gt; objects as items." alt="" coords="43,379,187,405"/>
-<area shape="rect" id="node8" href="$d0/d4f/classcocos2d_1_1_c_c_menu_item_image.html" title="CCMenuItemImage accepts images as items." alt="" coords="41,453,188,480"/>
-<area shape="rect" id="node2" href="$d3/ddc/classcocos2d_1_1_c_c_menu_item.html" title="CCMenuItem base class." alt="" coords="61,304,168,331"/>
-<area shape="rect" id="node3" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="59,229,170,256"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,155,89,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node7" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="113,155,244,181"/>
+<area shape="rect" id="node1" title="CCMenuItemSprite accepts CCNode&lt;CCRGBAProtocol&gt; objects as items." alt="" coords="43,372,187,397"/>
+<area shape="rect" id="node8" href="$d0/d4f/classcocos2d_1_1_c_c_menu_item_image.html" title="CCMenuItemImage accepts images as items." alt="" coords="41,445,188,471"/>
+<area shape="rect" id="node2" href="$d3/ddc/classcocos2d_1_1_c_c_menu_item.html" title="CCMenuItem base class." alt="" coords="61,299,168,324"/>
+<area shape="rect" id="node3" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="59,225,170,251"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,152,89,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node7" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="113,152,244,177"/>
 </map>

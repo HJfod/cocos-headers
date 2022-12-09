@@ -1,12 +1,12 @@
 <map id="CCEaseRateAction" name="CCEaseRateAction">
-<area shape="rect" id="node1" title="Base class for Easing actions with rate parameters." alt="" coords="94,453,237,480"/>
-<area shape="rect" id="node8" href="$d5/d13/classcocos2d_1_1_c_c_ease_in.html" title="CCEaseIn action with a rate." alt="" coords="5,528,88,555"/>
-<area shape="rect" id="node9" href="$d9/d10/classcocos2d_1_1_c_c_ease_in_out.html" title="CCEaseInOut action with a rate." alt="" coords="112,528,219,555"/>
-<area shape="rect" id="node10" href="$d0/ddb/classcocos2d_1_1_c_c_ease_out.html" title="CCEaseOut action with a rate." alt="" coords="243,528,338,555"/>
-<area shape="rect" id="node2" href="$d0/d79/classcocos2d_1_1_c_c_action_ease.html" title="Base class for Easing actions." alt="" coords="109,379,221,405"/>
-<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="100,304,231,331"/>
-<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="90,229,241,256"/>
-<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="125,155,206,181"/>
-<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="124,80,207,107"/>
-<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="119,5,212,32"/>
+<area shape="rect" id="node1" title="Base class for Easing actions with rate parameters." alt="" coords="94,445,237,471"/>
+<area shape="rect" id="node8" href="$d5/d13/classcocos2d_1_1_c_c_ease_in.html" title="CCEaseIn action with a rate." alt="" coords="5,519,88,544"/>
+<area shape="rect" id="node9" href="$d9/d10/classcocos2d_1_1_c_c_ease_in_out.html" title="CCEaseInOut action with a rate." alt="" coords="112,519,219,544"/>
+<area shape="rect" id="node10" href="$d0/ddb/classcocos2d_1_1_c_c_ease_out.html" title="CCEaseOut action with a rate." alt="" coords="243,519,338,544"/>
+<area shape="rect" id="node2" href="$d0/d79/classcocos2d_1_1_c_c_action_ease.html" title="Base class for Easing actions." alt="" coords="109,372,221,397"/>
+<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="100,299,231,324"/>
+<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="90,225,241,251"/>
+<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="125,152,206,177"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="124,79,207,104"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="119,5,212,31"/>
 </map>

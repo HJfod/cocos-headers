@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['_5f_5fccaffinetransformmake_0',['__CCAffineTransformMake',['../d2/dc0/namespacecocos2d.html#a0d0023b5f07d7db03895e846a1d478ba',1,'cocos2d']]],
-  ['_5f_5fccpointapplyaffinetransform_1',['__CCPointApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#afbdeb513da471f8d2574e7e78496f8da',1,'cocos2d']]],
-  ['_5f_5fccsizeapplyaffinetransform_2',['__CCSizeApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#a57ecc8f0484873fcf185f3c7d55e8a90',1,'cocos2d']]],
-  ['_5f_5fcreatesystemeditbox_3',['__createSystemEditBox',['../d1/d50/namespacecocos2d_1_1extension.html#a1b58613fb2ff05a994d8d2568026be40',1,'cocos2d::extension']]],
+  ['_5f_5fccaffinetransformmake_0',['__CCAffineTransformMake',['../d2/dc0/namespacecocos2d.html#a0396c7de71805009e90ebe9a84aac615',1,'cocos2d']]],
+  ['_5f_5fccpointapplyaffinetransform_1',['__CCPointApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#a6926eab93db544bbf616bb64eaafaf98',1,'cocos2d']]],
+  ['_5f_5fccsizeapplyaffinetransform_2',['__CCSizeApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#a0b5bd23f7bdeaf0e4d152674e414b241',1,'cocos2d']]],
+  ['_5f_5fcreatesystemeditbox_3',['__createSystemEditBox',['../d1/d50/namespacecocos2d_1_1extension.html#a4b6755d8c2ac5aa1896e293ea048ed28',1,'cocos2d::extension']]],
   ['_5f_5findexfromoffset_4',['__indexFromOffset',['../d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html#ad8b8e74ffc726e54f81d0f5ec0783d61',1,'cocos2d::extension::CCTableView']]],
   ['_5f_5foffsetfromindex_5',['__offsetFromIndex',['../d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html#a2ce502d002f8ae247c249f9a6f958710',1,'cocos2d::extension::CCTableView']]],
   ['_5faddcellifnecessary_6',['_addCellIfNecessary',['../d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html#ae2b2ed212d4a07bb27b97006409bafbf',1,'cocos2d::extension::CCTableView']]],

@@ -1,14 +1,14 @@
 <map id="CCTransitionSceneOriented" name="CCTransitionSceneOriented">
-<area shape="rect" id="node1" title="A CCTransition that supports orientation like." alt="" coords="717,132,916,159"/>
-<area shape="rect" id="node7" href="$de/d08/classcocos2d_1_1_c_c_transition_flip_angular.html" title="CCTransitionFlipAngular: Flips the screen half horizontally and half vertically." alt="" coords="983,5,1160,32"/>
-<area shape="rect" id="node8" href="$d9/d4a/classcocos2d_1_1_c_c_transition_flip_x.html" title="CCTransitionFlipX: Flips the screen horizontally." alt="" coords="1003,56,1139,83"/>
-<area shape="rect" id="node9" href="$d4/dfa/classcocos2d_1_1_c_c_transition_flip_y.html" title="CCTransitionFlipY: Flips the screen vertically." alt="" coords="1004,107,1139,133"/>
-<area shape="rect" id="node10" href="$d1/d91/classcocos2d_1_1_c_c_transition_zoom_flip_angular.html" title="CCTransitionZoomFlipAngular: Flips the screen half horizontally and half vertically doing a little zo..." alt="" coords="964,157,1179,184"/>
-<area shape="rect" id="node11" href="$da/df6/classcocos2d_1_1_c_c_transition_zoom_flip_x.html" title="CCTransitionZoomFlipX: Flips the screen horizontally doing a zoom out/in The front face is the outgoi..." alt="" coords="984,208,1159,235"/>
-<area shape="rect" id="node12" href="$de/d5d/classcocos2d_1_1_c_c_transition_zoom_flip_y.html" title="CCTransitionZoomFlipY: Flips the screen vertically doing a little zooming out/in The front face is th..." alt="" coords="985,259,1158,285"/>
-<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="527,132,669,159"/>
-<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="400,132,479,159"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="277,132,352,159"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,132,229,159"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,132,99,159"/>
+<area shape="rect" id="node1" title="A CCTransition that supports orientation like." alt="" coords="717,129,916,155"/>
+<area shape="rect" id="node7" href="$de/d08/classcocos2d_1_1_c_c_transition_flip_angular.html" title="CCTransitionFlipAngular: Flips the screen half horizontally and half vertically." alt="" coords="983,5,1160,31"/>
+<area shape="rect" id="node8" href="$d9/d4a/classcocos2d_1_1_c_c_transition_flip_x.html" title="CCTransitionFlipX: Flips the screen horizontally." alt="" coords="1003,55,1139,80"/>
+<area shape="rect" id="node9" href="$d4/dfa/classcocos2d_1_1_c_c_transition_flip_y.html" title="CCTransitionFlipY: Flips the screen vertically." alt="" coords="1004,104,1139,129"/>
+<area shape="rect" id="node10" href="$d1/d91/classcocos2d_1_1_c_c_transition_zoom_flip_angular.html" title="CCTransitionZoomFlipAngular: Flips the screen half horizontally and half vertically doing a little zo..." alt="" coords="964,153,1179,179"/>
+<area shape="rect" id="node11" href="$da/df6/classcocos2d_1_1_c_c_transition_zoom_flip_x.html" title="CCTransitionZoomFlipX: Flips the screen horizontally doing a zoom out/in The front face is the outgoi..." alt="" coords="984,203,1159,228"/>
+<area shape="rect" id="node12" href="$de/d5d/classcocos2d_1_1_c_c_transition_zoom_flip_y.html" title="CCTransitionZoomFlipY: Flips the screen vertically doing a little zooming out/in The front face is th..." alt="" coords="985,252,1158,277"/>
+<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="527,129,669,155"/>
+<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="400,129,479,155"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="277,129,352,155"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,129,229,155"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,129,99,155"/>
 </map>

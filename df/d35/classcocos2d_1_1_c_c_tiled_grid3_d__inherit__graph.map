@@ -1,6 +1,6 @@
 <map id="CCTiledGrid3D" name="CCTiledGrid3D">
-<area shape="rect" id="node1" title="CCTiledGrid3D is a 3D grid implementation." alt="" coords="5,229,123,256"/>
-<area shape="rect" id="node2" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="15,155,113,181"/>
-<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="23,80,105,107"/>
-<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="17,5,111,32"/>
+<area shape="rect" id="node1" title="CCTiledGrid3D is a 3D grid implementation." alt="" coords="5,225,123,251"/>
+<area shape="rect" id="node2" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="15,152,113,177"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="23,79,105,104"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="17,5,111,31"/>
 </map>

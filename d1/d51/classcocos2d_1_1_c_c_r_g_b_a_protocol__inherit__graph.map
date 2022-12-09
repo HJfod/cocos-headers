@@ -1,35 +1,35 @@
 <map id="CCRGBAProtocol" name="CCRGBAProtocol">
-<area shape="rect" id="node1" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="5,212,136,239"/>
-<area shape="rect" id="node2" href="$dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html" title="CCLabelBMFont is a subclass of CCSpriteBatchNode." alt="" coords="184,161,308,188"/>
-<area shape="rect" id="node3" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="189,212,303,239"/>
-<area shape="rect" id="node17" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="191,629,301,656"/>
-<area shape="rect" id="node4" href="$da/d2c/classcocos2d_1_1_c_c_layer_color.html" title="CCLayerColor is a subclass of CCLayer that implements the CCRGBAProtocol protocol." alt="" coords="368,56,479,83"/>
-<area shape="rect" id="node6" href="$d1/da0/classcocos2d_1_1_c_c_menu.html" title="A CCMenu." alt="" coords="385,187,461,213"/>
-<area shape="rect" id="node7" href="$d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html" title=" " alt="" coords="380,237,467,264"/>
-<area shape="rect" id="node5" href="$d9/d19/classcocos2d_1_1_c_c_layer_gradient.html" title="CCLayerGradient is a subclass of CCLayerColor that draws gradients across the background." alt="" coords="584,5,716,32"/>
-<area shape="rect" id="node8" href="$d5/d52/classcocos2d_1_1extension_1_1_c_c_control_button.html" title="for Cocos2D." alt="" coords="585,56,715,83"/>
-<area shape="rect" id="node10" href="$d3/def/classcocos2d_1_1extension_1_1_c_c_control_colour_picker.html" title=" " alt="" coords="566,107,734,133"/>
-<area shape="rect" id="node11" href="$da/de8/classcocos2d_1_1extension_1_1_c_c_control_hue_picker.html" title=" " alt="" coords="574,157,726,184"/>
-<area shape="rect" id="node12" href="$d8/dfb/classcocos2d_1_1extension_1_1_c_c_control_potentiometer.html" title="for Cocos2D." alt="" coords="560,208,740,235"/>
-<area shape="rect" id="node13" href="$d2/d34/classcocos2d_1_1extension_1_1_c_c_control_saturation_brightness_picker.html" title=" " alt="" coords="539,259,761,301"/>
-<area shape="rect" id="node14" href="$d1/d6f/classcocos2d_1_1extension_1_1_c_c_control_slider.html" title=" " alt="" coords="588,325,712,352"/>
-<area shape="rect" id="node15" href="$d7/d7a/classcocos2d_1_1extension_1_1_c_c_control_stepper.html" title=" " alt="" coords="581,376,719,403"/>
-<area shape="rect" id="node16" href="$d9/dd1/classcocos2d_1_1extension_1_1_c_c_control_switch.html" title="for Cocos2D." alt="" coords="585,427,715,453"/>
-<area shape="rect" id="node9" href="$d7/dc3/classcocos2d_1_1extension_1_1_c_c_edit_box.html" title="Class for edit box." alt="" coords="847,56,938,83"/>
-<area shape="rect" id="node18" href="$d7/d70/classcocos2d_1_1_c_c_atlas_node.html" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="370,528,477,555"/>
-<area shape="rect" id="node21" href="$d3/ddc/classcocos2d_1_1_c_c_menu_item.html" title="CCMenuItem base class." alt="" coords="370,579,477,605"/>
-<area shape="rect" id="node28" href="$d9/d38/classcocos2d_1_1_c_c_motion_streak.html" title="MotionStreak." alt="" coords="360,629,487,656"/>
-<area shape="rect" id="node29" href="$dc/db9/classcocos2d_1_1_c_c_progress_timer.html" title="CCProgressTimer is a subclass of CCNode." alt="" coords="356,680,491,707"/>
-<area shape="rect" id="node30" href="$d4/de7/classcocos2d_1_1_c_c_sprite.html" title="CCSprite is a 2d image ( http://en.wikipedia.org/wiki/Sprite_(computer_graphics) )" alt="" coords="384,731,463,757"/>
-<area shape="rect" id="node33" href="$d7/d8b/classcocos2d_1_1extension_1_1_c_c_scale9_sprite.html" title="A 9&#45;slice sprite for cocos2d." alt="" coords="363,781,484,808"/>
-<area shape="rect" id="node19" href="$d7/d84/classcocos2d_1_1_c_c_label_atlas.html" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="596,477,704,504"/>
-<area shape="rect" id="node20" href="$d2/d8b/classcocos2d_1_1_c_c_tile_map_atlas.html" title="CCTileMapAtlas is a subclass of CCAtlasNode." alt="" coords="587,528,713,555"/>
-<area shape="rect" id="node22" href="$d3/dc3/classcocos2d_1_1_c_c_menu_item_label.html" title="An abstract class for &quot;label&quot; CCMenuItemLabel items Any CCNode that supports the CCLabelProtocol prot..." alt="" coords="579,579,721,605"/>
-<area shape="rect" id="node25" href="$db/dbd/classcocos2d_1_1_c_c_menu_item_sprite.html" title="CCMenuItemSprite accepts CCNode&lt;CCRGBAProtocol&gt; objects as items." alt="" coords="578,629,722,656"/>
-<area shape="rect" id="node27" href="$dd/dd3/classcocos2d_1_1_c_c_menu_item_toggle.html" title="A CCMenuItemToggle A simple container class that &quot;toggles&quot; it&#39;s inner items The inner items can be an..." alt="" coords="576,680,724,707"/>
-<area shape="rect" id="node23" href="$d4/dc6/classcocos2d_1_1_c_c_menu_item_atlas_font.html" title="A CCMenuItemAtlasFont Helper class that creates a MenuItemLabel class with a LabelAtlas." alt="" coords="809,528,976,555"/>
-<area shape="rect" id="node24" href="$d0/d45/classcocos2d_1_1_c_c_menu_item_font.html" title="A CCMenuItemFont Helper class that creates a CCMenuItemLabel class with a Label." alt="" coords="825,579,960,605"/>
-<area shape="rect" id="node26" href="$d0/d4f/classcocos2d_1_1_c_c_menu_item_image.html" title="CCMenuItemImage accepts images as items." alt="" coords="819,629,966,656"/>
-<area shape="rect" id="node31" href="$df/d72/classcocos2d_1_1_c_c_label_t_t_f.html" title="CCLabelTTF is a subclass of CCTextureNode that knows how to render text labels." alt="" coords="601,731,699,757"/>
-<area shape="rect" id="node32" href="$d4/d5b/classcocos2d_1_1_c_c_text_field_t_t_f.html" title="A simple text input field with TTF font." alt="" coords="831,731,954,757"/>
+<area shape="rect" id="node1" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="5,208,136,233"/>
+<area shape="rect" id="node2" href="$dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html" title="CCLabelBMFont is a subclass of CCSpriteBatchNode." alt="" coords="184,159,308,184"/>
+<area shape="rect" id="node3" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="189,208,303,233"/>
+<area shape="rect" id="node17" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="191,613,301,639"/>
+<area shape="rect" id="node4" href="$da/d2c/classcocos2d_1_1_c_c_layer_color.html" title="CCLayerColor is a subclass of CCLayer that implements the CCRGBAProtocol protocol." alt="" coords="368,56,479,81"/>
+<area shape="rect" id="node6" href="$d1/da0/classcocos2d_1_1_c_c_menu.html" title="A CCMenu." alt="" coords="385,183,461,208"/>
+<area shape="rect" id="node7" href="$d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html" title=" " alt="" coords="380,232,467,257"/>
+<area shape="rect" id="node5" href="$d9/d19/classcocos2d_1_1_c_c_layer_gradient.html" title="CCLayerGradient is a subclass of CCLayerColor that draws gradients across the background." alt="" coords="584,5,716,31"/>
+<area shape="rect" id="node8" href="$d5/d52/classcocos2d_1_1extension_1_1_c_c_control_button.html" title="for Cocos2D." alt="" coords="585,55,715,80"/>
+<area shape="rect" id="node10" href="$d3/def/classcocos2d_1_1extension_1_1_c_c_control_colour_picker.html" title=" " alt="" coords="566,104,734,129"/>
+<area shape="rect" id="node11" href="$da/de8/classcocos2d_1_1extension_1_1_c_c_control_hue_picker.html" title=" " alt="" coords="574,153,726,179"/>
+<area shape="rect" id="node12" href="$d8/dfb/classcocos2d_1_1extension_1_1_c_c_control_potentiometer.html" title="for Cocos2D." alt="" coords="560,203,740,228"/>
+<area shape="rect" id="node13" href="$d2/d34/classcocos2d_1_1extension_1_1_c_c_control_saturation_brightness_picker.html" title=" " alt="" coords="539,253,761,293"/>
+<area shape="rect" id="node14" href="$d1/d6f/classcocos2d_1_1extension_1_1_c_c_control_slider.html" title=" " alt="" coords="588,317,712,343"/>
+<area shape="rect" id="node15" href="$d7/d7a/classcocos2d_1_1extension_1_1_c_c_control_stepper.html" title=" " alt="" coords="581,367,719,392"/>
+<area shape="rect" id="node16" href="$d9/dd1/classcocos2d_1_1extension_1_1_c_c_control_switch.html" title="for Cocos2D." alt="" coords="585,416,715,441"/>
+<area shape="rect" id="node9" href="$d7/dc3/classcocos2d_1_1extension_1_1_c_c_edit_box.html" title="Class for edit box." alt="" coords="847,55,938,80"/>
+<area shape="rect" id="node18" href="$d7/d70/classcocos2d_1_1_c_c_atlas_node.html" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="370,515,477,540"/>
+<area shape="rect" id="node21" href="$d3/ddc/classcocos2d_1_1_c_c_menu_item.html" title="CCMenuItem base class." alt="" coords="370,564,477,589"/>
+<area shape="rect" id="node28" href="$d9/d38/classcocos2d_1_1_c_c_motion_streak.html" title="MotionStreak." alt="" coords="360,613,487,639"/>
+<area shape="rect" id="node29" href="$dc/db9/classcocos2d_1_1_c_c_progress_timer.html" title="CCProgressTimer is a subclass of CCNode." alt="" coords="356,663,491,688"/>
+<area shape="rect" id="node30" href="$d4/de7/classcocos2d_1_1_c_c_sprite.html" title="CCSprite is a 2d image ( http://en.wikipedia.org/wiki/Sprite_(computer_graphics) )" alt="" coords="384,712,463,737"/>
+<area shape="rect" id="node33" href="$d7/d8b/classcocos2d_1_1extension_1_1_c_c_scale9_sprite.html" title="A 9&#45;slice sprite for cocos2d." alt="" coords="363,761,484,787"/>
+<area shape="rect" id="node19" href="$d7/d84/classcocos2d_1_1_c_c_label_atlas.html" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="596,465,704,491"/>
+<area shape="rect" id="node20" href="$d2/d8b/classcocos2d_1_1_c_c_tile_map_atlas.html" title="CCTileMapAtlas is a subclass of CCAtlasNode." alt="" coords="587,515,713,540"/>
+<area shape="rect" id="node22" href="$d3/dc3/classcocos2d_1_1_c_c_menu_item_label.html" title="An abstract class for &quot;label&quot; CCMenuItemLabel items Any CCNode that supports the CCLabelProtocol prot..." alt="" coords="579,564,721,589"/>
+<area shape="rect" id="node25" href="$db/dbd/classcocos2d_1_1_c_c_menu_item_sprite.html" title="CCMenuItemSprite accepts CCNode&lt;CCRGBAProtocol&gt; objects as items." alt="" coords="578,613,722,639"/>
+<area shape="rect" id="node27" href="$dd/dd3/classcocos2d_1_1_c_c_menu_item_toggle.html" title="A CCMenuItemToggle A simple container class that &quot;toggles&quot; it&#39;s inner items The inner items can be an..." alt="" coords="576,663,724,688"/>
+<area shape="rect" id="node23" href="$d4/dc6/classcocos2d_1_1_c_c_menu_item_atlas_font.html" title="A CCMenuItemAtlasFont Helper class that creates a MenuItemLabel class with a LabelAtlas." alt="" coords="809,515,976,540"/>
+<area shape="rect" id="node24" href="$d0/d45/classcocos2d_1_1_c_c_menu_item_font.html" title="A CCMenuItemFont Helper class that creates a CCMenuItemLabel class with a Label." alt="" coords="825,564,960,589"/>
+<area shape="rect" id="node26" href="$d0/d4f/classcocos2d_1_1_c_c_menu_item_image.html" title="CCMenuItemImage accepts images as items." alt="" coords="819,613,966,639"/>
+<area shape="rect" id="node31" href="$df/d72/classcocos2d_1_1_c_c_label_t_t_f.html" title="CCLabelTTF is a subclass of CCTextureNode that knows how to render text labels." alt="" coords="601,712,699,737"/>
+<area shape="rect" id="node32" href="$d4/d5b/classcocos2d_1_1_c_c_text_field_t_t_f.html" title="A simple text input field with TTF font." alt="" coords="831,712,954,737"/>
 </map>

@@ -1,6 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"d7/d48/classcocos2d_1_1_c_c_transition_slide_in_t.html#aeac0115dce4a28c5e878c7d737b311bd":[6,10,12,4],
 "d7/d48/classcocos2d_1_1_c_c_transition_slide_in_t.html#afff662d6cdb54a62b86a604ae8be5587":[6,10,12,0],
 "d7/d4d/_c_c_edit_box_impl_mac_8h.html":[9,0,1,1,1,4],
 "d7/d4d/structcc_color4_f.html":[8,0,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX14 =
 "d7/d95/tinyxml2_8h.html#ac39bd07b1461aaa70afffe2d7162b4f5a5b4d2fcac491fe2b65c8edff359ad7a9":[9,0,0,17,1,0,21,3],
 "d7/d95/tinyxml2_8h.html#ac39bd07b1461aaa70afffe2d7162b4f5a6c6a8d2ab5b3575a40d80ece12784709":[9,0,0,17,1,0,21,6],
 "d7/d95/tinyxml2_8h.html#ac39bd07b1461aaa70afffe2d7162b4f5a7638efbc7d124cd68c6480dbb04920e4":[9,0,0,17,1,0,21,11],
-"d7/d95/tinyxml2_8h.html#ac39bd07b1461aaa70afffe2d7162b4f5a7a008ecddecee22c725ba10051189944":[9,0,0,17,1,0,21,0]
+"d7/d95/tinyxml2_8h.html#ac39bd07b1461aaa70afffe2d7162b4f5a7a008ecddecee22c725ba10051189944":[9,0,0,17,1,0,21,0],
+"d7/d95/tinyxml2_8h.html#ac39bd07b1461aaa70afffe2d7162b4f5a932c712cd5c5d3c75df5455e6f713918":[9,0,0,17,1,0,21,8]
 };

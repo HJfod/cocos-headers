@@ -1,52 +1,52 @@
 <map id="/home/runner/work/cocos&#45;headers/cocos&#45;headers/extensions/GUI/CCControlExtension/CCControlSwitch.h" name="/home/runner/work/cocos&#45;headers/cocos&#45;headers/extensions/GUI/CCControlExtension/CCControlSwitch.h">
-<area shape="rect" id="node1" title=" " alt="" coords="84,5,343,76"/>
-<area shape="rect" id="node2" href="$de/d8b/_c_c_control_8h.html" title=" " alt="" coords="164,124,263,151"/>
-<area shape="rect" id="node3" href="$d5/dad/_c_c_invocation_8h.html" title=" " alt="" coords="5,452,125,479"/>
-<area shape="rect" id="node8" href="$d5/de1/_c_c_control_utils_8h.html" title=" " alt="" coords="201,452,330,479"/>
-<area shape="rect" id="node18" href="$dc/dfd/cocos2d_8h.html" title=" " alt="" coords="2083,199,2170,225"/>
-<area shape="rect" id="node4" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="776,900,912,927"/>
-<area shape="rect" id="node7" href="$d9/d9b/_extension_macros_8h.html" title=" " alt="" coords="170,527,339,553"/>
-<area shape="rect" id="node5" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="3450,975,3545,1001"/>
-<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="3835,1049,3925,1076"/>
-<area shape="rect" id="node9" href="$d5/d8a/_c_c_sprite_8h.html" title=" " alt="" coords="2150,527,2327,553"/>
-<area shape="rect" id="node10" href="$db/d7f/_c_c_node_8h.html" title=" " alt="" coords="2619,601,2786,628"/>
-<area shape="rect" id="node14" href="$d8/d76/_c_c_protocols_8h.html" title=" " alt="" coords="2897,676,3009,703"/>
-<area shape="rect" id="node15" href="$df/de6/cc_types_8h.html" title=" " alt="" coords="2983,751,3068,777"/>
-<area shape="rect" id="node16" href="$d9/d8d/_c_c_dictionary_8h.html" title=" " alt="" coords="618,601,777,628"/>
-<area shape="rect" id="node11" href="$d3/d15/_c_c_affine_transform_8h.html" title=" " alt="" coords="2149,676,2347,703"/>
-<area shape="rect" id="node13" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="1390,676,1517,703"/>
-<area shape="rect" id="node12" href="$d6/d09/_c_c_geometry_8h.html" title=" " alt="" coords="2169,825,2284,852"/>
-<area shape="rect" id="node17" href="$d0/d8a/_c_c_string_8h.html" title=" " alt="" coords="560,676,651,703"/>
-<area shape="rect" id="node19" href="$d6/d35/_c_c_action_8h.html" title=" " alt="" coords="1129,601,1273,628"/>
-<area shape="rect" id="node20" href="$da/d2c/_c_c_action_interval_8h.html" title=" " alt="" coords="2605,527,2800,553"/>
-<area shape="rect" id="node21" href="$da/d02/_c_c_action_camera_8h.html" title=" " alt="" coords="2468,370,2663,397"/>
-<area shape="rect" id="node22" href="$dd/dce/_c_c_action_manager_8h.html" title=" " alt="" coords="953,527,1153,553"/>
-<area shape="rect" id="node23" href="$d5/d1e/_c_c_action_ease_8h.html" title=" " alt="" coords="2687,370,2862,397"/>
-<area shape="rect" id="node24" href="$d9/dd9/_c_c_action_page_turn3_d_8h.html" title=" " alt="" coords="1818,281,2038,307"/>
-<area shape="rect" id="node25" href="$d0/da2/_c_c_action_grid3_d_8h.html" title=" " alt="" coords="1951,370,2089,397"/>
-<area shape="rect" id="node26" href="$d0/d37/_c_c_action_grid_8h.html" title=" " alt="" coords="1853,452,1973,479"/>
-<area shape="rect" id="node27" href="$d9/dd3/_c_c_action_instant_8h.html" title=" " alt="" coords="1228,527,1367,553"/>
-<area shape="rect" id="node28" href="$d7/d22/_c_c_action_progress_timer_8h.html" title=" " alt="" coords="2886,363,3074,404"/>
-<area shape="rect" id="node29" href="$d3/ddb/_c_c_action_tiled_grid_8h.html" title=" " alt="" coords="1673,370,1876,397"/>
-<area shape="rect" id="node30" href="$d0/d36/_c_c_action_tween_8h.html" title=" " alt="" coords="2565,452,2750,479"/>
-<area shape="rect" id="node31" href="$d4/daf/_c_c_action_catmull_rom_8h.html" title=" " alt="" coords="2315,452,2541,479"/>
-<area shape="rect" id="node32" href="$df/de5/_c_c_atlas_node_8h.html" title=" " alt="" coords="3101,527,3301,553"/>
-<area shape="rect" id="node33" href="$da/ddc/_c_c_set_8h.html" title=" " alt="" coords="287,825,401,852"/>
-<area shape="rect" id="node34" href="$d5/df5/_c_c_autorelease_pool_8h.html" title=" " alt="" coords="1297,601,1497,628"/>
-<area shape="rect" id="node35" href="$dc/de9/_c_c_integer_8h.html" title=" " alt="" coords="364,751,503,777"/>
-<area shape="rect" id="node36" href="$d6/de2/_c_c_float_8h.html" title=" " alt="" coords="629,825,755,852"/>
-<area shape="rect" id="node37" href="$d4/d20/_c_c_double_8h.html" title=" " alt="" coords="777,751,917,777"/>
-<area shape="rect" id="node38" href="$d0/db6/_c_c_bool_8h.html" title=" " alt="" coords="881,825,1004,852"/>
-<area shape="rect" id="node39" href="$d8/d83/_c_c_n_s_8h.html" title=" " alt="" coords="1963,751,2075,777"/>
-<area shape="rect" id="node40" href="$d2/d43/_c_c_zone_8h.html" title=" " alt="" coords="3478,281,3605,307"/>
-<area shape="rect" id="node41" href="$d8/d05/_c_c_drawing_primitives_8h.html" title="Drawing OpenGL ES primitives." alt="" coords="3370,676,3625,703"/>
-<area shape="rect" id="node42" href="$d2/d10/_c_c_draw_node_8h.html" title=" " alt="" coords="2875,527,3077,553"/>
-<area shape="rect" id="node43" href="$d5/dda/_c_c_grabber_8h.html" title=" " alt="" coords="903,601,1054,628"/>
-<area shape="rect" id="node44" href="$d3/d28/_c_c_grid_8h.html" title=" " alt="" coords="2403,527,2530,553"/>
-<area shape="rect" id="node45" href="$d8/d02/_c_c_event_type_8h.html" title=" " alt="" coords="3629,281,3747,307"/>
-<area shape="rect" id="node46" title=" " alt="" coords="3772,273,3961,315"/>
-<area shape="rect" id="node47" title=" " alt="" coords="3985,273,4175,315"/>
-<area shape="rect" id="node48" href="$dd/d50/_c_c_keypad_delegate_8h.html" title=" " alt="" coords="1333,363,1547,404"/>
-<area shape="rect" id="node49" href="$d7/d20/_c_c_keypad_dispatcher_8h.html" title=" " alt="" coords="1282,273,1497,315"/>
-<area shape="rect" id="node50" href="$df/d80/_c_c_label_atlas_8h.html" title=" " alt="" coords="3048,281,3251,307"/>
+<area shape="rect" id="node1" title=" " alt="" coords="84,5,343,75"/>
+<area shape="rect" id="node2" href="$de/d8b/_c_c_control_8h.html" title=" " alt="" coords="164,123,263,148"/>
+<area shape="rect" id="node3" href="$d5/dad/_c_c_invocation_8h.html" title=" " alt="" coords="5,445,125,471"/>
+<area shape="rect" id="node8" href="$d5/de1/_c_c_control_utils_8h.html" title=" " alt="" coords="201,445,330,471"/>
+<area shape="rect" id="node18" href="$dc/dfd/cocos2d_8h.html" title=" " alt="" coords="2083,196,2170,221"/>
+<area shape="rect" id="node4" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="776,885,912,911"/>
+<area shape="rect" id="node7" href="$d9/d9b/_extension_macros_8h.html" title=" " alt="" coords="170,519,339,544"/>
+<area shape="rect" id="node5" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="3450,959,3545,984"/>
+<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="3835,1032,3925,1057"/>
+<area shape="rect" id="node9" href="$d5/d8a/_c_c_sprite_8h.html" title=" " alt="" coords="2150,519,2327,544"/>
+<area shape="rect" id="node10" href="$db/d7f/_c_c_node_8h.html" title=" " alt="" coords="2619,592,2786,617"/>
+<area shape="rect" id="node14" href="$d8/d76/_c_c_protocols_8h.html" title=" " alt="" coords="2897,665,3009,691"/>
+<area shape="rect" id="node15" href="$df/de6/cc_types_8h.html" title=" " alt="" coords="2983,739,3068,764"/>
+<area shape="rect" id="node16" href="$d9/d8d/_c_c_dictionary_8h.html" title=" " alt="" coords="618,592,777,617"/>
+<area shape="rect" id="node11" href="$d3/d15/_c_c_affine_transform_8h.html" title=" " alt="" coords="2149,665,2347,691"/>
+<area shape="rect" id="node13" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="1390,665,1517,691"/>
+<area shape="rect" id="node12" href="$d6/d09/_c_c_geometry_8h.html" title=" " alt="" coords="2169,812,2284,837"/>
+<area shape="rect" id="node17" href="$d0/d8a/_c_c_string_8h.html" title=" " alt="" coords="560,665,651,691"/>
+<area shape="rect" id="node19" href="$d6/d35/_c_c_action_8h.html" title=" " alt="" coords="1129,592,1273,617"/>
+<area shape="rect" id="node20" href="$da/d2c/_c_c_action_interval_8h.html" title=" " alt="" coords="2605,519,2800,544"/>
+<area shape="rect" id="node21" href="$da/d02/_c_c_action_camera_8h.html" title=" " alt="" coords="2468,365,2663,390"/>
+<area shape="rect" id="node22" href="$dd/dce/_c_c_action_manager_8h.html" title=" " alt="" coords="953,519,1153,544"/>
+<area shape="rect" id="node23" href="$d5/d1e/_c_c_action_ease_8h.html" title=" " alt="" coords="2687,365,2862,390"/>
+<area shape="rect" id="node24" href="$d9/dd9/_c_c_action_page_turn3_d_8h.html" title=" " alt="" coords="1818,277,2038,302"/>
+<area shape="rect" id="node25" href="$d0/da2/_c_c_action_grid3_d_8h.html" title=" " alt="" coords="1951,365,2089,390"/>
+<area shape="rect" id="node26" href="$d0/d37/_c_c_action_grid_8h.html" title=" " alt="" coords="1853,445,1973,471"/>
+<area shape="rect" id="node27" href="$d9/dd3/_c_c_action_instant_8h.html" title=" " alt="" coords="1228,519,1367,544"/>
+<area shape="rect" id="node28" href="$d7/d22/_c_c_action_progress_timer_8h.html" title=" " alt="" coords="2886,357,3074,397"/>
+<area shape="rect" id="node29" href="$d3/ddb/_c_c_action_tiled_grid_8h.html" title=" " alt="" coords="1673,365,1876,390"/>
+<area shape="rect" id="node30" href="$d0/d36/_c_c_action_tween_8h.html" title=" " alt="" coords="2565,445,2750,471"/>
+<area shape="rect" id="node31" href="$d4/daf/_c_c_action_catmull_rom_8h.html" title=" " alt="" coords="2315,445,2541,471"/>
+<area shape="rect" id="node32" href="$df/de5/_c_c_atlas_node_8h.html" title=" " alt="" coords="3101,519,3301,544"/>
+<area shape="rect" id="node33" href="$da/ddc/_c_c_set_8h.html" title=" " alt="" coords="287,812,401,837"/>
+<area shape="rect" id="node34" href="$d5/df5/_c_c_autorelease_pool_8h.html" title=" " alt="" coords="1297,592,1497,617"/>
+<area shape="rect" id="node35" href="$dc/de9/_c_c_integer_8h.html" title=" " alt="" coords="364,739,503,764"/>
+<area shape="rect" id="node36" href="$d6/de2/_c_c_float_8h.html" title=" " alt="" coords="629,812,755,837"/>
+<area shape="rect" id="node37" href="$d4/d20/_c_c_double_8h.html" title=" " alt="" coords="777,739,917,764"/>
+<area shape="rect" id="node38" href="$d0/db6/_c_c_bool_8h.html" title=" " alt="" coords="881,812,1004,837"/>
+<area shape="rect" id="node39" href="$d8/d83/_c_c_n_s_8h.html" title=" " alt="" coords="1963,739,2075,764"/>
+<area shape="rect" id="node40" href="$d2/d43/_c_c_zone_8h.html" title=" " alt="" coords="3478,277,3605,302"/>
+<area shape="rect" id="node41" href="$d8/d05/_c_c_drawing_primitives_8h.html" title="Drawing OpenGL ES primitives." alt="" coords="3370,665,3625,691"/>
+<area shape="rect" id="node42" href="$d2/d10/_c_c_draw_node_8h.html" title=" " alt="" coords="2875,519,3077,544"/>
+<area shape="rect" id="node43" href="$d5/dda/_c_c_grabber_8h.html" title=" " alt="" coords="903,592,1054,617"/>
+<area shape="rect" id="node44" href="$d3/d28/_c_c_grid_8h.html" title=" " alt="" coords="2403,519,2530,544"/>
+<area shape="rect" id="node45" href="$d8/d02/_c_c_event_type_8h.html" title=" " alt="" coords="3629,277,3747,302"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3772,269,3961,309"/>
+<area shape="rect" id="node47" title=" " alt="" coords="3985,269,4175,309"/>
+<area shape="rect" id="node48" href="$dd/d50/_c_c_keypad_delegate_8h.html" title=" " alt="" coords="1333,357,1547,397"/>
+<area shape="rect" id="node49" href="$d7/d20/_c_c_keypad_dispatcher_8h.html" title=" " alt="" coords="1282,269,1497,309"/>
+<area shape="rect" id="node50" href="$df/d80/_c_c_label_atlas_8h.html" title=" " alt="" coords="3048,277,3251,302"/>
 </map>

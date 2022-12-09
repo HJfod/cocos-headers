@@ -1,6 +1,6 @@
 <map id="XMLNode" name="XMLNode">
-<area shape="rect" id="node1" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="119,289,203,316"/>
-<area shape="rect" id="node2" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="5,5,123,32"/>
-<area shape="rect" id="node3" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="119,118,203,145"/>
-<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="261,5,325,32"/>
+<area shape="rect" id="node1" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="119,288,203,313"/>
+<area shape="rect" id="node2" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="5,5,123,31"/>
+<area shape="rect" id="node3" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="119,117,203,143"/>
+<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="261,5,325,31"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="CCKeypadDispatcher" name="CCKeypadDispatcher">
-<area shape="rect" id="node1" title="Dispatch the keypad message from the phone NA NA." alt="" coords="5,247,164,273"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="38,81,121,108"/>
-<area shape="rect" id="node4" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="101,157,175,184"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="33,5,126,32"/>
+<area shape="rect" id="node1" title="Dispatch the keypad message from the phone NA NA." alt="" coords="5,243,164,268"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="38,80,121,105"/>
+<area shape="rect" id="node4" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="101,155,175,180"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="33,5,126,31"/>
 </map>

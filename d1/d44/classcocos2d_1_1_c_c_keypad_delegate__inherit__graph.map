@@ -1,21 +1,21 @@
 <map id="CCKeypadDelegate" name="CCKeypadDelegate">
-<area shape="rect" id="node1" title=" " alt="" coords="5,171,152,197"/>
-<area shape="rect" id="node2" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="200,171,276,197"/>
-<area shape="rect" id="node3" href="$d3/d7e/classcocos2d_1_1_c_c_layer_multiplex.html" title="CCMultipleLayer is a CCLayer with the ability to multiplex it&#39;s children." alt="" coords="324,120,461,147"/>
-<area shape="rect" id="node4" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="336,171,449,197"/>
-<area shape="rect" id="node18" href="$d3/dbc/classcocos2d_1_1extension_1_1_c_c_scroll_view.html" title="ScrollView support for cocos2d for iphone." alt="" coords="339,233,447,260"/>
-<area shape="rect" id="node5" href="$da/d2c/classcocos2d_1_1_c_c_layer_color.html" title="CCLayerColor is a subclass of CCLayer that implements the CCRGBAProtocol protocol." alt="" coords="509,56,620,83"/>
-<area shape="rect" id="node7" href="$d1/da0/classcocos2d_1_1_c_c_menu.html" title="A CCMenu." alt="" coords="527,157,603,184"/>
-<area shape="rect" id="node8" href="$d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html" title=" " alt="" coords="521,208,608,235"/>
-<area shape="rect" id="node6" href="$d9/d19/classcocos2d_1_1_c_c_layer_gradient.html" title="CCLayerGradient is a subclass of CCLayerColor that draws gradients across the background." alt="" coords="713,5,845,32"/>
-<area shape="rect" id="node9" href="$d5/d52/classcocos2d_1_1extension_1_1_c_c_control_button.html" title="for Cocos2D." alt="" coords="714,56,845,83"/>
-<area shape="rect" id="node11" href="$d3/def/classcocos2d_1_1extension_1_1_c_c_control_colour_picker.html" title=" " alt="" coords="695,107,863,133"/>
-<area shape="rect" id="node12" href="$da/de8/classcocos2d_1_1extension_1_1_c_c_control_hue_picker.html" title=" " alt="" coords="703,157,855,184"/>
-<area shape="rect" id="node13" href="$d8/dfb/classcocos2d_1_1extension_1_1_c_c_control_potentiometer.html" title="for Cocos2D." alt="" coords="689,208,869,235"/>
-<area shape="rect" id="node14" href="$d2/d34/classcocos2d_1_1extension_1_1_c_c_control_saturation_brightness_picker.html" title=" " alt="" coords="668,259,891,301"/>
-<area shape="rect" id="node15" href="$d1/d6f/classcocos2d_1_1extension_1_1_c_c_control_slider.html" title=" " alt="" coords="717,325,841,352"/>
-<area shape="rect" id="node16" href="$d7/d7a/classcocos2d_1_1extension_1_1_c_c_control_stepper.html" title=" " alt="" coords="711,376,848,403"/>
-<area shape="rect" id="node17" href="$d9/dd1/classcocos2d_1_1extension_1_1_c_c_control_switch.html" title="for Cocos2D." alt="" coords="714,427,845,453"/>
-<area shape="rect" id="node10" href="$d7/dc3/classcocos2d_1_1extension_1_1_c_c_edit_box.html" title="Class for edit box." alt="" coords="939,56,1029,83"/>
-<area shape="rect" id="node19" href="$d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html" title="UITableView counterpart for cocos2d for iphone." alt="" coords="511,259,618,285"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,152,192"/>
+<area shape="rect" id="node2" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="200,167,276,192"/>
+<area shape="rect" id="node3" href="$d3/d7e/classcocos2d_1_1_c_c_layer_multiplex.html" title="CCMultipleLayer is a CCLayer with the ability to multiplex it&#39;s children." alt="" coords="324,117,461,143"/>
+<area shape="rect" id="node4" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="336,167,449,192"/>
+<area shape="rect" id="node18" href="$d3/dbc/classcocos2d_1_1extension_1_1_c_c_scroll_view.html" title="ScrollView support for cocos2d for iphone." alt="" coords="339,228,447,253"/>
+<area shape="rect" id="node5" href="$da/d2c/classcocos2d_1_1_c_c_layer_color.html" title="CCLayerColor is a subclass of CCLayer that implements the CCRGBAProtocol protocol." alt="" coords="509,55,620,80"/>
+<area shape="rect" id="node7" href="$d1/da0/classcocos2d_1_1_c_c_menu.html" title="A CCMenu." alt="" coords="527,153,603,179"/>
+<area shape="rect" id="node8" href="$d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html" title=" " alt="" coords="521,203,608,228"/>
+<area shape="rect" id="node6" href="$d9/d19/classcocos2d_1_1_c_c_layer_gradient.html" title="CCLayerGradient is a subclass of CCLayerColor that draws gradients across the background." alt="" coords="713,5,845,31"/>
+<area shape="rect" id="node9" href="$d5/d52/classcocos2d_1_1extension_1_1_c_c_control_button.html" title="for Cocos2D." alt="" coords="714,55,845,80"/>
+<area shape="rect" id="node11" href="$d3/def/classcocos2d_1_1extension_1_1_c_c_control_colour_picker.html" title=" " alt="" coords="695,104,863,129"/>
+<area shape="rect" id="node12" href="$da/de8/classcocos2d_1_1extension_1_1_c_c_control_hue_picker.html" title=" " alt="" coords="703,153,855,179"/>
+<area shape="rect" id="node13" href="$d8/dfb/classcocos2d_1_1extension_1_1_c_c_control_potentiometer.html" title="for Cocos2D." alt="" coords="689,203,869,228"/>
+<area shape="rect" id="node14" href="$d2/d34/classcocos2d_1_1extension_1_1_c_c_control_saturation_brightness_picker.html" title=" " alt="" coords="668,253,891,293"/>
+<area shape="rect" id="node15" href="$d1/d6f/classcocos2d_1_1extension_1_1_c_c_control_slider.html" title=" " alt="" coords="717,317,841,343"/>
+<area shape="rect" id="node16" href="$d7/d7a/classcocos2d_1_1extension_1_1_c_c_control_stepper.html" title=" " alt="" coords="711,367,848,392"/>
+<area shape="rect" id="node17" href="$d9/dd1/classcocos2d_1_1extension_1_1_c_c_control_switch.html" title="for Cocos2D." alt="" coords="714,416,845,441"/>
+<area shape="rect" id="node10" href="$d7/dc3/classcocos2d_1_1extension_1_1_c_c_edit_box.html" title="Class for edit box." alt="" coords="939,55,1029,80"/>
+<area shape="rect" id="node19" href="$d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html" title="UITableView counterpart for cocos2d for iphone." alt="" coords="511,252,618,277"/>
 </map>

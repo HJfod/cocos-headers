@@ -1,8 +1,8 @@
 <map id="CCProgressTo" name="CCProgressTo">
-<area shape="rect" id="node1" title="Progress to percentage." alt="" coords="25,379,136,405"/>
-<area shape="rect" id="node2" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="15,304,146,331"/>
-<area shape="rect" id="node3" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="5,229,156,256"/>
-<area shape="rect" id="node4" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="40,155,121,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="39,80,122,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="34,5,127,32"/>
+<area shape="rect" id="node1" title="Progress to percentage." alt="" coords="25,372,136,397"/>
+<area shape="rect" id="node2" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="15,299,146,324"/>
+<area shape="rect" id="node3" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="5,225,156,251"/>
+<area shape="rect" id="node4" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="40,152,121,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="39,79,122,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="34,5,127,31"/>
 </map>

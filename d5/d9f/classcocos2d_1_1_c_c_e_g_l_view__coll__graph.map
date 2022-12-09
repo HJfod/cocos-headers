@@ -1,8 +1,8 @@
 <map id="CCEGLView" name="CCEGLView">
-<area shape="rect" id="node1" title=" " alt="" coords="149,263,245,289"/>
-<area shape="rect" id="node2" href="$dd/d76/classcocos2d_1_1_c_c_e_g_l_view_protocol.html" title=" " alt="" coords="122,187,271,213"/>
-<area shape="rect" id="node3" href="$d6/dcc/classcocos2d_1_1_e_g_l_touch_delegate.html" title="NA." alt="" coords="5,96,148,123"/>
-<area shape="rect" id="node4" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="237,5,303,32"/>
-<area shape="rect" id="node5" href="$da/d4d/classcocos2d_1_1_c_c_rect.html" title="NA." alt="" coords="402,96,471,123"/>
-<area shape="rect" id="node6" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="400,5,473,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="149,260,245,285"/>
+<area shape="rect" id="node2" href="$dd/d76/classcocos2d_1_1_c_c_e_g_l_view_protocol.html" title=" " alt="" coords="122,185,271,211"/>
+<area shape="rect" id="node3" href="$d6/dcc/classcocos2d_1_1_e_g_l_touch_delegate.html" title="NA." alt="" coords="5,95,148,121"/>
+<area shape="rect" id="node4" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="237,5,303,31"/>
+<area shape="rect" id="node5" href="$da/d4d/classcocos2d_1_1_c_c_rect.html" title="NA." alt="" coords="402,95,471,121"/>
+<area shape="rect" id="node6" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="400,5,473,31"/>
 </map>

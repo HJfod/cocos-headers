@@ -1,9 +1,9 @@
 <map id="CCTransitionFlipY" name="CCTransitionFlipY">
-<area shape="rect" id="node1" title="CCTransitionFlipY: Flips the screen vertically." alt="" coords="37,453,172,480"/>
-<area shape="rect" id="node2" href="$df/dbf/classcocos2d_1_1_c_c_transition_scene_oriented.html" title="A CCTransition that supports orientation like." alt="" coords="5,379,204,405"/>
-<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="33,304,176,331"/>
-<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="65,229,144,256"/>
-<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="67,155,142,181"/>
-<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="63,80,146,107"/>
-<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="58,5,151,32"/>
+<area shape="rect" id="node1" title="CCTransitionFlipY: Flips the screen vertically." alt="" coords="37,445,172,471"/>
+<area shape="rect" id="node2" href="$df/dbf/classcocos2d_1_1_c_c_transition_scene_oriented.html" title="A CCTransition that supports orientation like." alt="" coords="5,372,204,397"/>
+<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="33,299,176,324"/>
+<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="65,225,144,251"/>
+<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="67,152,142,177"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="63,79,146,104"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="58,5,151,31"/>
 </map>

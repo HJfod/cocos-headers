@@ -1,5 +1,5 @@
 var _c_c_vertex_8h =
 [
-    [ "ccVertexLineIntersect", "de/d4e/_c_c_vertex_8h.html#gac39080741bd2adbdc18294601646bca1", null ],
-    [ "ccVertexLineToPolygon", "de/d4e/_c_c_vertex_8h.html#ga8a0856ab822c14adbff5d4c3b4504c9d", null ]
+    [ "ccVertexLineIntersect", "de/d4e/_c_c_vertex_8h.html#gaa5ca38fd1d4151aca5d860f2c3e30c38", null ],
+    [ "ccVertexLineToPolygon", "de/d4e/_c_c_vertex_8h.html#gac236f8a5fbdf0fcdf7b5110e4f2f337a", null ]
 ];

@@ -1,10 +1,10 @@
 <map id="CCTMXMapInfo" name="CCTMXMapInfo">
-<area shape="rect" id="node1" title="CCTMXMapInfo contains the information about the map like:" alt="" coords="215,289,337,316"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="171,81,253,108"/>
-<area shape="rect" id="node6" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="249,171,324,197"/>
-<area shape="rect" id="node7" href="$d7/d5f/classcocos2d_1_1_c_c_dictionary.html" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="20,171,127,197"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="165,5,259,32"/>
-<area shape="rect" id="node4" href="$d8/d6a/classcocos2d_1_1_c_c_s_a_x_delegator.html" title="NA NA." alt="" coords="348,171,479,197"/>
-<area shape="rect" id="node5" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="503,171,569,197"/>
-<area shape="rect" id="node8" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="5,81,125,108"/>
+<area shape="rect" id="node1" title="CCTMXMapInfo contains the information about the map like:" alt="" coords="215,285,337,311"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="171,80,253,105"/>
+<area shape="rect" id="node6" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="249,168,324,193"/>
+<area shape="rect" id="node7" href="$d7/d5f/classcocos2d_1_1_c_c_dictionary.html" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="20,168,127,193"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="165,5,259,31"/>
+<area shape="rect" id="node4" href="$d8/d6a/classcocos2d_1_1_c_c_s_a_x_delegator.html" title="NA NA." alt="" coords="348,168,479,193"/>
+<area shape="rect" id="node5" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="503,168,569,193"/>
+<area shape="rect" id="node8" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="5,80,125,105"/>
 </map>

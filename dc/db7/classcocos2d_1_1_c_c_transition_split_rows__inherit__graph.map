@@ -1,10 +1,10 @@
 <map id="CCTransitionSplitRows" name="CCTransitionSplitRows">
-<area shape="rect" id="node1" title="CCTransitionSplitRows: The odd rows goes to the left while the even rows goes to the right." alt="" coords="84,453,251,480"/>
-<area shape="rect" id="node2" href="$d0/d28/classcocos2d_1_1_c_c_transition_split_cols.html" title="CCTransitionSplitCols: The odd columns goes upwards while the even columns goes downwards." alt="" coords="87,379,247,405"/>
-<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="5,304,148,331"/>
-<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="37,229,116,256"/>
-<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="39,155,114,181"/>
-<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="35,80,118,107"/>
-<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="30,5,123,32"/>
-<area shape="rect" id="node8" href="$d7/d1a/classcocos2d_1_1_c_c_transition_ease_scene.html" title="CCTransitionEaseScene can ease the actions of the scene protocol." alt="" coords="173,304,346,331"/>
+<area shape="rect" id="node1" title="CCTransitionSplitRows: The odd rows goes to the left while the even rows goes to the right." alt="" coords="84,445,251,471"/>
+<area shape="rect" id="node2" href="$d0/d28/classcocos2d_1_1_c_c_transition_split_cols.html" title="CCTransitionSplitCols: The odd columns goes upwards while the even columns goes downwards." alt="" coords="87,372,247,397"/>
+<area shape="rect" id="node3" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="5,299,148,324"/>
+<area shape="rect" id="node4" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="37,225,116,251"/>
+<area shape="rect" id="node5" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="39,152,114,177"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="35,79,118,104"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="30,5,123,31"/>
+<area shape="rect" id="node8" href="$d7/d1a/classcocos2d_1_1_c_c_transition_ease_scene.html" title="CCTransitionEaseScene can ease the actions of the scene protocol." alt="" coords="173,299,346,324"/>
 </map>

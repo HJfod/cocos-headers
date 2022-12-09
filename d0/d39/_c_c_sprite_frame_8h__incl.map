@@ -1,33 +1,33 @@
 <map id="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/sprite_nodes/CCSpriteFrame.h" name="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/sprite_nodes/CCSpriteFrame.h">
-<area shape="rect" id="node1" title=" " alt="" coords="427,5,613,76"/>
-<area shape="rect" id="node2" href="$db/d7f/_c_c_node_8h.html" title=" " alt="" coords="1069,124,1235,151"/>
-<area shape="rect" id="node11" href="$d6/d09/_c_c_geometry_8h.html" title=" " alt="" coords="336,437,451,464"/>
-<area shape="rect" id="node12" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="682,512,777,539"/>
-<area shape="rect" id="node29" href="$d8/d76/_c_c_protocols_8h.html" title=" " alt="" coords="267,199,379,225"/>
-<area shape="rect" id="node3" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="1779,587,1874,613"/>
-<area shape="rect" id="node10" href="$d3/d15/_c_c_affine_transform_8h.html" title=" " alt="" coords="304,363,501,389"/>
-<area shape="rect" id="node16" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="1139,199,1266,225"/>
-<area shape="rect" id="node18" title=" " alt="" coords="1049,437,1119,464"/>
-<area shape="rect" id="node19" href="$da/d2f/cc_g_l_state_cache_8h.html" title=" " alt="" coords="1408,363,1603,389"/>
-<area shape="rect" id="node20" href="$de/d32/_c_c_g_l_program_8h.html" title=" " alt="" coords="1627,363,1805,389"/>
-<area shape="rect" id="node21" title=" " alt="" coords="1290,199,1441,225"/>
-<area shape="rect" id="node22" href="$dc/dbc/_c_c_script_support_8h.html" title=" " alt="" coords="984,281,1219,307"/>
-<area shape="rect" id="node4" href="$d5/d22/_c_c_common_8h.html" title=" " alt="" coords="1551,661,1721,688"/>
-<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="1175,811,1265,837"/>
-<area shape="rect" id="node9" title=" " alt="" coords="1745,661,1828,688"/>
-<area shape="rect" id="node5" href="$d3/d41/_c_c_platform_macros_8h.html" title=" " alt="" coords="1003,736,1157,763"/>
-<area shape="rect" id="node7" href="$dd/d96/_c_c_platform_config_8h.html" title=" " alt="" coords="1074,885,1283,912"/>
-<area shape="rect" id="node8" title=" " alt="" coords="949,811,1099,837"/>
-<area shape="rect" id="node15" title=" " alt="" coords="359,512,427,539"/>
-<area shape="rect" id="node13" href="$d9/d2d/_c_c_data_visitor_8h.html" title=" " alt="" coords="667,587,791,613"/>
-<area shape="rect" id="node14" title=" " alt="" coords="157,661,216,688"/>
-<area shape="rect" id="node17" title=" " alt="" coords="1243,273,1403,315"/>
-<area shape="rect" id="node23" title=" " alt="" coords="957,363,1104,389"/>
-<area shape="rect" id="node24" href="$d3/dff/_c_c_touch_8h.html" title=" " alt="" coords="627,363,831,389"/>
-<area shape="rect" id="node25" href="$da/ddc/_c_c_set_8h.html" title=" " alt="" coords="1269,363,1384,389"/>
-<area shape="rect" id="node27" title=" " alt="" coords="1128,363,1179,389"/>
-<area shape="rect" id="node28" title=" " alt="" coords="1203,363,1245,389"/>
-<area shape="rect" id="node26" title=" " alt="" coords="1305,437,1348,464"/>
-<area shape="rect" id="node30" href="$df/de6/cc_types_8h.html" title=" " alt="" coords="144,363,229,389"/>
-<area shape="rect" id="node31" href="$d5/d70/_c_c_texture2_d_8h.html" title=" " alt="" coords="235,281,411,307"/>
+<area shape="rect" id="node1" title=" " alt="" coords="427,5,613,75"/>
+<area shape="rect" id="node2" href="$db/d7f/_c_c_node_8h.html" title=" " alt="" coords="1069,123,1235,148"/>
+<area shape="rect" id="node11" href="$d6/d09/_c_c_geometry_8h.html" title=" " alt="" coords="336,431,451,456"/>
+<area shape="rect" id="node12" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="682,504,777,529"/>
+<area shape="rect" id="node29" href="$d8/d76/_c_c_protocols_8h.html" title=" " alt="" coords="267,196,379,221"/>
+<area shape="rect" id="node3" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="1779,577,1874,603"/>
+<area shape="rect" id="node10" href="$d3/d15/_c_c_affine_transform_8h.html" title=" " alt="" coords="304,357,501,383"/>
+<area shape="rect" id="node16" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="1139,196,1266,221"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1049,431,1119,456"/>
+<area shape="rect" id="node19" href="$da/d2f/cc_g_l_state_cache_8h.html" title=" " alt="" coords="1408,357,1603,383"/>
+<area shape="rect" id="node20" href="$de/d32/_c_c_g_l_program_8h.html" title=" " alt="" coords="1627,357,1805,383"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1290,196,1441,221"/>
+<area shape="rect" id="node22" href="$dc/dbc/_c_c_script_support_8h.html" title=" " alt="" coords="984,277,1219,302"/>
+<area shape="rect" id="node4" href="$d5/d22/_c_c_common_8h.html" title=" " alt="" coords="1551,651,1721,676"/>
+<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="1175,797,1265,823"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1745,651,1828,676"/>
+<area shape="rect" id="node5" href="$d3/d41/_c_c_platform_macros_8h.html" title=" " alt="" coords="1003,724,1157,749"/>
+<area shape="rect" id="node7" href="$dd/d96/_c_c_platform_config_8h.html" title=" " alt="" coords="1074,871,1283,896"/>
+<area shape="rect" id="node8" title=" " alt="" coords="949,797,1099,823"/>
+<area shape="rect" id="node15" title=" " alt="" coords="359,504,427,529"/>
+<area shape="rect" id="node13" href="$d9/d2d/_c_c_data_visitor_8h.html" title=" " alt="" coords="667,577,791,603"/>
+<area shape="rect" id="node14" title=" " alt="" coords="157,651,216,676"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1243,269,1403,309"/>
+<area shape="rect" id="node23" title=" " alt="" coords="957,357,1104,383"/>
+<area shape="rect" id="node24" href="$d3/dff/_c_c_touch_8h.html" title=" " alt="" coords="627,357,831,383"/>
+<area shape="rect" id="node25" href="$da/ddc/_c_c_set_8h.html" title=" " alt="" coords="1269,357,1384,383"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1128,357,1179,383"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1203,357,1245,383"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1305,431,1348,456"/>
+<area shape="rect" id="node30" href="$df/de6/cc_types_8h.html" title=" " alt="" coords="144,357,229,383"/>
+<area shape="rect" id="node31" href="$d5/d70/_c_c_texture2_d_8h.html" title=" " alt="" coords="235,277,411,302"/>
 </map>

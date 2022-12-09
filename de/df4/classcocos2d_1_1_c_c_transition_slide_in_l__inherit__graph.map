@@ -1,12 +1,12 @@
 <map id="CCTransitionSlideInL" name="CCTransitionSlideInL">
-<area shape="rect" id="node1" title="CCTransitionSlideInL: Slide in the incoming scene from the left border." alt="" coords="186,379,341,405"/>
-<area shape="rect" id="node8" href="$d1/d5c/classcocos2d_1_1_c_c_transition_slide_in_b.html" title="CCTransitionSlideInB: Slide in the incoming scene from the bottom border." alt="" coords="5,453,161,480"/>
-<area shape="rect" id="node9" href="$de/d84/classcocos2d_1_1_c_c_transition_slide_in_r.html" title="CCTransitionSlideInR: Slide in the incoming scene from the right border." alt="" coords="185,453,341,480"/>
-<area shape="rect" id="node10" href="$d7/d48/classcocos2d_1_1_c_c_transition_slide_in_t.html" title="CCTransitionSlideInT: Slide in the incoming scene from the top border." alt="" coords="366,453,521,480"/>
-<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="101,304,244,331"/>
-<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="133,229,212,256"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="135,155,210,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="131,80,214,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="126,5,219,32"/>
-<area shape="rect" id="node7" href="$d7/d1a/classcocos2d_1_1_c_c_transition_ease_scene.html" title="CCTransitionEaseScene can ease the actions of the scene protocol." alt="" coords="269,304,442,331"/>
+<area shape="rect" id="node1" title="CCTransitionSlideInL: Slide in the incoming scene from the left border." alt="" coords="186,372,341,397"/>
+<area shape="rect" id="node8" href="$d1/d5c/classcocos2d_1_1_c_c_transition_slide_in_b.html" title="CCTransitionSlideInB: Slide in the incoming scene from the bottom border." alt="" coords="5,445,161,471"/>
+<area shape="rect" id="node9" href="$de/d84/classcocos2d_1_1_c_c_transition_slide_in_r.html" title="CCTransitionSlideInR: Slide in the incoming scene from the right border." alt="" coords="185,445,341,471"/>
+<area shape="rect" id="node10" href="$d7/d48/classcocos2d_1_1_c_c_transition_slide_in_t.html" title="CCTransitionSlideInT: Slide in the incoming scene from the top border." alt="" coords="366,445,521,471"/>
+<area shape="rect" id="node2" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="101,299,244,324"/>
+<area shape="rect" id="node3" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="133,225,212,251"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="135,152,210,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="131,79,214,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="126,5,219,31"/>
+<area shape="rect" id="node7" href="$d7/d1a/classcocos2d_1_1_c_c_transition_ease_scene.html" title="CCTransitionEaseScene can ease the actions of the scene protocol." alt="" coords="269,299,442,324"/>
 </map>

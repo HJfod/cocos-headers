@@ -1,18 +1,18 @@
 <map id="CCParallaxNode" name="CCParallaxNode">
-<area shape="rect" id="node1" title="CCParallaxNode: A node that simulates a parallax scroller." alt="" coords="1447,193,1573,220"/>
-<area shape="rect" id="node2" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="1323,376,1397,403"/>
-<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="148,663,231,689"/>
-<area shape="rect" id="node8" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="453,384,544,411"/>
-<area shape="rect" id="node9" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="965,540,1064,567"/>
-<area shape="rect" id="node10" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="619,540,725,567"/>
-<area shape="rect" id="node11" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="280,631,392,657"/>
-<area shape="rect" id="node12" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="453,755,545,781"/>
-<area shape="rect" id="node13" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="299,811,373,837"/>
-<area shape="rect" id="node14" href="$de/dee/classcocos2d_1_1_c_c_scheduler.html" title="Scheduler is responsible for triggering the scheduled callbacks." alt="" coords="620,869,724,896"/>
-<area shape="rect" id="node15" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="763,937,901,964"/>
-<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,663,99,689"/>
-<area shape="rect" id="node5" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="635,185,709,212"/>
-<area shape="rect" id="node6" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="303,463,369,489"/>
-<area shape="rect" id="node7" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="943,71,1086,97"/>
-<area shape="rect" id="node16" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="925,121,1104,148"/>
+<area shape="rect" id="node1" title="CCParallaxNode: A node that simulates a parallax scroller." alt="" coords="1447,187,1573,213"/>
+<area shape="rect" id="node2" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="1323,374,1397,399"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="148,686,231,711"/>
+<area shape="rect" id="node8" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="453,382,544,407"/>
+<area shape="rect" id="node9" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="965,538,1064,563"/>
+<area shape="rect" id="node10" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="619,538,725,563"/>
+<area shape="rect" id="node11" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="280,635,392,661"/>
+<area shape="rect" id="node12" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="453,753,545,778"/>
+<area shape="rect" id="node13" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="299,809,373,834"/>
+<area shape="rect" id="node14" href="$de/dee/classcocos2d_1_1_c_c_scheduler.html" title="Scheduler is responsible for triggering the scheduled callbacks." alt="" coords="620,867,724,893"/>
+<area shape="rect" id="node15" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="763,935,901,961"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,686,99,711"/>
+<area shape="rect" id="node5" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="635,183,709,209"/>
+<area shape="rect" id="node6" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="303,461,369,486"/>
+<area shape="rect" id="node7" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="943,70,1086,95"/>
+<area shape="rect" id="node16" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="925,119,1104,145"/>
 </map>

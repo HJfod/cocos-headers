@@ -1,16 +1,16 @@
 <map id="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/keypad_dispatcher/CCKeypadDispatcher.h" name="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/keypad_dispatcher/CCKeypadDispatcher.h">
-<area shape="rect" id="node1" title=" " alt="" coords="115,5,329,76"/>
-<area shape="rect" id="node2" href="$dd/d50/_c_c_keypad_delegate_8h.html" title=" " alt="" coords="60,124,219,151"/>
-<area shape="rect" id="node13" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="244,124,371,151"/>
-<area shape="rect" id="node3" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="69,206,205,233"/>
-<area shape="rect" id="node4" href="$d9/d2d/_c_c_data_visitor_8h.html" title=" " alt="" coords="5,288,129,315"/>
-<area shape="rect" id="node10" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="220,288,315,315"/>
-<area shape="rect" id="node5" href="$d3/d41/_c_c_platform_macros_8h.html" title=" " alt="" coords="76,437,291,464"/>
-<area shape="rect" id="node9" title=" " alt="" coords="38,363,97,389"/>
-<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="284,512,373,539"/>
-<area shape="rect" id="node7" href="$dd/d96/_c_c_platform_config_8h.html" title=" " alt="" coords="95,587,304,613"/>
-<area shape="rect" id="node8" title=" " alt="" coords="109,512,260,539"/>
-<area shape="rect" id="node11" href="$d5/d22/_c_c_common_8h.html" title=" " alt="" coords="121,363,291,389"/>
-<area shape="rect" id="node12" title=" " alt="" coords="366,363,449,389"/>
-<area shape="rect" id="node14" title=" " alt="" coords="229,199,389,240"/>
+<area shape="rect" id="node1" title=" " alt="" coords="115,5,329,75"/>
+<area shape="rect" id="node2" href="$dd/d50/_c_c_keypad_delegate_8h.html" title=" " alt="" coords="60,123,219,148"/>
+<area shape="rect" id="node13" href="$da/d35/_c_c_array_8h.html" title=" " alt="" coords="244,123,371,148"/>
+<area shape="rect" id="node3" href="$dd/d69/_c_c_object_8h.html" title=" " alt="" coords="69,203,205,229"/>
+<area shape="rect" id="node4" href="$d9/d2d/_c_c_data_visitor_8h.html" title=" " alt="" coords="5,284,129,309"/>
+<area shape="rect" id="node10" href="$d9/dc8/cc_macros_8h.html" title=" " alt="" coords="220,284,315,309"/>
+<area shape="rect" id="node5" href="$d3/d41/_c_c_platform_macros_8h.html" title=" " alt="" coords="76,431,291,456"/>
+<area shape="rect" id="node9" title=" " alt="" coords="38,357,97,383"/>
+<area shape="rect" id="node6" href="$db/d9f/cc_config_8h.html" title="cocos2d (cc) configuration file" alt="" coords="284,504,373,529"/>
+<area shape="rect" id="node7" href="$dd/d96/_c_c_platform_config_8h.html" title=" " alt="" coords="95,577,304,603"/>
+<area shape="rect" id="node8" title=" " alt="" coords="109,504,260,529"/>
+<area shape="rect" id="node11" href="$d5/d22/_c_c_common_8h.html" title=" " alt="" coords="121,357,291,383"/>
+<area shape="rect" id="node12" title=" " alt="" coords="366,357,449,383"/>
+<area shape="rect" id="node14" title=" " alt="" coords="229,196,389,236"/>
 </map>

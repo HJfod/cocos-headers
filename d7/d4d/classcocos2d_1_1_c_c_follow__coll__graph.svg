@@ -12,8 +12,8 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title="CCFollow is an action that &quot;follows&quot; a node.">
-<polygon fill="#bfbfbf" stroke="black" points="1357,-606.83 1357,-625.83 1419,-625.83 1419,-606.83 1357,-606.83"/>
-<text text-anchor="middle" x="1388" y="-613.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCFollow</text>
+<polygon fill="#999999" stroke="#666666" points="1419,-637.83 1357,-637.83 1357,-618.83 1419,-618.83 1419,-637.83"/>
+<text text-anchor="middle" x="1388" y="-625.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCFollow</text>
 </a>
 </g>
 </g>
@@ -21,22 +21,22 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d7/d12/classcocos2d_1_1_c_c_action.html" target="_top" xlink:title="Base class for CCAction objects.">
-<polygon fill="none" stroke="black" points="1236.5,-606.83 1236.5,-625.83 1297.5,-625.83 1297.5,-606.83 1236.5,-606.83"/>
-<text text-anchor="middle" x="1267" y="-613.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCAction</text>
+<polygon fill="white" stroke="#666666" points="1297.5,-637.83 1236.5,-637.83 1236.5,-618.83 1297.5,-618.83 1297.5,-637.83"/>
+<text text-anchor="middle" x="1267" y="-625.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCAction</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M1307.86,-616.33C1323.85,-616.33 1341.97,-616.33 1356.83,-616.33"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1307.72,-612.83 1297.72,-616.33 1307.72,-619.83 1307.72,-612.83"/>
+<path fill="none" stroke="#63b8ff" d="M1307.86,-628.33C1323.85,-628.33 1341.97,-628.33 1356.83,-628.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1307.72,-624.83 1297.72,-628.33 1307.72,-631.83 1307.72,-624.83"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d3/dbf/classcocos2d_1_1_c_c_object.html" target="_top" xlink:title="NA.">
-<polygon fill="none" stroke="black" points="107,-310.83 107,-329.83 169,-329.83 169,-310.83 107,-310.83"/>
+<polygon fill="white" stroke="#666666" points="169,-329.83 107,-329.83 107,-310.83 169,-310.83 169,-329.83"/>
 <text text-anchor="middle" x="138" y="-317.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCObject</text>
 </a>
 </g>
@@ -44,14 +44,14 @@
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M139.63,-340.29C142.86,-425.23 160.89,-752.33 247,-752.33 247,-752.33 247,-752.33 1035.5,-752.33 1134.93,-752.33 1229.2,-657.3 1257.45,-626.11"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="143.13,-340.04 139.28,-330.17 136.13,-340.28 143.13,-340.04"/>
+<path fill="none" stroke="#63b8ff" d="M139.63,-340.29C142.86,-425.23 160.89,-752.33 247,-752.33 247,-752.33 247,-752.33 1035.5,-752.33 1131.83,-752.33 1226.69,-667.29 1256.45,-638.06"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="143.13,-340.04 139.28,-330.17 136.13,-340.28 143.13,-340.04"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../d0/ded/classcocos2d_1_1_c_c_node.html" target="_top" xlink:title="CCNode is the main element.">
-<polygon fill="none" stroke="black" points="1006.5,-446.83 1006.5,-465.83 1062.5,-465.83 1062.5,-446.83 1006.5,-446.83"/>
+<polygon fill="white" stroke="#666666" points="1062.5,-465.83 1006.5,-465.83 1006.5,-446.83 1062.5,-446.83 1062.5,-465.83"/>
 <text text-anchor="middle" x="1034.5" y="-453.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCNode</text>
 </a>
 </g>
@@ -59,13 +59,13 @@
 <!-- Node3&#45;&gt;Node5 -->
 <g id="edge5" class="edge">
 <title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M138.46,-340.18C137.96,-388.04 141.5,-512.49 187,-602.33 204.33,-636.54 208.65,-664.33 247,-664.33 247,-664.33 247,-664.33 754,-664.33 848.46,-664.33 890.95,-706.68 966,-649.33 1026.64,-602.99 1033.03,-498.36 1033.53,-466.03"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="141.96,-340.03 138.65,-329.96 134.97,-339.9 141.96,-340.03"/>
+<path fill="none" stroke="#63b8ff" d="M138.46,-340.18C137.96,-388.04 141.5,-512.49 187,-602.33 204.33,-636.54 208.65,-664.33 247,-664.33 247,-664.33 247,-664.33 754,-664.33 848.46,-664.33 890.95,-706.68 966,-649.33 1026.64,-602.99 1033.03,-498.36 1033.53,-466.03"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="141.96,-340.03 138.65,-329.96 134.97,-339.9 141.96,-340.03"/>
 </g>
 <!-- Node3&#45;&gt;Node5 -->
 <g id="edge26" class="edge">
 <title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M142.48,-339.87C154.03,-401.58 193.4,-588.33 247,-588.33 247,-588.33 247,-588.33 754,-588.33 852.68,-588.33 881.26,-572.9 966,-522.33 991.62,-507.05 1014.93,-480.14 1026.26,-465.86"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M142.48,-339.87C154.03,-401.58 193.4,-588.33 247,-588.33 247,-588.33 247,-588.33 754,-588.33 852.42,-588.33 881.64,-575.03 966,-524.33 991.95,-508.74 1015.12,-480.95 1026.35,-466.18"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="145.9,-339.08 140.65,-329.87 139.01,-340.34 145.9,-339.08"/>
 <text text-anchor="middle" x="500" y="-591.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pUserObject</text>
 </g>
@@ -73,22 +73,22 @@
 <g id="node9" class="node">
 <title>Node9</title>
 <g id="a_node9"><a xlink:href="../../d2/d51/classcocos2d_1_1_c_c_camera.html" target="_top" xlink:title="A CCCamera is used in every CCNode.">
-<polygon fill="none" stroke="black" points="584,-523.83 584,-542.83 652,-542.83 652,-523.83 584,-523.83"/>
-<text text-anchor="middle" x="618" y="-530.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCCamera</text>
+<polygon fill="white" stroke="#666666" points="652,-555.83 584,-555.83 584,-536.83 652,-536.83 652,-555.83"/>
+<text text-anchor="middle" x="618" y="-543.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCCamera</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node9 -->
 <g id="edge10" class="edge">
 <title>Node3&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M148.07,-339.12C159.06,-360.02 179.44,-393.45 206,-413.33 325.16,-502.55 509.38,-525.61 583.97,-531.43"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="151.09,-337.33 143.45,-329.98 144.84,-340.49 151.09,-337.33"/>
+<path fill="none" stroke="#63b8ff" d="M148.06,-339.14C159.03,-360.05 179.41,-393.5 206,-413.33 326.23,-503.01 509.46,-533.74 583.86,-542.9"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="151.07,-337.34 143.44,-329.99 144.82,-340.5 151.07,-337.34"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
 <g id="a_node10"><a xlink:href="../../d6/d70/classcocos2d_1_1_c_c_grid_base.html" target="_top" xlink:title="Base class for other.">
-<polygon fill="none" stroke="black" points="716,-297.83 716,-316.83 790,-316.83 790,-297.83 716,-297.83"/>
+<polygon fill="white" stroke="#666666" points="790,-316.83 716,-316.83 716,-297.83 790,-297.83 790,-316.83"/>
 <text text-anchor="middle" x="753" y="-304.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCGridBase</text>
 </a>
 </g>
@@ -96,14 +96,14 @@
 <!-- Node3&#45;&gt;Node10 -->
 <g id="edge12" class="edge">
 <title>Node3&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M179.67,-319.47C292.55,-317.08 608.4,-310.38 715.75,-308.1"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="179.32,-315.98 169.4,-319.69 179.47,-322.97 179.32,-315.98"/>
+<path fill="none" stroke="#63b8ff" d="M179.67,-319.47C292.55,-317.08 608.4,-310.38 715.75,-308.1"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="179.32,-315.98 169.4,-319.69 179.47,-322.97 179.32,-315.98"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
 <g id="a_node11"><a xlink:href="../../d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" target="_top" xlink:title="CCTexture2D class.">
-<polygon fill="none" stroke="black" points="460,-259.83 460,-278.83 540,-278.83 540,-259.83 460,-259.83"/>
+<polygon fill="white" stroke="#666666" points="540,-278.83 460,-278.83 460,-259.83 540,-259.83 540,-278.83"/>
 <text text-anchor="middle" x="500" y="-266.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCTexture2D</text>
 </a>
 </g>
@@ -111,29 +111,29 @@
 <!-- Node3&#45;&gt;Node11 -->
 <g id="edge15" class="edge">
 <title>Node3&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M178.47,-308.26C181.34,-307.55 184.21,-306.9 187,-306.33 284.01,-286.57 400.29,-276.23 459.76,-271.89"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="177.54,-304.88 168.77,-310.82 179.33,-311.65 177.54,-304.88"/>
+<path fill="none" stroke="#63b8ff" d="M178.47,-308.26C181.34,-307.55 184.21,-306.9 187,-306.33 284.01,-286.57 400.29,-276.23 459.76,-271.89"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="177.54,-304.88 168.77,-310.82 179.33,-311.65 177.54,-304.88"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
 <g id="a_node12"><a xlink:href="../../db/d28/classcocos2d_1_1_c_c_g_l_program.html" target="_top" xlink:title="CCGLProgram Class that implements a glProgram.">
-<polygon fill="none" stroke="black" points="206,-226.83 206,-245.83 290,-245.83 290,-226.83 206,-226.83"/>
-<text text-anchor="middle" x="248" y="-233.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCGLProgram</text>
+<polygon fill="white" stroke="#666666" points="290,-242.83 206,-242.83 206,-223.83 290,-223.83 290,-242.83"/>
+<text text-anchor="middle" x="248" y="-230.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCGLProgram</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node12 -->
 <g id="edge18" class="edge">
 <title>Node3&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M152.73,-302.67C161.7,-291.88 174.11,-278.29 187,-268.33 198.59,-259.38 213.02,-251.6 224.83,-245.94"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="149.88,-300.62 146.33,-310.6 155.33,-305.01 149.88,-300.62"/>
+<path fill="none" stroke="#63b8ff" d="M152.86,-302.84C161.88,-292.11 174.3,-278.53 187,-268.33 199.5,-258.29 215.21,-249.23 227.42,-242.85"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="150.04,-300.75 146.41,-310.7 155.46,-305.19 150.04,-300.75"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
 <g id="a_node13"><a xlink:href="../../d3/d89/classcocos2d_1_1_c_c_grabber.html" target="_top" xlink:title="FBO class that grabs the the contents of the screen NA NA.">
-<polygon fill="none" stroke="black" points="335.5,-149.83 335.5,-168.83 404.5,-168.83 404.5,-149.83 335.5,-149.83"/>
+<polygon fill="white" stroke="#666666" points="404.5,-168.83 335.5,-168.83 335.5,-149.83 404.5,-149.83 404.5,-168.83"/>
 <text text-anchor="middle" x="370" y="-156.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCGrabber</text>
 </a>
 </g>
@@ -141,14 +141,14 @@
 <!-- Node3&#45;&gt;Node13 -->
 <g id="edge21" class="edge">
 <title>Node3&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M147.06,-301.52C157.63,-278.83 178.14,-240.83 206,-217.33 243.54,-185.67 299.62,-170.79 335.24,-164.18"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="143.82,-300.2 142.92,-310.76 150.2,-303.07 143.82,-300.2"/>
+<path fill="none" stroke="#63b8ff" d="M146.7,-301.24C157.01,-277.86 177.38,-238.38 206,-214.33 243.38,-182.92 299.5,-169.19 335.18,-163.38"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="143.35,-300.17 142.68,-310.74 149.8,-302.9 143.35,-300.17"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
 <g id="a_node14"><a xlink:href="../../d9/d2e/classcocos2d_1_1_c_c_array.html" target="_top" xlink:title="NA.">
-<polygon fill="none" stroke="black" points="220,-86.83 220,-105.83 276,-105.83 276,-86.83 220,-86.83"/>
+<polygon fill="white" stroke="#666666" points="276,-105.83 220,-105.83 220,-86.83 276,-86.83 276,-105.83"/>
 <text text-anchor="middle" x="248" y="-93.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCArray</text>
 </a>
 </g>
@@ -156,14 +156,14 @@
 <!-- Node3&#45;&gt;Node14 -->
 <g id="edge24" class="edge">
 <title>Node3&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M138.12,-300.51C137.46,-261.27 141.51,-172.94 187,-120.33 195.37,-110.66 208.18,-104.84 219.82,-101.36"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="134.62,-300.72 138.42,-310.62 141.62,-300.52 134.62,-300.72"/>
+<path fill="none" stroke="#63b8ff" d="M138.12,-300.51C137.46,-261.27 141.51,-172.94 187,-120.33 195.37,-110.66 208.18,-104.84 219.82,-101.36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="134.62,-300.72 138.42,-310.62 141.62,-300.52 134.62,-300.72"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
 <g id="a_node15"><a xlink:href="../../de/dee/classcocos2d_1_1_c_c_scheduler.html" target="_top" xlink:title="Scheduler is responsible for triggering the scheduled callbacks.">
-<polygon fill="none" stroke="black" points="461,-89.83 461,-108.83 539,-108.83 539,-89.83 461,-89.83"/>
+<polygon fill="white" stroke="#666666" points="539,-108.83 461,-108.83 461,-89.83 539,-89.83 539,-108.83"/>
 <text text-anchor="middle" x="500" y="-96.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCScheduler</text>
 </a>
 </g>
@@ -171,14 +171,14 @@
 <!-- Node3&#45;&gt;Node15 -->
 <g id="edge29" class="edge">
 <title>Node3&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M142.24,-300.75C148.58,-268.87 165.69,-205.94 206,-172.33 215.9,-164.08 383.65,-125.39 460.77,-107.93"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="138.79,-300.17 140.43,-310.64 145.68,-301.43 138.79,-300.17"/>
+<path fill="none" stroke="#63b8ff" d="M142.14,-300.47C148.32,-268.12 165.21,-204.28 206,-170.33 210.97,-166.2 382.66,-126.18 460.87,-108.11"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="138.66,-300.04 140.37,-310.49 145.55,-301.25 138.66,-300.04"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
 <title>Node16</title>
 <g id="a_node16"><a xlink:href="../../d5/dcb/classcocos2d_1_1_c_c_action_manager.html" target="_top" xlink:title="CCActionManager is a singleton that manages all the actions.">
-<polygon fill="none" stroke="black" points="318,-414.83 318,-433.83 422,-433.83 422,-414.83 318,-414.83"/>
+<polygon fill="white" stroke="#666666" points="422,-433.83 318,-433.83 318,-414.83 422,-414.83 422,-433.83"/>
 <text text-anchor="middle" x="370" y="-421.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCActionManager</text>
 </a>
 </g>
@@ -186,14 +186,14 @@
 <!-- Node3&#45;&gt;Node16 -->
 <g id="edge32" class="edge">
 <title>Node3&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M152.47,-337.88C164.8,-352.74 184.39,-373.46 206,-385.33 240.68,-404.39 284.52,-414.21 317.99,-419.22"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="155.07,-335.53 146.08,-329.92 149.61,-339.91 155.07,-335.53"/>
+<path fill="none" stroke="#63b8ff" d="M152.95,-338.06C165.36,-352.63 184.78,-372.69 206,-384.33 240.62,-403.32 284.26,-413.41 317.67,-418.71"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="155.56,-335.72 146.5,-330.22 150.15,-340.17 155.56,-335.72"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../d5/d61/classcocos2d_1_1_c_c_copying.html" target="_top" xlink:title="NA NA.">
-<polygon fill="none" stroke="black" points="0,-310.83 0,-329.83 70,-329.83 70,-310.83 0,-310.83"/>
+<polygon fill="white" stroke="#666666" points="70,-329.83 0,-329.83 0,-310.83 70,-310.83 70,-329.83"/>
 <text text-anchor="middle" x="35" y="-317.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCCopying</text>
 </a>
 </g>
@@ -201,36 +201,36 @@
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M80.2,-320.33C89.22,-320.33 98.51,-320.33 106.9,-320.33"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="80.19,-316.83 70.19,-320.33 80.19,-323.83 80.19,-316.83"/>
+<path fill="none" stroke="#63b8ff" d="M80.2,-320.33C89.22,-320.33 98.51,-320.33 106.9,-320.33"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="80.19,-316.83 70.19,-320.33 80.19,-323.83 80.19,-316.83"/>
 </g>
 <!-- Node5&#45;&gt;Node1 -->
 <g id="edge34" class="edge">
 <title>Node5&#45;&gt;Node1</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M1072.88,-463.16C1106.07,-469.96 1155.46,-481.92 1196,-499.33 1267.82,-530.18 1344.61,-584.71 1374.28,-606.72"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="1073.19,-459.66 1062.7,-461.13 1071.82,-466.52 1073.19,-459.66"/>
-<text text-anchor="middle" x="1267" y="-571.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pobFollowedNode</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M1066.01,-470.23C1098.4,-485.07 1151.03,-509.41 1196,-531.33 1259.85,-562.45 1334.75,-601.13 1368.66,-618.77"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="1067.19,-466.92 1056.64,-465.94 1064.27,-473.28 1067.19,-466.92"/>
+<text text-anchor="middle" x="1267" y="-597.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pobFollowedNode</text>
 </g>
 <!-- Node5&#45;&gt;Node2 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node2</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M1057.5,-471.6C1104.46,-504.2 1213.36,-579.79 1252.05,-606.65"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="1059.44,-468.69 1049.23,-465.86 1055.45,-474.44 1059.44,-468.69"/>
-<text text-anchor="middle" x="1149.5" y="-578.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pOriginalTarget</text>
-<text text-anchor="middle" x="1149.5" y="-567.33" font-family="Helvetica,sans-Serif" font-size="10.00">m_pTarget</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M1048.87,-474.02C1061.63,-490.17 1081.98,-514.08 1103,-531.33 1149.83,-569.78 1213.55,-603.07 1245.69,-618.75"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="1051.5,-471.7 1042.6,-465.94 1045.96,-475.99 1051.5,-471.7"/>
+<text text-anchor="middle" x="1149.5" y="-605.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pOriginalTarget</text>
+<text text-anchor="middle" x="1149.5" y="-594.33" font-family="Helvetica,sans-Serif" font-size="10.00">m_pTarget</text>
 </g>
 <!-- Node5&#45;&gt;Node5 -->
 <g id="edge25" class="edge">
 <title>Node5&#45;&gt;Node5</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M1013.39,-475.73C1014.8,-480.65 1021.84,-484.33 1034.5,-484.33 1054.76,-484.33 1060.62,-474.9 1052.07,-466.09"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="1016.77,-476.68 1016.93,-466.09 1010.2,-474.27 1016.77,-476.68"/>
-<text text-anchor="middle" x="1034.5" y="-487.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pParent</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M1013.39,-475.39C1014.8,-480.21 1021.84,-483.83 1034.5,-483.83 1054.76,-483.83 1060.62,-474.57 1052.07,-465.91"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="1016.71,-476.51 1016.93,-465.91 1010.15,-474.06 1016.71,-476.51"/>
+<text text-anchor="middle" x="1034.5" y="-486.83" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pParent</text>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../d2/df3/classcocos2d_1_1_c_c_point.html" target="_top" xlink:title="NA.">
-<polygon fill="none" stroke="black" points="472.5,-470.83 472.5,-489.83 527.5,-489.83 527.5,-470.83 472.5,-470.83"/>
+<polygon fill="white" stroke="#666666" points="527.5,-489.83 472.5,-489.83 472.5,-470.83 527.5,-470.83 527.5,-489.83"/>
 <text text-anchor="middle" x="500" y="-477.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCPoint</text>
 </a>
 </g>
@@ -238,7 +238,7 @@
 <!-- Node6&#45;&gt;Node1 -->
 <g id="edge35" class="edge">
 <title>Node6&#45;&gt;Node1</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M510.39,-498.93C538.82,-552.32 629.58,-702.33 752,-702.33 752,-702.33 752,-702.33 1268,-702.33 1319.74,-702.33 1364.25,-648.26 1380.46,-625.86"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M510.39,-498.93C538.82,-552.32 629.58,-702.33 752,-702.33 752,-702.33 752,-702.33 1268,-702.33 1316.17,-702.33 1361.01,-658.06 1378.86,-638.01"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="513.4,-497.13 505.68,-489.87 507.19,-500.36 513.4,-497.13"/>
 <text text-anchor="middle" x="1034.5" y="-716.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_obFullScreenSize</text>
 <text text-anchor="middle" x="1034.5" y="-705.33" font-family="Helvetica,sans-Serif" font-size="10.00">m_obHalfScreenSize</text>
@@ -248,9 +248,9 @@
 <title>Node6&#45;&gt;Node5</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M537.9,-480.68C616.69,-481.11 807.14,-480.44 966,-466.33 979.33,-465.15 994.05,-463.06 1006.33,-461.1"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="537.56,-477.18 527.54,-480.62 537.52,-484.18 537.56,-477.18"/>
-<text text-anchor="middle" x="753" y="-504.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_obAnchorPoint</text>
-<text text-anchor="middle" x="753" y="-493.33" font-family="Helvetica,sans-Serif" font-size="10.00">m_obAnchorPointInPoints</text>
-<text text-anchor="middle" x="753" y="-482.33" font-family="Helvetica,sans-Serif" font-size="10.00">m_obPosition</text>
+<text text-anchor="middle" x="753" y="-505.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_obAnchorPoint</text>
+<text text-anchor="middle" x="753" y="-494.33" font-family="Helvetica,sans-Serif" font-size="10.00">m_obAnchorPointInPoints</text>
+<text text-anchor="middle" x="753" y="-483.33" font-family="Helvetica,sans-Serif" font-size="10.00">m_obPosition</text>
 </g>
 <!-- Node6&#45;&gt;Node10 -->
 <g id="edge19" class="edge">
@@ -263,7 +263,7 @@
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../d9/d24/classcocos2d_1_1_c_c_size.html" target="_top" xlink:title="NA.">
-<polygon fill="none" stroke="black" points="223,-356.83 223,-375.83 273,-375.83 273,-356.83 223,-356.83"/>
+<polygon fill="white" stroke="#666666" points="273,-375.83 223,-375.83 223,-356.83 273,-356.83 273,-375.83"/>
 <text text-anchor="middle" x="248" y="-363.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCSize</text>
 </a>
 </g>
@@ -271,16 +271,16 @@
 <!-- Node7&#45;&gt;Node5 -->
 <g id="edge7" class="edge">
 <title>Node7&#45;&gt;Node5</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M283.07,-369.39C291.23,-370.07 299.92,-370.76 308,-371.33 600.18,-391.92 689.58,-311.44 966,-408.33 989.07,-416.42 1011.27,-434.93 1023.58,-446.46"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="283.36,-365.9 273.1,-368.53 282.77,-372.87 283.36,-365.9"/>
-<text text-anchor="middle" x="618" y="-369.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_obContentSize</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M283.06,-370.05C291.22,-370.87 299.92,-371.69 308,-372.33 600.01,-395.6 688.68,-315.98 966,-410.33 988.55,-418.01 1010.58,-435.42 1023.05,-446.48"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="283.4,-366.57 273.09,-369.02 282.68,-373.53 283.4,-366.57"/>
+<text text-anchor="middle" x="618" y="-373.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_obContentSize</text>
 </g>
 <!-- Node7&#45;&gt;Node10 -->
 <g id="edge13" class="edge">
 <title>Node7&#45;&gt;Node10</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M283.2,-364.27C320,-361.93 380.22,-357.71 432,-352.33 537.22,-341.4 563.36,-336.92 668,-321.33 683.65,-319 700.89,-316.17 715.66,-313.67"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="282.78,-360.79 273.02,-364.91 283.22,-367.78 282.78,-360.79"/>
-<text text-anchor="middle" x="500" y="-352.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_sGridSize</text>
+<text text-anchor="middle" x="500" y="-353.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_sGridSize</text>
 </g>
 <!-- Node7&#45;&gt;Node11 -->
 <g id="edge16" class="edge">
@@ -293,7 +293,7 @@
 <g id="node8" class="node">
 <title>Node8</title>
 <g id="a_node8"><a xlink:href="../../da/dbf/structcocos2d_1_1_c_c_affine_transform.html" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="699.5,-424.83 699.5,-443.83 806.5,-443.83 806.5,-424.83 699.5,-424.83"/>
+<polygon fill="white" stroke="#666666" points="806.5,-443.83 699.5,-443.83 699.5,-424.83 806.5,-424.83 806.5,-443.83"/>
 <text text-anchor="middle" x="753" y="-431.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCAffineTransform</text>
 </a>
 </g>
@@ -310,9 +310,9 @@
 <!-- Node9&#45;&gt;Node5 -->
 <g id="edge9" class="edge">
 <title>Node9&#45;&gt;Node5</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M662.3,-534.51C729.32,-535.02 861.37,-530.7 966,-494.33 985.94,-487.4 1006.81,-474.68 1019.97,-465.88"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="662.15,-531.01 652.11,-534.4 662.07,-538.01 662.15,-531.01"/>
-<text text-anchor="middle" x="753" y="-537.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pCamera</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M662.17,-544.97C729.03,-541.74 860.86,-530.87 966,-494.33 985.94,-487.4 1006.81,-474.68 1019.97,-465.88"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="661.85,-541.48 652.01,-545.43 662.16,-548.48 661.85,-541.48"/>
+<text text-anchor="middle" x="753" y="-547.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pCamera</text>
 </g>
 <!-- Node10&#45;&gt;Node5 -->
 <g id="edge11" class="edge">
@@ -331,22 +331,22 @@
 <!-- Node12&#45;&gt;Node5 -->
 <g id="edge27" class="edge">
 <title>Node12&#45;&gt;Node5</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M293.94,-224.37C417.64,-194.38 767.12,-129.81 966,-297.33 1014.17,-337.9 1028.73,-418.91 1032.41,-446.71"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="292.92,-221.02 284.05,-226.81 294.6,-227.81 292.92,-221.02"/>
-<text text-anchor="middle" x="618" y="-193.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pShaderProgram</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M294.81,-221.43C419.25,-192.08 767.51,-130.14 966,-297.33 1014.17,-337.9 1028.73,-418.91 1032.41,-446.71"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="293.75,-218.09 284.85,-223.83 295.39,-224.89 293.75,-218.09"/>
+<text text-anchor="middle" x="618" y="-192.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pShaderProgram</text>
 </g>
 <!-- Node12&#45;&gt;Node10 -->
 <g id="edge22" class="edge">
 <title>Node12&#45;&gt;Node10</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M300.46,-233.25C360.58,-230.48 462.94,-228.35 550,-239.33 603.58,-246.09 617.05,-250.43 668,-268.33 691.51,-276.59 717.35,-289.15 734.07,-297.77"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="299.92,-229.77 290.1,-233.76 300.26,-236.77 299.92,-229.77"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M300.47,-230.92C360.61,-228.89 462.98,-227.91 550,-239.33 603.55,-246.36 617.05,-250.43 668,-268.33 691.51,-276.59 717.35,-289.15 734.07,-297.77"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="299.98,-227.43 290.11,-231.29 300.23,-234.43 299.98,-227.43"/>
 <text text-anchor="middle" x="500" y="-242.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pShaderProgram</text>
 </g>
 <!-- Node12&#45;&gt;Node11 -->
 <g id="edge17" class="edge">
 <title>Node12&#45;&gt;Node11</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M300.14,-241.33C336.9,-245.13 387.61,-250.82 432,-257.33 441,-258.65 450.65,-260.27 459.74,-261.87"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="300.47,-237.84 290.16,-240.31 299.75,-244.81 300.47,-237.84"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M300.12,-239.39C336.87,-243.9 387.57,-250.44 432,-257.33 440.99,-258.73 450.64,-260.37 459.73,-261.98"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="300.49,-235.91 290.14,-238.17 299.65,-242.85 300.49,-235.91"/>
 <text text-anchor="middle" x="370" y="-260.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pShaderProgram</text>
 </g>
 <!-- Node13&#45;&gt;Node10 -->
@@ -380,15 +380,15 @@
 <!-- Node16&#45;&gt;Node5 -->
 <g id="edge31" class="edge">
 <title>Node16&#45;&gt;Node5</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M432.34,-421.39C518.8,-417.64 681.44,-412.01 820,-415.33 884.94,-416.89 903.17,-405.8 966,-422.33 985.42,-427.44 1005.73,-438.59 1018.94,-446.73"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="432.01,-417.91 422.18,-421.84 432.32,-424.9 432.01,-417.91"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M432.34,-421.26C518.8,-417.35 681.45,-411.54 820,-415.33 884.96,-417.11 903.11,-406.96 966,-423.33 985.06,-428.3 1005.12,-438.88 1018.37,-446.74"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="432.01,-417.77 422.18,-421.73 432.33,-424.77 432.01,-417.77"/>
 <text text-anchor="middle" x="618" y="-419.33" font-family="Helvetica,sans-Serif" font-size="10.00"> m_pActionManager</text>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node">
 <title>Node17</title>
 <g id="a_node17"><a xlink:href="../../d1/d65/classcocos2d_1_1_c_c_component_container.html" target="_top" xlink:title="NA NA.">
-<polygon fill="none" stroke="black" points="686,-616.83 686,-635.83 820,-635.83 820,-616.83 686,-616.83"/>
+<polygon fill="white" stroke="#666666" points="820,-635.83 686,-635.83 686,-616.83 820,-616.83 820,-635.83"/>
 <text text-anchor="middle" x="753" y="-623.83" font-family="Helvetica,sans-Serif" font-size="10.00">CCComponentContainer</text>
 </a>
 </g>

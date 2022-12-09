@@ -1,5 +1,5 @@
 <map id="CCTextureCache" name="CCTextureCache">
-<area shape="rect" id="node1" title="Singleton that handles the loading of textures Once the texture is loaded, the next time it will retu..." alt="" coords="5,155,133,181"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="28,80,111,107"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="23,5,116,32"/>
+<area shape="rect" id="node1" title="Singleton that handles the loading of textures Once the texture is loaded, the next time it will retu..." alt="" coords="5,152,133,177"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="28,79,111,104"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="23,5,116,31"/>
 </map>

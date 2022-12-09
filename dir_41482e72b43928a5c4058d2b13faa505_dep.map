@@ -1,12 +1,12 @@
 <map id="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/base_nodes" name="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/base_nodes">
-<area shape="rect" id="node1" href="dir_05651758302a784846fe6cfac652dfd1.html" title="script_support" alt="" coords="27,148,141,196"/>
-<area shape="rect" id="node2" href="dir_0ffc90e37b15a3085244dc84c419f433.html" title="cocoa" alt="" coords="165,148,237,196"/>
-<area shape="rect" id="node3" href="dir_27ef4e836ed14d41bc908bfe408a729b.html" title="include" alt="" coords="261,148,333,196"/>
-<area shape="rect" id="node4" href="dir_36e16d2ac8afd2f86f21c92147d16671.html" title="shaders" alt="" coords="358,148,431,196"/>
-<area shape="rect" id="node5" href="dir_41482e72b43928a5c4058d2b13faa505.html" title="base_nodes" alt="" coords="200,52,299,100"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000002_000028.html" title="1" alt="" coords="140,139,149,154"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000002_000006.html" title="2" alt="" coords="224,128,234,143"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000002_000015.html" title="4" alt="" coords="280,121,289,135"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000002_000029.html" title="2" alt="" coords="344,124,353,138"/>
-<area shape="rect" id="clust1" href="dir_b2885435f78d14023ac06719456afc50.html" title="cocos2dx" alt="" coords="16,16,443,207"/>
+<area shape="rect" id="node1" href="dir_05651758302a784846fe6cfac652dfd1.html" title="script_support" alt="" coords="27,125,141,151"/>
+<area shape="rect" id="node2" href="dir_0ffc90e37b15a3085244dc84c419f433.html" title="cocoa" alt="" coords="166,125,226,151"/>
+<area shape="rect" id="node3" href="dir_27ef4e836ed14d41bc908bfe408a729b.html" title="include" alt="" coords="251,125,320,151"/>
+<area shape="rect" id="node4" href="dir_36e16d2ac8afd2f86f21c92147d16671.html" title="shaders" alt="" coords="345,125,418,151"/>
+<area shape="rect" id="node5" href="dir_41482e72b43928a5c4058d2b13faa505.html" title="base_nodes" alt="" coords="191,52,289,77"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000002_000028.html" title="1" alt="" coords="125,118,134,133"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000002_000006.html" title="2" alt="" coords="215,107,225,122"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000002_000015.html" title="4" alt="" coords="271,98,280,113"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000002_000029.html" title="2" alt="" coords="341,102,350,117"/>
+<area shape="rect" id="clust1" href="dir_b2885435f78d14023ac06719456afc50.html" title="cocos2dx" alt="" coords="16,16,429,161"/>
 </map>

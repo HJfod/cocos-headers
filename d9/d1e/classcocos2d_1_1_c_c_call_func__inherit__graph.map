@@ -1,11 +1,11 @@
 <map id="CCCallFunc" name="CCCallFunc">
-<area shape="rect" id="node1" title="Calls a &#39;callback&#39;." alt="" coords="79,379,174,405"/>
-<area shape="rect" id="node7" href="$dd/d1f/classcocos2d_1_1_c_c_call_func_n.html" title="Calls a &#39;callback&#39; with the node as the first argument N means Node NA." alt="" coords="10,453,115,480"/>
-<area shape="rect" id="node9" href="$d9/d91/classcocos2d_1_1_c_c_call_func_o.html" title="Calls a &#39;callback&#39; with an object as the first argument." alt="" coords="139,453,245,480"/>
-<area shape="rect" id="node2" href="$df/d52/classcocos2d_1_1_c_c_action_instant.html" title="Instant actions are immediate actions." alt="" coords="63,304,190,331"/>
-<area shape="rect" id="node3" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="51,229,202,256"/>
-<area shape="rect" id="node4" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="86,155,167,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="85,80,168,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="80,5,173,32"/>
-<area shape="rect" id="node8" href="$d9/d9f/classcocos2d_1_1_c_c_call_func_n_d.html" title="Calls a &#39;callback&#39; with the node as the first argument and the 2nd argument is data ND means: Node an..." alt="" coords="5,528,120,555"/>
+<area shape="rect" id="node1" title="Calls a &#39;callback&#39;." alt="" coords="79,372,174,397"/>
+<area shape="rect" id="node7" href="$dd/d1f/classcocos2d_1_1_c_c_call_func_n.html" title="Calls a &#39;callback&#39; with the node as the first argument N means Node NA." alt="" coords="10,445,115,471"/>
+<area shape="rect" id="node9" href="$d9/d91/classcocos2d_1_1_c_c_call_func_o.html" title="Calls a &#39;callback&#39; with an object as the first argument." alt="" coords="139,445,245,471"/>
+<area shape="rect" id="node2" href="$df/d52/classcocos2d_1_1_c_c_action_instant.html" title="Instant actions are immediate actions." alt="" coords="63,299,190,324"/>
+<area shape="rect" id="node3" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="51,225,202,251"/>
+<area shape="rect" id="node4" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="86,152,167,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="85,79,168,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="80,5,173,31"/>
+<area shape="rect" id="node8" href="$d9/d9f/classcocos2d_1_1_c_c_call_func_n_d.html" title="Calls a &#39;callback&#39; with the node as the first argument and the 2nd argument is data ND means: Node an..." alt="" coords="5,519,120,544"/>
 </map>

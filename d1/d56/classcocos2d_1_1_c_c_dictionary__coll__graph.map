@@ -1,6 +1,6 @@
 <map id="CCDictionary" name="CCDictionary">
-<area shape="rect" id="node1" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="92,171,199,197"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,81,93,108"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node4" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="117,81,237,108"/>
+<area shape="rect" id="node1" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="92,168,199,193"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,105"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node4" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="117,80,237,105"/>
 </map>

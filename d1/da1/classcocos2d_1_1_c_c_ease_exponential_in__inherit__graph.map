@@ -1,9 +1,9 @@
 <map id="CCEaseExponentialIn" name="CCEaseExponentialIn">
-<area shape="rect" id="node1" title="CCEase Exponential In." alt="" coords="5,453,165,480"/>
-<area shape="rect" id="node2" href="$d0/d79/classcocos2d_1_1_c_c_action_ease.html" title="Base class for Easing actions." alt="" coords="29,379,141,405"/>
-<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="20,304,151,331"/>
-<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="10,229,161,256"/>
-<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="45,155,126,181"/>
-<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="44,80,127,107"/>
-<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="39,5,132,32"/>
+<area shape="rect" id="node1" title="CCEase Exponential In." alt="" coords="5,445,165,471"/>
+<area shape="rect" id="node2" href="$d0/d79/classcocos2d_1_1_c_c_action_ease.html" title="Base class for Easing actions." alt="" coords="29,372,141,397"/>
+<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="20,299,151,324"/>
+<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="10,225,161,251"/>
+<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="45,152,126,177"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="44,79,127,104"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="39,5,132,31"/>
 </map>

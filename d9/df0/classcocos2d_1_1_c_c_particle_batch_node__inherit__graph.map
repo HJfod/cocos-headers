@@ -1,8 +1,8 @@
 <map id="CCParticleBatchNode" name="CCParticleBatchNode">
-<area shape="rect" id="node1" title="CCParticleBatchNode is like a batch node: if it contains children, it will draw them in 1 single Open..." alt="" coords="38,229,197,256"/>
-<area shape="rect" id="node2" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,155,89,181"/>
-<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
-<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node5" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="113,155,255,181"/>
-<area shape="rect" id="node6" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="119,80,249,107"/>
+<area shape="rect" id="node1" title="CCParticleBatchNode is like a batch node: if it contains children, it will draw them in 1 single Open..." alt="" coords="38,225,197,251"/>
+<area shape="rect" id="node2" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,152,89,177"/>
+<area shape="rect" id="node3" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node4" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node5" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="113,152,255,177"/>
+<area shape="rect" id="node6" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="119,79,249,104"/>
 </map>

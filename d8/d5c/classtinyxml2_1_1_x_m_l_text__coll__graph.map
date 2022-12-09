@@ -1,6 +1,6 @@
 <map id="XMLText" name="XMLText">
-<area shape="rect" id="node1" title="XML text." alt="" coords="5,231,81,257"/>
-<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="79,118,163,145"/>
-<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="106,231,223,257"/>
-<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="89,5,153,32"/>
+<area shape="rect" id="node1" title="XML text." alt="" coords="5,229,81,255"/>
+<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="79,117,163,143"/>
+<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="106,229,223,255"/>
+<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="89,5,153,31"/>
 </map>

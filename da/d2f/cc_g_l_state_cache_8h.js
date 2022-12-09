@@ -3,17 +3,17 @@ var cc_g_l_state_cache_8h =
     [ "ccGLServerState", "da/d2f/cc_g_l_state_cache_8h.html#gaf395552034661147c3a67a20581a6294", [
       [ "CC_GL_ALL", "da/d2f/cc_g_l_state_cache_8h.html#ggaf395552034661147c3a67a20581a6294a2522ee983500c7c545bdb8d335896a43", null ]
     ] ],
-    [ "ccGLBindTexture2D", "da/d2f/cc_g_l_state_cache_8h.html#ga8d6cfb7881f53f1faa4d5062c82f69ec", null ],
-    [ "ccGLBindTexture2DN", "da/d2f/cc_g_l_state_cache_8h.html#ga7f9aeba54a2fe5c3576225b1a731966c", null ],
-    [ "ccGLBindVAO", "da/d2f/cc_g_l_state_cache_8h.html#ga679b56ea2422a722fc5c58a6863354fc", null ],
-    [ "ccGLBlendFunc", "da/d2f/cc_g_l_state_cache_8h.html#ga499140f67e2025b34d8004bd874d52c4", null ],
-    [ "ccGLBlendResetToCache", "da/d2f/cc_g_l_state_cache_8h.html#gab9aaeabf6e61e9418f4de240909ab421", null ],
-    [ "ccGLDeleteProgram", "da/d2f/cc_g_l_state_cache_8h.html#gaacee4d0ae65334a42345f3ba02778bc1", null ],
-    [ "ccGLDeleteTexture", "da/d2f/cc_g_l_state_cache_8h.html#ga8d92903c32ce7f60ca3ecb64805ebe6f", null ],
-    [ "ccGLDeleteTextureN", "da/d2f/cc_g_l_state_cache_8h.html#ga0d54addd066355a7feffa7fde8c93988", null ],
-    [ "ccGLEnable", "da/d2f/cc_g_l_state_cache_8h.html#ga2f6d12b1d1786c6ad69f8e347c263539", null ],
-    [ "ccGLEnableVertexAttribs", "da/d2f/cc_g_l_state_cache_8h.html#ga1380a07bc24b57eb487b34edd7443597", null ],
-    [ "ccGLInvalidateStateCache", "da/d2f/cc_g_l_state_cache_8h.html#gad509d6016ca0341dfa819c403b0881c8", null ],
-    [ "ccGLUseProgram", "da/d2f/cc_g_l_state_cache_8h.html#ga82b9deb6e81d7bf9df2f642d6b898d0e", null ],
-    [ "ccSetProjectionMatrixDirty", "da/d2f/cc_g_l_state_cache_8h.html#ga8e25d337cd7cbfad5ef1e57e1d6cff04", null ]
+    [ "ccGLBindTexture2D", "da/d2f/cc_g_l_state_cache_8h.html#ga7fd38d4caa34053ca8d1d10237f2dd20", null ],
+    [ "ccGLBindTexture2DN", "da/d2f/cc_g_l_state_cache_8h.html#ga4f760fb9dfc8f975e1608b847b3fbe40", null ],
+    [ "ccGLBindVAO", "da/d2f/cc_g_l_state_cache_8h.html#gae65a27c3085d81a97c94d8b349b65740", null ],
+    [ "ccGLBlendFunc", "da/d2f/cc_g_l_state_cache_8h.html#gade66c35ad9306a108873a88598ac860d", null ],
+    [ "ccGLBlendResetToCache", "da/d2f/cc_g_l_state_cache_8h.html#gafb607515a5c5163a035c8524f09dc3e5", null ],
+    [ "ccGLDeleteProgram", "da/d2f/cc_g_l_state_cache_8h.html#ga377340b63a4d22f7c2a1dd982912679a", null ],
+    [ "ccGLDeleteTexture", "da/d2f/cc_g_l_state_cache_8h.html#ga68ebef19ff86b13aeb20f7f7bb29bffe", null ],
+    [ "ccGLDeleteTextureN", "da/d2f/cc_g_l_state_cache_8h.html#ga06e173a34fae331b28e79a6441c143b6", null ],
+    [ "ccGLEnable", "da/d2f/cc_g_l_state_cache_8h.html#ga5155e191ca98b4e3def8f11c477d9264", null ],
+    [ "ccGLEnableVertexAttribs", "da/d2f/cc_g_l_state_cache_8h.html#gadabcf424a4860cb27291e88f2414151b", null ],
+    [ "ccGLInvalidateStateCache", "da/d2f/cc_g_l_state_cache_8h.html#ga685054d5022ef117b6068842ce38e8f1", null ],
+    [ "ccGLUseProgram", "da/d2f/cc_g_l_state_cache_8h.html#ga40aaa4350f13938028b1ecb76cfa7b4c", null ],
+    [ "ccSetProjectionMatrixDirty", "da/d2f/cc_g_l_state_cache_8h.html#gab315f45790117fd5c440728c363974fb", null ]
 ];

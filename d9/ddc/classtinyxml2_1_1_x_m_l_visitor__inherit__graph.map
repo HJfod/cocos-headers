@@ -1,4 +1,4 @@
 <map id="XMLVisitor" name="XMLVisitor">
-<area shape="rect" id="node1" title="Implements the interface to the &quot;Visitor pattern&quot; (see the Accept() method.) If you call the Accept()..." alt="" coords="7,5,97,32"/>
-<area shape="rect" id="node2" href="$df/d27/classtinyxml2_1_1_x_m_l_printer.html" title="Printing functionality." alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node1" title="Implements the interface to the &quot;Visitor pattern&quot; (see the Accept() method.) If you call the Accept()..." alt="" coords="7,5,97,31"/>
+<area shape="rect" id="node2" href="$df/d27/classtinyxml2_1_1_x_m_l_printer.html" title="Printing functionality." alt="" coords="5,79,99,104"/>
 </map>

@@ -79,5 +79,5 @@ var namespacecocos2d_1_1extension =
       [ "kKeyboardReturnTypeSearch", "d1/d50/namespacecocos2d_1_1extension.html#a781893c4edb7d2ee5f832d77b8ea3d69a3ec58c1b4f25b33dd7aaaf3800bfcb0d", null ],
       [ "kKeyboardReturnTypeGo", "d1/d50/namespacecocos2d_1_1extension.html#a781893c4edb7d2ee5f832d77b8ea3d69a9c9edae566de42981f4d9910f7dba6c0", null ]
     ] ],
-    [ "__createSystemEditBox", "d1/d50/namespacecocos2d_1_1extension.html#a1b58613fb2ff05a994d8d2568026be40", null ]
+    [ "__createSystemEditBox", "d1/d50/namespacecocos2d_1_1extension.html#a4b6755d8c2ac5aa1896e293ea048ed28", null ]
 ];

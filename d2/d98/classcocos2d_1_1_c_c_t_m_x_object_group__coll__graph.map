@@ -1,9 +1,9 @@
 <map id="CCTMXObjectGroup" name="CCTMXObjectGroup">
-<area shape="rect" id="node1" title="CCTMXObjectGroup represents the TMX object group." alt="" coords="168,260,317,287"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="171,81,253,108"/>
-<area shape="rect" id="node5" href="$d7/d5f/classcocos2d_1_1_c_c_dictionary.html" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="40,171,147,197"/>
-<area shape="rect" id="node7" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="249,171,324,197"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="165,5,259,32"/>
-<area shape="rect" id="node4" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="349,171,422,197"/>
-<area shape="rect" id="node6" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="5,81,125,108"/>
+<area shape="rect" id="node1" title="CCTMXObjectGroup represents the TMX object group." alt="" coords="168,256,317,281"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="171,80,253,105"/>
+<area shape="rect" id="node5" href="$d7/d5f/classcocos2d_1_1_c_c_dictionary.html" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="40,168,147,193"/>
+<area shape="rect" id="node7" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="249,168,324,193"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="165,5,259,31"/>
+<area shape="rect" id="node4" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="349,168,422,193"/>
+<area shape="rect" id="node6" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="5,80,125,105"/>
 </map>

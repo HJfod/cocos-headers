@@ -203,7 +203,7 @@ var group__platform =
       [ "cocos2d::kLanguagePortuguese", "de/d8b/group__platform.html#gga43c6a99a7c86304935fc60a733fa20d2a00f44053a682c789a8c9b33654fbca20", null ],
       [ "cocos2d::kLanguageArabic", "de/d8b/group__platform.html#gga43c6a99a7c86304935fc60a733fa20d2abad9a8fc8ebd062e1d4a92bec70f47e1", null ]
     ] ],
-    [ "cocos2d::CCLog", "de/d8b/group__platform.html#ga1c48e8042c166ea62e71502c17673c63", null ],
-    [ "cocos2d::CCLuaLog", "de/d8b/group__platform.html#ga29ae06f9153ae659197823e82fc0318e", null ],
-    [ "cocos2d::CCMessageBox", "de/d8b/group__platform.html#gaafbae48c0299951392420b0583d5030b", null ]
+    [ "cocos2d::CCLog", "de/d8b/group__platform.html#ga880354511077f4f194aa9948bd58fa52", null ],
+    [ "cocos2d::CCLuaLog", "de/d8b/group__platform.html#ga2192266587b6c9c646763fba9990b364", null ],
+    [ "cocos2d::CCMessageBox", "de/d8b/group__platform.html#ga06d0c902120b1625b3662c0b47adcb2d", null ]
 ];

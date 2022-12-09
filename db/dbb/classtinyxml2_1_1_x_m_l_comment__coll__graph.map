@@ -1,6 +1,6 @@
 <map id="XMLComment" name="XMLComment">
-<area shape="rect" id="node1" title="An XML Comment." alt="" coords="5,231,120,257"/>
-<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="117,118,201,145"/>
-<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="144,231,261,257"/>
-<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="127,5,191,32"/>
+<area shape="rect" id="node1" title="An XML Comment." alt="" coords="5,229,120,255"/>
+<area shape="rect" id="node2" href="$de/d13/classtinyxml2_1_1_x_m_l_node.html" title="XMLNode is a base class for every object that is in the XML Document Object Model (DOM),..." alt="" coords="117,117,201,143"/>
+<area shape="rect" id="node3" href="$dc/d59/classtinyxml2_1_1_x_m_l_document.html" title="A Document binds together all the functionality." alt="" coords="144,229,261,255"/>
+<area shape="rect" id="node4" href="$de/dc1/classtinyxml2_1_1_str_pair.html" title=" " alt="" coords="127,5,191,31"/>
 </map>

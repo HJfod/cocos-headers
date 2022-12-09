@@ -1,28 +1,28 @@
 <map id="CCControl" name="CCControl">
-<area shape="rect" id="node1" title=" " alt="" coords="2147,859,2233,886"/>
-<area shape="rect" id="node2" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="1984,513,2097,539"/>
-<area shape="rect" id="node3" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="1723,482,1799,509"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="1512,406,1587,433"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="167,518,249,545"/>
-<area shape="rect" id="node10" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="583,231,673,258"/>
-<area shape="rect" id="node11" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="1095,467,1193,494"/>
-<area shape="rect" id="node12" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="748,438,855,465"/>
-<area shape="rect" id="node13" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="409,518,521,545"/>
-<area shape="rect" id="node14" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="582,654,674,681"/>
-<area shape="rect" id="node15" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="428,715,503,742"/>
-<area shape="rect" id="node16" href="$de/dee/classcocos2d_1_1_c_c_scheduler.html" title="Scheduler is responsible for triggering the scheduled callbacks." alt="" coords="749,766,853,793"/>
-<area shape="rect" id="node17" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="892,51,1031,78"/>
-<area shape="rect" id="node25" href="$d7/d5f/classcocos2d_1_1_c_c_dictionary.html" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="412,867,519,894"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,518,99,545"/>
+<area shape="rect" id="node1" title=" " alt="" coords="2147,857,2233,883"/>
+<area shape="rect" id="node2" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="1984,511,2097,536"/>
+<area shape="rect" id="node3" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="1723,481,1799,507"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="1512,407,1587,432"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="167,519,249,544"/>
+<area shape="rect" id="node10" href="$d2/d51/classcocos2d_1_1_c_c_camera.html" title="A CCCamera is used in every CCNode." alt="" coords="583,232,673,257"/>
+<area shape="rect" id="node11" href="$d6/d70/classcocos2d_1_1_c_c_grid_base.html" title="Base class for other." alt="" coords="1095,468,1193,493"/>
+<area shape="rect" id="node12" href="$d7/dfd/classcocos2d_1_1_c_c_texture2_d.html" title="CCTexture2D class." alt="" coords="748,439,855,464"/>
+<area shape="rect" id="node13" href="$db/d28/classcocos2d_1_1_c_c_g_l_program.html" title="CCGLProgram Class that implements a glProgram." alt="" coords="409,519,521,544"/>
+<area shape="rect" id="node14" href="$d3/d89/classcocos2d_1_1_c_c_grabber.html" title="FBO class that grabs the the contents of the screen NA NA." alt="" coords="582,653,674,679"/>
+<area shape="rect" id="node15" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="428,716,503,741"/>
+<area shape="rect" id="node16" href="$de/dee/classcocos2d_1_1_c_c_scheduler.html" title="Scheduler is responsible for triggering the scheduled callbacks." alt="" coords="749,767,853,792"/>
+<area shape="rect" id="node17" href="$d5/dcb/classcocos2d_1_1_c_c_action_manager.html" title="CCActionManager is a singleton that manages all the actions." alt="" coords="892,52,1031,77"/>
+<area shape="rect" id="node25" href="$d7/d5f/classcocos2d_1_1_c_c_dictionary.html" title="CCDictionary is a class like NSDictionary in Obj&#45;C ." alt="" coords="412,869,519,895"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,519,99,544"/>
 <area shape="rect" id="node7" href="$d2/df3/classcocos2d_1_1_c_c_point.html" title="NA." alt="" coords="765,325,838,351"/>
 <area shape="rect" id="node8" href="$d9/d24/classcocos2d_1_1_c_c_size.html" title="NA." alt="" coords="432,361,499,387"/>
 <area shape="rect" id="node9" href="$da/dbf/structcocos2d_1_1_c_c_affine_transform.html" title=" " alt="" coords="1073,325,1215,351"/>
-<area shape="rect" id="node18" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="1055,825,1233,851"/>
-<area shape="rect" id="node19" href="$d0/d38/classcocos2d_1_1_c_c_touch_delegate.html" title=" " alt="" coords="1481,457,1617,483"/>
-<area shape="rect" id="node20" href="$da/d55/classcocos2d_1_1_c_c_accelerometer_delegate.html" title="The CCAccelerometerDelegate defines a single method for receiving acceleration&#45;related data from the ..." alt="" coords="1452,507,1647,534"/>
-<area shape="rect" id="node21" href="$d2/d2d/classcocos2d_1_1_c_c_keypad_delegate.html" title=" " alt="" coords="1476,558,1623,585"/>
-<area shape="rect" id="node22" href="$d2/d91/classcocos2d_1_1_c_c_keyboard_delegate.html" title=" " alt="" coords="1469,317,1629,343"/>
-<area shape="rect" id="node23" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="1696,533,1827,559"/>
-<area shape="rect" id="node24" href="$d7/d39/structcc_color3_b.html" title="RGB color composed of bytes 3 bytes." alt="" coords="1718,431,1805,458"/>
-<area shape="rect" id="node26" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="148,867,268,894"/>
+<area shape="rect" id="node18" href="$d1/d65/classcocos2d_1_1_c_c_component_container.html" title="NA NA." alt="" coords="1055,823,1233,848"/>
+<area shape="rect" id="node19" href="$d0/d38/classcocos2d_1_1_c_c_touch_delegate.html" title=" " alt="" coords="1481,456,1617,481"/>
+<area shape="rect" id="node20" href="$da/d55/classcocos2d_1_1_c_c_accelerometer_delegate.html" title="The CCAccelerometerDelegate defines a single method for receiving acceleration&#45;related data from the ..." alt="" coords="1452,505,1647,531"/>
+<area shape="rect" id="node21" href="$d2/d2d/classcocos2d_1_1_c_c_keypad_delegate.html" title=" " alt="" coords="1476,555,1623,580"/>
+<area shape="rect" id="node22" href="$d2/d91/classcocos2d_1_1_c_c_keyboard_delegate.html" title=" " alt="" coords="1469,319,1629,344"/>
+<area shape="rect" id="node23" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="1696,531,1827,556"/>
+<area shape="rect" id="node24" href="$d7/d39/structcc_color3_b.html" title="RGB color composed of bytes 3 bytes." alt="" coords="1718,432,1805,457"/>
+<area shape="rect" id="node26" href="$d0/da2/classcocos2d_1_1_c_c_dict_element.html" title="CCDictElement is used for traversing CCDictionary." alt="" coords="148,869,268,895"/>
 </map>

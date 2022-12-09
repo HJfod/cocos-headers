@@ -1,6 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"dc/db9/classcocos2d_1_1_c_c_progress_timer.html#a2f858a1649a848827c13a18a0ca214ce":[6,12,1,34],
 "dc/db9/classcocos2d_1_1_c_c_progress_timer.html#a33b6330371ab937083bca61632d4afa9":[6,12,1,10],
 "dc/db9/classcocos2d_1_1_c_c_progress_timer.html#a358c44bb932cfb6f748b636eab94f403":[6,12,1,30],
 "dc/db9/classcocos2d_1_1_c_c_progress_timer.html#a3979e2bf76f6e47c0b0f56acc0baa1f1":[6,12,1,16],
@@ -170,7 +169,7 @@ var NAVTREEINDEX26 =
 "dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html#aed0ec67a2bb5ae4d2049abf37c76be81":[6,11,0,6,27],
 "dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html#aee8048628ff2b5c026c9e15acdcaacb8":[6,11,0,6,10],
 "dc/dfd/cocos2d_8h.html":[9,0,0,5,6],
-"dc/dfd/cocos2d_8h.html#a3fcd3e4eeabd39a500c96fdb816584f5":[9,0,0,5,6,1],
+"dc/dfd/cocos2d_8h.html#a3d1583cf071fc78b3de57fbf70e637ee":[9,0,0,5,6,1],
 "dc/dfd/cocos2d_8h.html#a4e9281d25e8101dabe1f211345788ec0":[9,0,0,5,6,0],
 "dc/dfe/win32_2_c_c_g_l_8h.html":[9,0,0,12,0,5],
 "dc/dfe/win32_2_c_c_g_l_8h.html#a6c53023473bc47e02c9c88aa3c9bfebc":[9,0,0,12,0,5,3],
@@ -192,7 +191,7 @@ var NAVTREEINDEX26 =
 "dd/d08/fire_png_data_8h.html":[9,0,0,11,4],
 "dd/d08/fire_png_data_8h.html#a83046d6392b24eb637343592a3181974":[9,0,0,11,4,0],
 "dd/d0d/group__actions.html":[6,0],
-"dd/d0d/group__actions.html#ga54980e4c74d31f0303b02358685f5a25":[6,0,108],
+"dd/d0d/group__actions.html#ga60a9971f7f54b4d72571de0e061f4af0":[6,0,108],
 "dd/d10/_c_c_text_field_t_t_f_8h.html":[9,0,0,18,2],
 "dd/d12/classcocos2d_1_1extension_1_1_c_c_invocation.html":[6,11,2,11],
 "dd/d12/classcocos2d_1_1extension_1_1_c_c_invocation.html#a0e855af3e25c2fa147d91b3566b82e98":[6,11,2,11,7],
@@ -248,6 +247,7 @@ var NAVTREEINDEX26 =
 "dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a0e855af3e25c2fa147d91b3566b82e98":[7,0,0,147,13],
 "dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a0fa7b15f6691b59a82ac1e8248ca4ca8":[8,0,0,147,3],
 "dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a0fa7b15f6691b59a82ac1e8248ca4ca8":[7,0,0,147,3],
+"dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a1f402ff213a0e13ca2c2009964d10b18":[7,0,0,147,1],
 "dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a1f402ff213a0e13ca2c2009964d10b18":[8,0,0,147,1],
-"dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a1f402ff213a0e13ca2c2009964d10b18":[7,0,0,147,1]
+"dd/d27/classcocos2d_1_1_c_c_notification_observer.html#a21f02840f823e035f2e1d9e4272b9371":[7,0,0,147,9]
 };

@@ -972,5 +972,5 @@ var group__actions =
       [ "m_fTo", "d5/dd1/classcocos2d_1_1_c_c_action_tween.html#a38af3f00bce1e7fdf6771f8f1f0532e6", null ],
       [ "m_strKey", "d5/dd1/classcocos2d_1_1_c_c_action_tween.html#a1a937562b35ce53e4ce63235101aa330", null ]
     ] ],
-    [ "cocos2d::ccCardinalSplineAt", "dd/d0d/group__actions.html#ga54980e4c74d31f0303b02358685f5a25", null ]
+    [ "cocos2d::ccCardinalSplineAt", "dd/d0d/group__actions.html#ga60a9971f7f54b4d72571de0e061f4af0", null ]
 ];

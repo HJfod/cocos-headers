@@ -1,12 +1,12 @@
 <map id="CCLabelAtlas" name="CCLabelAtlas">
-<area shape="rect" id="node1" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="270,379,378,405"/>
-<area shape="rect" id="node2" href="$d7/d70/classcocos2d_1_1_c_c_atlas_node.html" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="200,304,307,331"/>
-<area shape="rect" id="node3" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="123,229,234,256"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,155,89,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node7" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="113,155,244,181"/>
-<area shape="rect" id="node8" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="260,229,401,256"/>
-<area shape="rect" id="node9" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="268,155,399,181"/>
-<area shape="rect" id="node10" href="$df/da3/classcocos2d_1_1_c_c_label_protocol.html" title="Common interface for Labels NA NA." alt="" coords="331,304,459,331"/>
+<area shape="rect" id="node1" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="270,372,378,397"/>
+<area shape="rect" id="node2" href="$d7/d70/classcocos2d_1_1_c_c_atlas_node.html" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="200,299,307,324"/>
+<area shape="rect" id="node3" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="123,225,234,251"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,152,89,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node7" href="$d8/dda/classcocos2d_1_1_c_c_r_g_b_a_protocol.html" title="RGBA protocol that affects CCNode&#39;s color and opacity NA." alt="" coords="113,152,244,177"/>
+<area shape="rect" id="node8" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="260,225,401,251"/>
+<area shape="rect" id="node9" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="268,152,399,177"/>
+<area shape="rect" id="node10" href="$df/da3/classcocos2d_1_1_c_c_label_protocol.html" title="Common interface for Labels NA NA." alt="" coords="331,299,459,324"/>
 </map>

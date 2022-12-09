@@ -1,11 +1,11 @@
 var searchData=
 [
   ['_5f_5fas_5fstr_5f_5f_0',['__AS_STR__',['../d9/dc8/cc_macros_8h.html#a725280ea44acf9833c89c001b3a3c081',1,'ccMacros.h']]],
-  ['_5f_5fccaffinetransformmake_1',['__CCAffineTransformMake',['../d2/dc0/namespacecocos2d.html#a0d0023b5f07d7db03895e846a1d478ba',1,'cocos2d']]],
+  ['_5f_5fccaffinetransformmake_1',['__CCAffineTransformMake',['../d2/dc0/namespacecocos2d.html#a0396c7de71805009e90ebe9a84aac615',1,'cocos2d']]],
   ['_5f_5fcclogwithfunction_2',['__CCLOGWITHFUNCTION',['../d3/d41/_c_c_platform_macros_8h.html#a9d01070b7b606589259516f64ced4a42',1,'CCPlatformMacros.h']]],
-  ['_5f_5fccpointapplyaffinetransform_3',['__CCPointApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#afbdeb513da471f8d2574e7e78496f8da',1,'cocos2d']]],
-  ['_5f_5fccsizeapplyaffinetransform_4',['__CCSizeApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#a57ecc8f0484873fcf185f3c7d55e8a90',1,'cocos2d']]],
-  ['_5f_5fcreatesystemeditbox_5',['__createSystemEditBox',['../d1/d50/namespacecocos2d_1_1extension.html#a1b58613fb2ff05a994d8d2568026be40',1,'cocos2d::extension']]],
+  ['_5f_5fccpointapplyaffinetransform_3',['__CCPointApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#a6926eab93db544bbf616bb64eaafaf98',1,'cocos2d']]],
+  ['_5f_5fccsizeapplyaffinetransform_4',['__CCSizeApplyAffineTransform',['../d2/dc0/namespacecocos2d.html#a0b5bd23f7bdeaf0e4d152674e414b241',1,'cocos2d']]],
+  ['_5f_5fcreatesystemeditbox_5',['__createSystemEditBox',['../d1/d50/namespacecocos2d_1_1extension.html#a4b6755d8c2ac5aa1896e293ea048ed28',1,'cocos2d::extension']]],
   ['_5f_5ffirepngdata_6',['__firePngData',['../dd/d08/fire_png_data_8h.html#a83046d6392b24eb637343592a3181974',1,'firePngData.h']]],
   ['_5f_5findexfromoffset_7',['__indexFromOffset',['../d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html#ad8b8e74ffc726e54f81d0f5ec0783d61',1,'cocos2d::extension::CCTableView']]],
   ['_5f_5foffsetfromindex_8',['__offsetFromIndex',['../d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html#a2ce502d002f8ae247c249f9a6f958710',1,'cocos2d::extension::CCTableView']]],

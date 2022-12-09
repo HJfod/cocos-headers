@@ -1,10 +1,10 @@
 <map id="CCParticleMeteor" name="CCParticleMeteor">
-<area shape="rect" id="node1" title="A meteor particle system." alt="" coords="50,379,185,405"/>
-<area shape="rect" id="node2" href="$d9/df5/classcocos2d_1_1_c_c_particle_system_quad.html" title="CCParticleSystemQuad is a subclass of CCParticleSystem." alt="" coords="32,304,203,331"/>
-<area shape="rect" id="node3" href="$dd/dd8/classcocos2d_1_1_c_c_particle_system.html" title="Particle System base class." alt="" coords="49,229,186,256"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,155,89,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node7" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="113,155,255,181"/>
-<area shape="rect" id="node8" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="119,80,249,107"/>
+<area shape="rect" id="node1" title="A meteor particle system." alt="" coords="50,372,185,397"/>
+<area shape="rect" id="node2" href="$d9/df5/classcocos2d_1_1_c_c_particle_system_quad.html" title="CCParticleSystemQuad is a subclass of CCParticleSystem." alt="" coords="32,299,203,324"/>
+<area shape="rect" id="node3" href="$dd/dd8/classcocos2d_1_1_c_c_particle_system.html" title="Particle System base class." alt="" coords="49,225,186,251"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,152,89,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node7" href="$db/d1b/classcocos2d_1_1_c_c_texture_protocol.html" title="CCNode objects that uses a CCTexture2D to render the images." alt="" coords="113,152,255,177"/>
+<area shape="rect" id="node8" href="$d6/d82/classcocos2d_1_1_c_c_blend_protocol.html" title="Specify the blending function according glBlendFunc Please refer to glBlendFunc in OpenGL ES Manual h..." alt="" coords="119,79,249,104"/>
 </map>

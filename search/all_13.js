@@ -29,7 +29,7 @@ var searchData=
   ['texturequality_26',['TextureQuality',['../d9/d1f/group__base__nodes.html#ga947f02b934589578a155e28df5fc960a',1,'cocos2d']]],
   ['textures_27',['Textures',['../d7/db5/group__textures.html',1,'']]],
   ['tglyph_28',['TGlyph',['../da/d94/struct_t_glyph.html',1,'']]],
-  ['throwiffailed_29',['ThrowIfFailed',['../d1/d80/namespace_d_x.html#aa15dd958b09a7ddbfdf9f4c34d2e8f52',1,'DX']]],
+  ['throwiffailed_29',['ThrowIfFailed',['../d1/d80/namespace_d_x.html#aec54dbc68fc3c5a426bd408e7c378aa9',1,'DX']]],
   ['tile_30',['tile',['../d0/d92/classcocos2d_1_1_c_c_tiled_grid3_d_action.html#a81cc382850c81ce27c494db15389af0d',1,'cocos2d::CCTiledGrid3DAction::tile()'],['../db/d0b/classcocos2d_1_1_c_c_tiled_grid3_d.html#a850a6113a515b24b82504e458a0012ac',1,'cocos2d::CCTiledGrid3D::tile()']]],
   ['tileat_31',['tileAt',['../d2/d8b/classcocos2d_1_1_c_c_tile_map_atlas.html#a4123b4aad4741f6ec7b4e4a005436983',1,'cocos2d::CCTileMapAtlas::tileAt()'],['../da/d5a/classcocos2d_1_1_c_c_t_m_x_layer.html#ab5b1e77b0eda9a4c4ab775951aa3051f',1,'cocos2d::CCTMXLayer::tileAt(const CCPoint &amp;tileCoordinate)']]],
   ['tilegidat_32',['tileGIDAt',['../da/d5a/classcocos2d_1_1_c_c_t_m_x_layer.html#ae90e8d745400b22c14a8826362bfc41d',1,'cocos2d::CCTMXLayer::tileGIDAt(const CCPoint &amp;tileCoordinate)'],['../da/d5a/classcocos2d_1_1_c_c_t_m_x_layer.html#a79a5de02a2ff03074a81d6d597cb4b9c',1,'cocos2d::CCTMXLayer::tileGIDAt(const CCPoint &amp;tileCoordinate, ccTMXTileFlags *flags)']]],

@@ -1,8 +1,8 @@
 <map id="CCTouchDispatcher" name="CCTouchDispatcher">
-<area shape="rect" id="node1" title="CCTouchDispatcher." alt="" coords="104,276,251,303"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,81,93,108"/>
-<area shape="rect" id="node5" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="73,157,148,184"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node4" href="$d6/dcc/classcocos2d_1_1_e_g_l_touch_delegate.html" title="NA." alt="" coords="189,157,331,184"/>
-<area shape="rect" id="node6" href="$d8/d1d/structcocos2d_1_1cc_touch_handler_helper_data.html" title=" " alt="" coords="355,157,554,184"/>
+<area shape="rect" id="node1" title="CCTouchDispatcher." alt="" coords="104,272,251,297"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,105"/>
+<area shape="rect" id="node5" href="$d9/d2e/classcocos2d_1_1_c_c_array.html" title="NA." alt="" coords="73,155,148,180"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node4" href="$d6/dcc/classcocos2d_1_1_e_g_l_touch_delegate.html" title="NA." alt="" coords="189,155,331,180"/>
+<area shape="rect" id="node6" href="$d8/d1d/structcocos2d_1_1cc_touch_handler_helper_data.html" title=" " alt="" coords="355,155,554,180"/>
 </map>

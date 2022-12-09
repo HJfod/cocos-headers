@@ -10,10 +10,7 @@ var dir_bc5f8dfdc578fe11a07564e45c002103 =
     [ "CCControlSlider.h", "d6/d7e/_c_c_control_slider_8h.html", null ],
     [ "CCControlStepper.h", "de/dba/_c_c_control_stepper_8h.html", "de/dba/_c_c_control_stepper_8h" ],
     [ "CCControlSwitch.h", "de/dc7/_c_c_control_switch_8h.html", null ],
-    [ "CCControlUtils.h", "d5/de1/_c_c_control_utils_8h.html", [
-      [ "RGBA", "de/df3/structcocos2d_1_1extension_1_1_r_g_b_a.html", "de/df3/structcocos2d_1_1extension_1_1_r_g_b_a" ],
-      [ "HSV", "d6/d91/structcocos2d_1_1extension_1_1_h_s_v.html", "d6/d91/structcocos2d_1_1extension_1_1_h_s_v" ]
-    ] ],
+    [ "CCControlUtils.h", "d5/de1/_c_c_control_utils_8h.html", "d5/de1/_c_c_control_utils_8h" ],
     [ "CCInvocation.h", "d5/dad/_c_c_invocation_8h.html", "d5/dad/_c_c_invocation_8h" ],
     [ "CCScale9Sprite.h", "db/d24/_c_c_scale9_sprite_8h.html", null ],
     [ "ColorPickerDelegate.h", "d8/dec/_color_picker_delegate_8h.html", null ]

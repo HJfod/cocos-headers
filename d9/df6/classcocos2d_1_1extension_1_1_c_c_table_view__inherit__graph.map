@@ -1,13 +1,13 @@
 <map id="CCTableView" name="CCTableView">
-<area shape="rect" id="node1" title="UITableView counterpart for cocos2d for iphone." alt="" coords="397,379,504,405"/>
-<area shape="rect" id="node2" href="$d3/dbc/classcocos2d_1_1extension_1_1_c_c_scroll_view.html" title="ScrollView support for cocos2d for iphone." alt="" coords="317,304,425,331"/>
-<area shape="rect" id="node3" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="333,229,409,256"/>
-<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,155,89,181"/>
-<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,80,93,107"/>
-<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node7" href="$d0/d38/classcocos2d_1_1_c_c_touch_delegate.html" title=" " alt="" coords="113,155,249,181"/>
-<area shape="rect" id="node8" href="$da/d55/classcocos2d_1_1_c_c_accelerometer_delegate.html" title="The CCAccelerometerDelegate defines a single method for receiving acceleration&#45;related data from the ..." alt="" coords="273,155,468,181"/>
-<area shape="rect" id="node9" href="$d2/d2d/classcocos2d_1_1_c_c_keypad_delegate.html" title=" " alt="" coords="492,155,639,181"/>
-<area shape="rect" id="node10" href="$d2/d91/classcocos2d_1_1_c_c_keyboard_delegate.html" title=" " alt="" coords="663,155,823,181"/>
-<area shape="rect" id="node11" href="$d6/d2a/classcocos2d_1_1extension_1_1_c_c_scroll_view_delegate.html" title="NA NA." alt="" coords="449,304,615,331"/>
+<area shape="rect" id="node1" title="UITableView counterpart for cocos2d for iphone." alt="" coords="397,372,504,397"/>
+<area shape="rect" id="node2" href="$d3/dbc/classcocos2d_1_1extension_1_1_c_c_scroll_view.html" title="ScrollView support for cocos2d for iphone." alt="" coords="317,299,425,324"/>
+<area shape="rect" id="node3" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="333,225,409,251"/>
+<area shape="rect" id="node4" href="$d0/ded/classcocos2d_1_1_c_c_node.html" title="CCNode is the main element." alt="" coords="15,152,89,177"/>
+<area shape="rect" id="node5" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node6" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node7" href="$d0/d38/classcocos2d_1_1_c_c_touch_delegate.html" title=" " alt="" coords="113,152,249,177"/>
+<area shape="rect" id="node8" href="$da/d55/classcocos2d_1_1_c_c_accelerometer_delegate.html" title="The CCAccelerometerDelegate defines a single method for receiving acceleration&#45;related data from the ..." alt="" coords="273,152,468,177"/>
+<area shape="rect" id="node9" href="$d2/d2d/classcocos2d_1_1_c_c_keypad_delegate.html" title=" " alt="" coords="492,152,639,177"/>
+<area shape="rect" id="node10" href="$d2/d91/classcocos2d_1_1_c_c_keyboard_delegate.html" title=" " alt="" coords="663,152,823,177"/>
+<area shape="rect" id="node11" href="$d6/d2a/classcocos2d_1_1extension_1_1_c_c_scroll_view_delegate.html" title="NA NA." alt="" coords="449,299,615,324"/>
 </map>

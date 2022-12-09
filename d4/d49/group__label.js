@@ -154,6 +154,6 @@ var group__label =
       [ "m_vAlignment", "df/d72/classcocos2d_1_1_c_c_label_t_t_f.html#a05fca9341925a95c0ea01a254a58caf1", null ],
       [ "cocos2d::kCCLabelAutomaticWidth", "d4/d49/group__label.html#gga61dadd085c1777f559549e05962b2c9ea5f20c0fe0f88dbeaaadfe68d151383d2", null ]
     ] ],
-    [ "cocos2d::FNTConfigLoadFile", "d4/d49/group__label.html#ga6349a372b25a3ebde8657b98cb112c62", null ],
-    [ "cocos2d::FNTConfigRemoveCache", "d4/d49/group__label.html#gaf99d65f329eaf6a2b46bbf9f916efa01", null ]
+    [ "cocos2d::FNTConfigLoadFile", "d4/d49/group__label.html#ga9b9985682194f0c7ad6729dd668242cf", null ],
+    [ "cocos2d::FNTConfigRemoveCache", "d4/d49/group__label.html#gae54507da236cd3cb9a26e10dfce09ccb", null ]
 ];

@@ -1,21 +1,21 @@
 <map id="CCTiledGrid3DAction" name="CCTiledGrid3DAction">
-<area shape="rect" id="node1" title="Base class for CCTiledGrid3D actions." alt="" coords="940,233,1099,260"/>
-<area shape="rect" id="node8" href="$da/d0c/classcocos2d_1_1_c_c_fade_out_t_r_tiles.html" title="CCFadeOutTRTiles action Fades out the tiles in a Top&#45;Right direction." alt="" coords="1153,31,1293,57"/>
-<area shape="rect" id="node12" href="$da/d0d/classcocos2d_1_1_c_c_jump_tiles3_d.html" title="CCJumpTiles3D action." alt="" coords="1161,81,1284,108"/>
-<area shape="rect" id="node13" href="$dd/d21/classcocos2d_1_1_c_c_shaky_tiles3_d.html" title="CCShakyTiles3D action." alt="" coords="1159,132,1287,159"/>
-<area shape="rect" id="node14" href="$d5/d4f/classcocos2d_1_1_c_c_shattered_tiles3_d.html" title="CCShatteredTiles3D action." alt="" coords="1147,183,1299,209"/>
-<area shape="rect" id="node15" href="$d5/d76/classcocos2d_1_1_c_c_shuffle_tiles.html" title="CCShuffleTiles action Shuffle the tiles in random order." alt="" coords="1165,233,1281,260"/>
-<area shape="rect" id="node16" href="$d1/d37/classcocos2d_1_1_c_c_split_cols.html" title="CCSplitCols action." alt="" coords="1174,284,1271,311"/>
-<area shape="rect" id="node17" href="$d4/d47/classcocos2d_1_1_c_c_split_rows.html" title="CCSplitRows action." alt="" coords="1171,335,1275,361"/>
-<area shape="rect" id="node18" href="$d2/d9a/classcocos2d_1_1_c_c_turn_off_tiles.html" title="CCTurnOffTiles action." alt="" coords="1164,385,1281,412"/>
-<area shape="rect" id="node19" href="$d4/d4e/classcocos2d_1_1_c_c_waves_tiles3_d.html" title="CCWavesTiles3D action." alt="" coords="1157,436,1289,463"/>
-<area shape="rect" id="node2" href="$d5/d1e/classcocos2d_1_1_c_c_grid_action.html" title="Base class for Grid actions." alt="" coords="784,233,892,260"/>
-<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="605,233,736,260"/>
-<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="407,233,557,260"/>
-<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="277,233,359,260"/>
-<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,233,229,260"/>
-<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,233,99,260"/>
-<area shape="rect" id="node9" href="$d1/d7b/classcocos2d_1_1_c_c_fade_out_b_l_tiles.html" title="CCFadeOutBLTiles action." alt="" coords="1349,5,1487,32"/>
-<area shape="rect" id="node10" href="$d1/d71/classcocos2d_1_1_c_c_fade_out_up_tiles.html" title="CCFadeOutUpTiles action." alt="" coords="1347,56,1489,83"/>
-<area shape="rect" id="node11" href="$d6/d08/classcocos2d_1_1_c_c_fade_out_down_tiles.html" title="CCFadeOutDownTiles action." alt="" coords="1537,56,1699,83"/>
+<area shape="rect" id="node1" title="Base class for CCTiledGrid3D actions." alt="" coords="940,227,1099,252"/>
+<area shape="rect" id="node8" href="$da/d0c/classcocos2d_1_1_c_c_fade_out_t_r_tiles.html" title="CCFadeOutTRTiles action Fades out the tiles in a Top&#45;Right direction." alt="" coords="1153,29,1293,55"/>
+<area shape="rect" id="node12" href="$da/d0d/classcocos2d_1_1_c_c_jump_tiles3_d.html" title="CCJumpTiles3D action." alt="" coords="1161,79,1284,104"/>
+<area shape="rect" id="node13" href="$dd/d21/classcocos2d_1_1_c_c_shaky_tiles3_d.html" title="CCShakyTiles3D action." alt="" coords="1159,128,1287,153"/>
+<area shape="rect" id="node14" href="$d5/d4f/classcocos2d_1_1_c_c_shattered_tiles3_d.html" title="CCShatteredTiles3D action." alt="" coords="1147,177,1299,203"/>
+<area shape="rect" id="node15" href="$d5/d76/classcocos2d_1_1_c_c_shuffle_tiles.html" title="CCShuffleTiles action Shuffle the tiles in random order." alt="" coords="1165,227,1281,252"/>
+<area shape="rect" id="node16" href="$d1/d37/classcocos2d_1_1_c_c_split_cols.html" title="CCSplitCols action." alt="" coords="1174,276,1271,301"/>
+<area shape="rect" id="node17" href="$d4/d47/classcocos2d_1_1_c_c_split_rows.html" title="CCSplitRows action." alt="" coords="1171,325,1275,351"/>
+<area shape="rect" id="node18" href="$d2/d9a/classcocos2d_1_1_c_c_turn_off_tiles.html" title="CCTurnOffTiles action." alt="" coords="1164,375,1281,400"/>
+<area shape="rect" id="node19" href="$d4/d4e/classcocos2d_1_1_c_c_waves_tiles3_d.html" title="CCWavesTiles3D action." alt="" coords="1157,424,1289,449"/>
+<area shape="rect" id="node2" href="$d5/d1e/classcocos2d_1_1_c_c_grid_action.html" title="Base class for Grid actions." alt="" coords="784,227,892,252"/>
+<area shape="rect" id="node3" href="$dd/d8d/classcocos2d_1_1_c_c_action_interval.html" title="An interval action is an action that takes place within a certain period of time." alt="" coords="605,227,736,252"/>
+<area shape="rect" id="node4" href="$dd/d89/classcocos2d_1_1_c_c_finite_time_action.html" title="Base class actions that do have a finite time duration." alt="" coords="407,227,557,252"/>
+<area shape="rect" id="node5" href="$d7/d12/classcocos2d_1_1_c_c_action.html" title="Base class for CCAction objects." alt="" coords="277,227,359,252"/>
+<area shape="rect" id="node6" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,227,229,252"/>
+<area shape="rect" id="node7" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,227,99,252"/>
+<area shape="rect" id="node9" href="$d1/d7b/classcocos2d_1_1_c_c_fade_out_b_l_tiles.html" title="CCFadeOutBLTiles action." alt="" coords="1349,5,1487,31"/>
+<area shape="rect" id="node10" href="$d1/d71/classcocos2d_1_1_c_c_fade_out_up_tiles.html" title="CCFadeOutUpTiles action." alt="" coords="1347,55,1489,80"/>
+<area shape="rect" id="node11" href="$d6/d08/classcocos2d_1_1_c_c_fade_out_down_tiles.html" title="CCFadeOutDownTiles action." alt="" coords="1537,55,1699,80"/>
 </map>

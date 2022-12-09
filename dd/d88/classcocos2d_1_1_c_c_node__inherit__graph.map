@@ -1,51 +1,51 @@
 <map id="CCNode" name="CCNode">
-<area shape="rect" id="node1" title="CCNode is the main element." alt="" coords="277,613,352,640"/>
-<area shape="rect" id="node4" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="441,132,517,159"/>
-<area shape="rect" id="node12" href="$d5/def/classcocos2d_1_1_c_c_clipping_node.html" title="CCClippingNode is a subclass of CCNode." alt="" coords="416,385,543,412"/>
-<area shape="rect" id="node13" href="$db/df9/classcocos2d_1_1_c_c_draw_node.html" title="CCDrawNode Node that draws dots, segments and polygons." alt="" coords="425,436,533,463"/>
-<area shape="rect" id="node14" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="424,487,535,513"/>
-<area shape="rect" id="node27" href="$d3/d77/classcocos2d_1_1_c_c_parallax_node.html" title="CCParallaxNode: A node that simulates a parallax scroller." alt="" coords="416,537,543,564"/>
-<area shape="rect" id="node28" href="$d0/d0a/classcocos2d_1_1_c_c_particle_batch_node.html" title="CCParticleBatchNode is like a batch node: if it contains children, it will draw them in 1 single Open..." alt="" coords="400,588,559,615"/>
-<area shape="rect" id="node29" href="$dd/dd8/classcocos2d_1_1_c_c_particle_system.html" title="Particle System base class." alt="" coords="411,639,548,665"/>
-<area shape="rect" id="node42" href="$de/d50/classcocos2d_1_1_c_c_render_texture.html" title="CCRenderTexture is a generic rendering target." alt="" coords="412,689,547,716"/>
-<area shape="rect" id="node43" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="440,740,519,767"/>
-<area shape="rect" id="node45" href="$dd/d95/classcocos2d_1_1_c_c_sprite_batch_node.html" title="CCSpriteBatchNode is like a batch node: if it contains children, it will draw them in 1 single OpenGL..." alt="" coords="405,791,554,817"/>
-<area shape="rect" id="node48" href="$da/d68/classcocos2d_1_1_c_c_t_m_x_tiled_map.html" title="CCTMXTiledMap knows how to parse and render a TMX map." alt="" coords="415,841,544,868"/>
-<area shape="rect" id="node49" href="$d4/d2b/classcocos2d_1_1extension_1_1_c_c_table_view_cell.html" title="Abstract class for SWTableView cell node NA." alt="" coords="414,892,545,919"/>
-<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,613,229,640"/>
-<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,613,99,640"/>
-<area shape="rect" id="node5" href="$d3/d7e/classcocos2d_1_1_c_c_layer_multiplex.html" title="CCMultipleLayer is a CCLayer with the ability to multiplex it&#39;s children." alt="" coords="623,56,761,83"/>
-<area shape="rect" id="node6" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="635,107,749,133"/>
-<area shape="rect" id="node10" href="$d3/dbc/classcocos2d_1_1extension_1_1_c_c_scroll_view.html" title="ScrollView support for cocos2d for iphone." alt="" coords="638,157,746,184"/>
-<area shape="rect" id="node7" href="$da/d2c/classcocos2d_1_1_c_c_layer_color.html" title="CCLayerColor is a subclass of CCLayer that implements the CCRGBAProtocol protocol." alt="" coords="845,5,956,32"/>
-<area shape="rect" id="node8" href="$d1/da0/classcocos2d_1_1_c_c_menu.html" title="A CCMenu." alt="" coords="863,56,939,83"/>
-<area shape="rect" id="node9" href="$d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html" title=" " alt="" coords="857,107,944,133"/>
-<area shape="rect" id="node11" href="$d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html" title="UITableView counterpart for cocos2d for iphone." alt="" coords="847,157,954,184"/>
-<area shape="rect" id="node15" href="$d7/d70/classcocos2d_1_1_c_c_atlas_node.html" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="639,259,745,285"/>
-<area shape="rect" id="node18" href="$d3/ddc/classcocos2d_1_1_c_c_menu_item.html" title="CCMenuItem base class." alt="" coords="639,360,745,387"/>
-<area shape="rect" id="node22" href="$d9/d38/classcocos2d_1_1_c_c_motion_streak.html" title="MotionStreak." alt="" coords="629,411,755,437"/>
-<area shape="rect" id="node23" href="$dc/db9/classcocos2d_1_1_c_c_progress_timer.html" title="CCProgressTimer is a subclass of CCNode." alt="" coords="625,461,759,488"/>
-<area shape="rect" id="node24" href="$d4/de7/classcocos2d_1_1_c_c_sprite.html" title="CCSprite is a 2d image ( http://en.wikipedia.org/wiki/Sprite_(computer_graphics) )" alt="" coords="653,512,731,539"/>
-<area shape="rect" id="node26" href="$d7/d8b/classcocos2d_1_1extension_1_1_c_c_scale9_sprite.html" title="A 9&#45;slice sprite for cocos2d." alt="" coords="631,563,753,589"/>
-<area shape="rect" id="node16" href="$d7/d84/classcocos2d_1_1_c_c_label_atlas.html" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="847,208,955,235"/>
-<area shape="rect" id="node17" href="$d2/d8b/classcocos2d_1_1_c_c_tile_map_atlas.html" title="CCTileMapAtlas is a subclass of CCAtlasNode." alt="" coords="838,259,963,285"/>
-<area shape="rect" id="node19" href="$d3/dc3/classcocos2d_1_1_c_c_menu_item_label.html" title="An abstract class for &quot;label&quot; CCMenuItemLabel items Any CCNode that supports the CCLabelProtocol prot..." alt="" coords="830,309,971,336"/>
-<area shape="rect" id="node20" href="$db/dbd/classcocos2d_1_1_c_c_menu_item_sprite.html" title="CCMenuItemSprite accepts CCNode&lt;CCRGBAProtocol&gt; objects as items." alt="" coords="829,360,973,387"/>
-<area shape="rect" id="node21" href="$dd/dd3/classcocos2d_1_1_c_c_menu_item_toggle.html" title="A CCMenuItemToggle A simple container class that &quot;toggles&quot; it&#39;s inner items The inner items can be an..." alt="" coords="827,411,975,437"/>
-<area shape="rect" id="node25" href="$df/d72/classcocos2d_1_1_c_c_label_t_t_f.html" title="CCLabelTTF is a subclass of CCTextureNode that knows how to render text labels." alt="" coords="851,461,950,488"/>
-<area shape="rect" id="node30" href="$d9/df5/classcocos2d_1_1_c_c_particle_system_quad.html" title="CCParticleSystemQuad is a subclass of CCParticleSystem." alt="" coords="607,689,777,716"/>
-<area shape="rect" id="node31" href="$dc/d49/classcocos2d_1_1_c_c_particle_explosion.html" title="An explosion particle system." alt="" coords="825,512,976,539"/>
-<area shape="rect" id="node32" href="$d6/d20/classcocos2d_1_1_c_c_particle_fire.html" title="A fire particle system." alt="" coords="845,563,957,589"/>
-<area shape="rect" id="node33" href="$d7/d6c/classcocos2d_1_1_c_c_particle_fireworks.html" title="A fireworks particle system." alt="" coords="825,613,976,640"/>
-<area shape="rect" id="node34" href="$df/da7/classcocos2d_1_1_c_c_particle_flower.html" title="A flower particle system." alt="" coords="835,664,967,691"/>
-<area shape="rect" id="node35" href="$d9/d53/classcocos2d_1_1_c_c_particle_galaxy.html" title="A galaxy particle system." alt="" coords="833,715,968,741"/>
-<area shape="rect" id="node36" href="$d1/d3f/classcocos2d_1_1_c_c_particle_meteor.html" title="A meteor particle system." alt="" coords="833,765,968,792"/>
-<area shape="rect" id="node37" href="$dd/dcd/classcocos2d_1_1_c_c_particle_rain.html" title="A rain particle system." alt="" coords="842,816,959,843"/>
-<area shape="rect" id="node38" href="$d5/d45/classcocos2d_1_1_c_c_particle_smoke.html" title="An smoke particle system." alt="" coords="835,867,967,893"/>
-<area shape="rect" id="node39" href="$d8/dfe/classcocos2d_1_1_c_c_particle_snow.html" title="An snow particle system." alt="" coords="839,917,962,944"/>
-<area shape="rect" id="node40" href="$da/d14/classcocos2d_1_1_c_c_particle_spiral.html" title="An spiral particle system." alt="" coords="838,968,963,995"/>
-<area shape="rect" id="node41" href="$d6/da3/classcocos2d_1_1_c_c_particle_sun.html" title="A sun particle system." alt="" coords="845,1019,957,1045"/>
-<area shape="rect" id="node44" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="621,740,763,767"/>
-<area shape="rect" id="node46" href="$dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html" title="CCLabelBMFont is a subclass of CCSpriteBatchNode." alt="" coords="630,791,754,817"/>
-<area shape="rect" id="node47" href="$da/d5a/classcocos2d_1_1_c_c_t_m_x_layer.html" title="CCTMXLayer represents the TMX layer." alt="" coords="639,841,745,868"/>
+<area shape="rect" id="node1" title="CCNode is the main element." alt="" coords="277,597,352,623"/>
+<area shape="rect" id="node4" href="$d0/d45/class_c_c_layer.html" title="CCLayer is a subclass of CCNode that implements the TouchEventsDelegate protocol." alt="" coords="441,129,517,155"/>
+<area shape="rect" id="node12" href="$d5/def/classcocos2d_1_1_c_c_clipping_node.html" title="CCClippingNode is a subclass of CCNode." alt="" coords="416,375,543,400"/>
+<area shape="rect" id="node13" href="$db/df9/classcocos2d_1_1_c_c_draw_node.html" title="CCDrawNode Node that draws dots, segments and polygons." alt="" coords="425,424,533,449"/>
+<area shape="rect" id="node14" href="$de/d2e/classcocos2d_1_1_c_c_node_r_g_b_a.html" title="CCNodeRGBA is a subclass of CCNode that implements the CCRGBAProtocol protocol." alt="" coords="424,473,535,499"/>
+<area shape="rect" id="node27" href="$d3/d77/classcocos2d_1_1_c_c_parallax_node.html" title="CCParallaxNode: A node that simulates a parallax scroller." alt="" coords="416,523,543,548"/>
+<area shape="rect" id="node28" href="$d0/d0a/classcocos2d_1_1_c_c_particle_batch_node.html" title="CCParticleBatchNode is like a batch node: if it contains children, it will draw them in 1 single Open..." alt="" coords="400,572,559,597"/>
+<area shape="rect" id="node29" href="$dd/dd8/classcocos2d_1_1_c_c_particle_system.html" title="Particle System base class." alt="" coords="411,621,548,647"/>
+<area shape="rect" id="node42" href="$de/d50/classcocos2d_1_1_c_c_render_texture.html" title="CCRenderTexture is a generic rendering target." alt="" coords="412,671,547,696"/>
+<area shape="rect" id="node43" href="$d1/da4/classcocos2d_1_1_c_c_scene.html" title="CCScene is a subclass of CCNode that is used only as an abstract concept." alt="" coords="440,720,519,745"/>
+<area shape="rect" id="node45" href="$dd/d95/classcocos2d_1_1_c_c_sprite_batch_node.html" title="CCSpriteBatchNode is like a batch node: if it contains children, it will draw them in 1 single OpenGL..." alt="" coords="405,769,554,795"/>
+<area shape="rect" id="node48" href="$da/d68/classcocos2d_1_1_c_c_t_m_x_tiled_map.html" title="CCTMXTiledMap knows how to parse and render a TMX map." alt="" coords="415,819,544,844"/>
+<area shape="rect" id="node49" href="$d4/d2b/classcocos2d_1_1extension_1_1_c_c_table_view_cell.html" title="Abstract class for SWTableView cell node NA." alt="" coords="414,868,545,893"/>
+<area shape="rect" id="node2" href="$d3/dbf/classcocos2d_1_1_c_c_object.html" title="NA." alt="" coords="147,597,229,623"/>
+<area shape="rect" id="node3" href="$d5/d61/classcocos2d_1_1_c_c_copying.html" title="NA NA." alt="" coords="5,597,99,623"/>
+<area shape="rect" id="node5" href="$d3/d7e/classcocos2d_1_1_c_c_layer_multiplex.html" title="CCMultipleLayer is a CCLayer with the ability to multiplex it&#39;s children." alt="" coords="623,55,761,80"/>
+<area shape="rect" id="node6" href="$dd/d1e/classcocos2d_1_1_c_c_layer_r_g_b_a.html" title="CCLayerRGBA is a subclass of CCLayer that implements the CCRGBAProtocol protocol using a solid color ..." alt="" coords="635,104,749,129"/>
+<area shape="rect" id="node10" href="$d3/dbc/classcocos2d_1_1extension_1_1_c_c_scroll_view.html" title="ScrollView support for cocos2d for iphone." alt="" coords="638,153,746,179"/>
+<area shape="rect" id="node7" href="$da/d2c/classcocos2d_1_1_c_c_layer_color.html" title="CCLayerColor is a subclass of CCLayer that implements the CCRGBAProtocol protocol." alt="" coords="845,5,956,31"/>
+<area shape="rect" id="node8" href="$d1/da0/classcocos2d_1_1_c_c_menu.html" title="A CCMenu." alt="" coords="863,55,939,80"/>
+<area shape="rect" id="node9" href="$d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html" title=" " alt="" coords="857,104,944,129"/>
+<area shape="rect" id="node11" href="$d8/d28/classcocos2d_1_1extension_1_1_c_c_table_view.html" title="UITableView counterpart for cocos2d for iphone." alt="" coords="847,153,954,179"/>
+<area shape="rect" id="node15" href="$d7/d70/classcocos2d_1_1_c_c_atlas_node.html" title="CCAtlasNode is a subclass of CCNode that implements the CCRGBAProtocol and CCTextureProtocol protocol..." alt="" coords="639,252,745,277"/>
+<area shape="rect" id="node18" href="$d3/ddc/classcocos2d_1_1_c_c_menu_item.html" title="CCMenuItem base class." alt="" coords="639,351,745,376"/>
+<area shape="rect" id="node22" href="$d9/d38/classcocos2d_1_1_c_c_motion_streak.html" title="MotionStreak." alt="" coords="629,400,755,425"/>
+<area shape="rect" id="node23" href="$dc/db9/classcocos2d_1_1_c_c_progress_timer.html" title="CCProgressTimer is a subclass of CCNode." alt="" coords="625,449,759,475"/>
+<area shape="rect" id="node24" href="$d4/de7/classcocos2d_1_1_c_c_sprite.html" title="CCSprite is a 2d image ( http://en.wikipedia.org/wiki/Sprite_(computer_graphics) )" alt="" coords="653,499,731,524"/>
+<area shape="rect" id="node26" href="$d7/d8b/classcocos2d_1_1extension_1_1_c_c_scale9_sprite.html" title="A 9&#45;slice sprite for cocos2d." alt="" coords="631,548,753,573"/>
+<area shape="rect" id="node16" href="$d7/d84/classcocos2d_1_1_c_c_label_atlas.html" title="CCLabelAtlas is a subclass of CCAtlasNode." alt="" coords="847,203,955,228"/>
+<area shape="rect" id="node17" href="$d2/d8b/classcocos2d_1_1_c_c_tile_map_atlas.html" title="CCTileMapAtlas is a subclass of CCAtlasNode." alt="" coords="838,252,963,277"/>
+<area shape="rect" id="node19" href="$d3/dc3/classcocos2d_1_1_c_c_menu_item_label.html" title="An abstract class for &quot;label&quot; CCMenuItemLabel items Any CCNode that supports the CCLabelProtocol prot..." alt="" coords="830,301,971,327"/>
+<area shape="rect" id="node20" href="$db/dbd/classcocos2d_1_1_c_c_menu_item_sprite.html" title="CCMenuItemSprite accepts CCNode&lt;CCRGBAProtocol&gt; objects as items." alt="" coords="829,351,973,376"/>
+<area shape="rect" id="node21" href="$dd/dd3/classcocos2d_1_1_c_c_menu_item_toggle.html" title="A CCMenuItemToggle A simple container class that &quot;toggles&quot; it&#39;s inner items The inner items can be an..." alt="" coords="827,400,975,425"/>
+<area shape="rect" id="node25" href="$df/d72/classcocos2d_1_1_c_c_label_t_t_f.html" title="CCLabelTTF is a subclass of CCTextureNode that knows how to render text labels." alt="" coords="851,449,950,475"/>
+<area shape="rect" id="node30" href="$d9/df5/classcocos2d_1_1_c_c_particle_system_quad.html" title="CCParticleSystemQuad is a subclass of CCParticleSystem." alt="" coords="607,671,777,696"/>
+<area shape="rect" id="node31" href="$dc/d49/classcocos2d_1_1_c_c_particle_explosion.html" title="An explosion particle system." alt="" coords="825,499,976,524"/>
+<area shape="rect" id="node32" href="$d6/d20/classcocos2d_1_1_c_c_particle_fire.html" title="A fire particle system." alt="" coords="845,548,957,573"/>
+<area shape="rect" id="node33" href="$d7/d6c/classcocos2d_1_1_c_c_particle_fireworks.html" title="A fireworks particle system." alt="" coords="825,597,976,623"/>
+<area shape="rect" id="node34" href="$df/da7/classcocos2d_1_1_c_c_particle_flower.html" title="A flower particle system." alt="" coords="835,647,967,672"/>
+<area shape="rect" id="node35" href="$d9/d53/classcocos2d_1_1_c_c_particle_galaxy.html" title="A galaxy particle system." alt="" coords="833,696,968,721"/>
+<area shape="rect" id="node36" href="$d1/d3f/classcocos2d_1_1_c_c_particle_meteor.html" title="A meteor particle system." alt="" coords="833,745,968,771"/>
+<area shape="rect" id="node37" href="$dd/dcd/classcocos2d_1_1_c_c_particle_rain.html" title="A rain particle system." alt="" coords="842,795,959,820"/>
+<area shape="rect" id="node38" href="$d5/d45/classcocos2d_1_1_c_c_particle_smoke.html" title="An smoke particle system." alt="" coords="835,844,967,869"/>
+<area shape="rect" id="node39" href="$d8/dfe/classcocos2d_1_1_c_c_particle_snow.html" title="An snow particle system." alt="" coords="839,893,962,919"/>
+<area shape="rect" id="node40" href="$da/d14/classcocos2d_1_1_c_c_particle_spiral.html" title="An spiral particle system." alt="" coords="838,943,963,968"/>
+<area shape="rect" id="node41" href="$d6/da3/classcocos2d_1_1_c_c_particle_sun.html" title="A sun particle system." alt="" coords="845,992,957,1017"/>
+<area shape="rect" id="node44" href="$d1/dc8/classcocos2d_1_1_c_c_transition_scene.html" title="Base class for CCTransition scenes." alt="" coords="621,720,763,745"/>
+<area shape="rect" id="node46" href="$dc/dfb/classcocos2d_1_1_c_c_label_b_m_font.html" title="CCLabelBMFont is a subclass of CCSpriteBatchNode." alt="" coords="630,769,754,795"/>
+<area shape="rect" id="node47" href="$da/d5a/classcocos2d_1_1_c_c_t_m_x_layer.html" title="CCTMXLayer represents the TMX layer." alt="" coords="639,819,745,844"/>
 </map>

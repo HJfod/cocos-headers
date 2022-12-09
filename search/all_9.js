@@ -217,7 +217,7 @@ var searchData=
   ['isselected_214',['isSelected',['../d3/ddc/classcocos2d_1_1_c_c_menu_item.html#a389b58840262ac5cee6e70e51e062015',1,'cocos2d::CCMenuItem::isSelected()'],['../d4/d38/classcocos2d_1_1extension_1_1_c_c_control.html#a389b58840262ac5cee6e70e51e062015',1,'cocos2d::extension::CCControl::isSelected()']]],
   ['issendcleanuptoscene_215',['isSendCleanupToScene',['../db/d7f/classcocos2d_1_1_c_c_director.html#ac8dbe1fa3d6b6407e9f489831ffce43e',1,'cocos2d::CCDirector']]],
   ['issinglereference_216',['isSingleReference',['../d3/dbf/classcocos2d_1_1_c_c_object.html#ae6444a44d5bc0de62111d11bf6d7f858',1,'cocos2d::CCObject']]],
-  ['isspace_5funicode_217',['isspace_unicode',['../d2/dc0/namespacecocos2d.html#a9605747f6678fccae709743dc351df25',1,'cocos2d']]],
+  ['isspace_5funicode_217',['isspace_unicode',['../d2/dc0/namespacecocos2d.html#a18850646be6bc193388158ce4d000580',1,'cocos2d']]],
   ['isstartingpositioninitialized_218',['isStartingPositionInitialized',['../d9/d38/classcocos2d_1_1_c_c_motion_streak.html#a80608442e0930802087fe1a1b560f1f8',1,'cocos2d::CCMotionStreak']]],
   ['issucceed_219',['isSucceed',['../db/d33/classcocos2d_1_1extension_1_1_c_c_http_response.html#a74831941aa0b485fe079b1a9005a72ca',1,'cocos2d::extension::CCHttpResponse']]],
   ['isswallowstouches_220',['isSwallowsTouches',['../d7/dc6/classcocos2d_1_1_c_c_targeted_touch_handler.html#afd6212028db01b5cdc0a3436d9af5638',1,'cocos2d::CCTargetedTouchHandler']]],

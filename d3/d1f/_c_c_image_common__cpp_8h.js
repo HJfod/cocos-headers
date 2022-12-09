@@ -5,5 +5,5 @@ var _c_c_image_common__cpp_8h =
     [ "CC_RGB_PREMULTIPLY_ALPHA", "d3/d1f/_c_c_image_common__cpp_8h.html#a77f257ee0a87671322b60b394aabce6d", null ],
     [ "PNGSIGSIZE", "d3/d1f/_c_c_image_common__cpp_8h.html#a477bc09dde00968e3e3e9e17bebba351", null ],
     [ "my_error_ptr", "d3/d1f/_c_c_image_common__cpp_8h.html#a17bb08c876725fc3608be875c457af71", null ],
-    [ "METHODDEF", "d3/d1f/_c_c_image_common__cpp_8h.html#a23ec84f3c6ccc6309c591fd97b546442", null ]
+    [ "METHODDEF", "d3/d1f/_c_c_image_common__cpp_8h.html#ae7c7201727c22b06eec0221a04cac0b3", null ]
 ];

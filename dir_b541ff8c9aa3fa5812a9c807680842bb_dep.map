@@ -1,16 +1,16 @@
 <map id="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/support" name="/home/runner/work/cocos&#45;headers/cocos&#45;headers/cocos2dx/support">
-<area shape="rect" id="node1" href="dir_0ffc90e37b15a3085244dc84c419f433.html" title="cocoa" alt="" coords="55,159,127,207"/>
-<area shape="rect" id="node2" href="dir_27ef4e836ed14d41bc908bfe408a729b.html" title="include" alt="" coords="157,159,229,207"/>
-<area shape="rect" id="node3" href="dir_605373d5418a34e3085a1032d661490e.html" title="platform" alt="" coords="266,159,345,207"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000031_000006.html" title="7" alt="" coords="130,145,140,160"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000031_000015.html" title="2" alt="" coords="197,133,206,148"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000031_000025.html" title="5" alt="" coords="265,133,274,148"/>
-<area shape="rect" id="node5" href="dir_b28527f7296a967f8a7c4eafddc2d422.html" title="component" alt="" coords="38,63,133,111"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000010_000006.html" title="2" alt="" coords="92,133,101,147"/>
-<area shape="rect" id="node6" href="dir_baf1b5e133ff5235a8fdc89b86d57912.html" title="tinyxml2" alt="" coords="381,63,461,111"/>
-<area shape="rect" id="edge5-headlabel" href="dir_000035_000025.html" title="2" alt="" coords="348,146,358,161"/>
-<area shape="rect" id="node7" href="dir_ae362e177cfbaa0adc3369120e953f8f.html" title="user_default" alt="" coords="254,63,357,111"/>
-<area shape="rect" id="edge6-headlabel" href="dir_000037_000025.html" title="1" alt="" coords="309,133,318,148"/>
-<area shape="rect" id="clust2" href="dir_b541ff8c9aa3fa5812a9c807680842bb.html" alt="" coords="27,52,472,121"/>
-<area shape="rect" id="clust1" href="dir_b2885435f78d14023ac06719456afc50.html" title="cocos2dx" alt="" coords="16,16,483,217"/>
+<area shape="rect" id="node1" href="dir_0ffc90e37b15a3085244dc84c419f433.html" title="cocoa" alt="" coords="63,136,123,161"/>
+<area shape="rect" id="node2" href="dir_27ef4e836ed14d41bc908bfe408a729b.html" title="include" alt="" coords="157,136,227,161"/>
+<area shape="rect" id="node3" href="dir_605373d5418a34e3085a1032d661490e.html" title="platform" alt="" coords="263,136,342,161"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000031_000006.html" title="7" alt="" coords="124,125,134,139"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000031_000015.html" title="2" alt="" coords="196,110,205,125"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000031_000025.html" title="5" alt="" coords="269,112,279,126"/>
+<area shape="rect" id="node5" href="dir_b28527f7296a967f8a7c4eafddc2d422.html" title="component" alt="" coords="38,63,133,88"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000010_000006.html" title="2" alt="" coords="94,110,103,124"/>
+<area shape="rect" id="node6" href="dir_baf1b5e133ff5235a8fdc89b86d57912.html" title="tinyxml2" alt="" coords="379,63,459,88"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000035_000025.html" title="2" alt="" coords="337,126,346,141"/>
+<area shape="rect" id="node7" href="dir_ae362e177cfbaa0adc3369120e953f8f.html" title="user_default" alt="" coords="251,63,354,88"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000037_000025.html" title="1" alt="" coords="306,110,316,125"/>
+<area shape="rect" id="clust2" href="dir_b541ff8c9aa3fa5812a9c807680842bb.html" alt="" coords="27,52,469,99"/>
+<area shape="rect" id="clust1" href="dir_b2885435f78d14023ac06719456afc50.html" title="cocos2dx" alt="" coords="16,16,480,172"/>
 </map>
