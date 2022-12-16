@@ -172,9 +172,12 @@ public:
     */
     bool saveToFile(const char *pszFilePath, bool bIsToRGB = true);
 
-    CC_SYNTHESIZE_READONLY(unsigned short,   m_nWidth,       Width);
-    CC_SYNTHESIZE_READONLY(unsigned short,   m_nHeight,      Height);
-    CC_SYNTHESIZE_READONLY(int,     m_nBitsPerComponent,   BitsPerComponent);
+    //CC_SYNTHESIZE_READONLY(unsigned short,   m_nWidth,       Width);
+    //CC_SYNTHESIZE_READONLY(unsigned short,   m_nHeight,      Height);
+    //CC_SYNTHESIZE_READONLY(int,     m_nBitsPerComponent,   BitsPerComponent);
+    protected: unsigned short m_nWidth; public: unsigned short getWidth(void) const { return m_nWidth; }
+    protected: unsigned short m_nHeight; public: unsigned short getHeight(void) const { return m_nHeight; }
+    protected: int m_nBitsPerComponent; public: int getBitsPerComponent(void) const { return m_nBitsPerComponent; }
 
 protected:
     bool _initWithJpgData(void *pData, int nDatalen);
