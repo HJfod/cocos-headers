@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0.0)
 
 project(cocos-headers CXX)
 
-add_library(cocos2d INTERFACE)
+add_library(cocos2d STATIC INTERFACE)
 
 target_include_directories(cocos2d INTERFACE 
   cocos2dx
